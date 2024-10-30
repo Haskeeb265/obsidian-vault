@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "729f54fdd0669601",
+        "id": "07d6087980586a66",
         "type": "tabs",
         "children": [
           {
-            "id": "ece6e779dee7fe52",
+            "id": "9023a038ad08042e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,11 @@
   },
   "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
-    "3 - Main Notes/University/Untitled",
+    "Templates/Untitled",
+    "3 - Main Notes/University/Big Data Analytics/Untitled.md",
+    "2 - Goals/2.1 - CyberSecurity.md",
+    "3 - Main Notes/University/Numerical Analysis",
+    "3 - Main Notes/University/Entreprenuership",
     "3 - Main Notes/University/Big Data Analytics",
     "3 - Main Notes/University/Information Security",
     "3 - Main Notes/University/Software Project Management",
@@ -166,12 +170,9 @@
     "3 - Main Notes/University/SPM",
     "3 - Main Notes/University",
     "3 - Main Notes/University/Courses",
-    "3 - Main Notes/University",
     "Untitled.md",
-    "2 - Goals/2.1 - CyberSecurity.md",
     "Templates/dasd.md",
     "2 - Goals/2.2 - Language.md",
-    "Templates",
     "1 - Rough Notes/Untitled.md",
     "Welcome.md"
   ]
