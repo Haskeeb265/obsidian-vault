@@ -28,8 +28,14 @@ The third step of cost management is **Cost Budgeting**. In this step the costs 
 If for example your project budget is $4 million, the sponsor or the client wouldn't give you those $4 million straight away. He would periodically give you the money when the need of those funds arrive
 
 The **Baseline Cost** is used as a reference point for measuring if the project's progress is Optimal or not.
-Basline is basically a reference point to determine if the project is doing good, as intended, or bad? Good = Below the baseline As intended = On the baseline Bad = Over the baseline
+Basline Cost is basically a reference point to determine if the project is doing good, as intended, or bad? Good = Below the baseline As intended = On the baseline Bad = Over the baseline
 
+#### **EARNED VALUE ANALYSIS:
+EVA indicates the value of the project's progress.
+It requires 3 elements for its calculation:
+1. Planned Value: Budget specified for the work scheduled to be completed 
+2. Earned Value: Monetary value of the progress of work that is compl
+3. Actual Cost:
 
 
 #### References
