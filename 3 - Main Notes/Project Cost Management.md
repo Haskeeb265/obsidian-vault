@@ -27,7 +27,8 @@ The third step of cost management is **Cost Budgeting**. In this step the costs 
 | Time-based project budget. By time-based it means that the cost which was scheduled for a certain time would only be handed to you at that particular stage of the project. | A prediction of what WOULD be the budget of the project |
 If for example your project budget is $4 million, the sponsor or the client wouldn't give you those $4 million straight away. He would periodically give you the money when the need of those funds arrive
 
-The **Baseline Cost** is used as a reference point for measuring if the project's progress is Optimal or not. For example if your baseline cost is $1 million and your project is done with
+The **Baseline Cost** is used as a reference point for measuring if the project's progress is Optimal or not.
+Basline is basically a reference point to determine if the project is doing good, as intended, or bad? Good = Below the baseline As intended = On the baseline Bad = Over the baseline
 
 
 
