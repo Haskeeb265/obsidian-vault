@@ -11,10 +11,14 @@
             "id": "5bded993966fb690",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/University.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "University"
             }
           }
         ]
@@ -157,8 +161,8 @@
   },
   "active": "5bded993966fb690",
   "lastOpenFiles": [
-    "3 - Main Notes/Untitled.md",
-    "Templates/Untitled.md",
+    "3 - Main Notes/Cost Management.md",
+    "Templates/University.md",
     "Tags/learn.md",
     "3 - Main Notes/dasasdasd.md",
     "3 - Main Notes/University/Big Data Analytics/Untitled.md",
