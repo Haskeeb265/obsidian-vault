@@ -20,7 +20,12 @@ For the cost management process to begin, you first need to have a clarity on wh
 
 The second step is **Estimation Cost**. In cost estimation you use estimation techniques to predict how much each activity of the project would cost.
 
-The third step of cost management is **Cost Budgeting** 
+The third step of cost management is **Cost Budgeting**. In this step the costs are assigned across the project timeline. Each cost will be incurred only on the time it is blocked to. In this step a document is prepared. A financial documents.
+
+| Cost Baseline | Project Budget                                          |
+| ------------- | ------------------------------------------------------- |
+|               | A prediction of what WOULD be the budget of the project |
+
 
 
 
