@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4edced34a8c4999e",
+        "id": "1daa5e445a1ddd16",
         "type": "tabs",
         "children": [
           {
-            "id": "5bded993966fb690",
+            "id": "42723da810dbc21f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,9 +159,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bded993966fb690",
+  "active": "42723da810dbc21f",
   "lastOpenFiles": [
-    "3 - Main Notes/Cost Management.md",
+    "3 - Main Notes/Cost ManagementCost Management.md",
     "Templates/University.md",
     "Tags/learn.md",
     "3 - Main Notes/dasasdasd.md",

@@ -1,11 +1,11 @@
 
-2024-10-30 20:00
+{{date}} {{time}}
 
 - [ ] Status: 
 
 Tags:
 
-# Title
+# {{Title}}
 
 
 
