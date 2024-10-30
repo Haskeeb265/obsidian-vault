@@ -1,7 +1,7 @@
 
 {{date}} {{time}}
 
-- [ ] Status: 
+Status: #Started , #InProgress , #Finished 
 
 Tags:
 
