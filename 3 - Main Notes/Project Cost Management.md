@@ -7,7 +7,14 @@ Tags: [[cost management]] [[project management]]
 
 # Project Cost Management
 
-Following are the 
+For the cost management process to begin, you first need to have a clarity on what your project scope is, what timelines you've decided, and what deliverables you'll be giving to your client. **Resource Management** is the first step in project cost management.
+
+**Resources**
+1. Staffing
+2. Equipment
+3. Marketing
+4. Training
+5. Miscellaneous items
 
 
 
