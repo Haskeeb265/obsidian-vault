@@ -11,10 +11,14 @@
             "id": "9023a038ad08042e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "learn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "learn"
             }
           }
         ]
@@ -155,9 +159,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a2f57f4d96c3a2",
+  "active": "9023a038ad08042e",
   "lastOpenFiles": [
-    "Untitled",
+    "3 - Main Notes/University/Big Data Analytics/Untitled.md",
+    "learn.md",
+    "5 - Goals",
     "2 - Source Material/Others",
     "2 - Source Material/Books",
     "2 - Source Material/Podcasts",
@@ -166,11 +172,8 @@
     "Untitled 1",
     "2 - Source Material",
     "Templates/Untitled",
-    "3 - Main Notes/University/Big Data Analytics/Untitled.md",
     "2 - Goals/2.1 - CyberSecurity.md",
     "3 - Main Notes/University/Numerical Analysis",
-    "3 - Main Notes/University/Entreprenuership",
-    "Untitled.md",
     "Templates/dasd.md",
     "2 - Goals/2.2 - Language.md",
     "1 - Rough Notes/Untitled.md",
