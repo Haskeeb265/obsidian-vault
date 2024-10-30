@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a19769f4d5444ea8",
+        "id": "729f54fdd0669601",
         "type": "tabs",
         "children": [
           {
-            "id": "8e003fddec21f4a5",
+            "id": "ece6e779dee7fe52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Goals/2.1 - CyberSecurity.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2.1 - CyberSecurity"
+              "title": "New tab"
             }
           }
         ]
@@ -161,6 +157,8 @@
   },
   "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
+    "3 - Main Notes/University/Untitled",
+    "3 - Main Notes/University/Big Data Analytics",
     "3 - Main Notes/University/Information Security",
     "3 - Main Notes/University/Software Project Management",
     "3 - Main Notes/University/I",
@@ -175,8 +173,6 @@
     "2 - Goals/2.2 - Language.md",
     "Templates",
     "1 - Rough Notes/Untitled.md",
-    "4 - Journal",
-    "Indexes",
     "Welcome.md"
   ]
 }
