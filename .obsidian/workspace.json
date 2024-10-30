@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "07d6087980586a66",
+        "id": "4edced34a8c4999e",
         "type": "tabs",
         "children": [
           {
-            "id": "9023a038ad08042e",
+            "id": "5bded993966fb690",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "learn"
+              "title": "New tab"
             }
           }
         ]
@@ -159,10 +155,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9023a038ad08042e",
+  "active": "5bded993966fb690",
   "lastOpenFiles": [
+    "3 - Main Notes/Untitled.md",
+    "Templates/Untitled.md",
+    "Tags/learn.md",
+    "3 - Main Notes/dasasdasd.md",
     "3 - Main Notes/University/Big Data Analytics/Untitled.md",
-    "learn.md",
     "5 - Goals",
     "2 - Source Material/Others",
     "2 - Source Material/Books",
