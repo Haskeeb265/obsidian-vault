@@ -52,7 +52,14 @@ Following are the analysis that we do with the above 3 elements:
    - SPI = 0.5 = Half of the task has been done
    - SPI = 1 = Task on schedule
    - SPI = 2 = Twice the task has been performed then it was suppose to.
-3.  
+> [!NOTE] **SPI vs SV**
+> The major difference between SPI and SV is that SPI is a ratio which tells us about the progress of our activities whereas SV tells us in ABSOLUTE how ahead or far we are from our schedule
+3. **Cost Variance**: CV tells us how over or under budget the project is
+   CV = EV - AC
+   - If CV < 0 = Task is over budget
+   - If CV = 0 = Task is on budget
+   - If CV > 0 = Task is under budget
+4. 
 
 
 
