@@ -45,7 +45,14 @@ Following are the analysis that we do with the above 3 elements:
    - If SV is +ve, your project is AHEAD of schedule
 2. **Schedule Performance Index**: SPI tells you how EFFICIENTLY you're using your time.
    SPI = EV / PV
-   - If SPI is less than 0, 
+   - If SPI is less than 0, the TASK is BEHIND schedule
+   - If SPI is 0, the TASK is on schedule
+   - If SPI is greater than 1, the TASK is ahead of schedule.
+   - SPI = 0 = Task has not started
+   - SPI = 0.5 = Half of the task has been done
+   - SPI = 1 = Task on schedule
+   - SPI = 2 = Twice the task has been performed then it was suppose to.
+3.  
 
 
 
