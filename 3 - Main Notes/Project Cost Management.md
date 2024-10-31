@@ -37,7 +37,13 @@ It requires 3 elements for its calculation:
 2. Earned Value **(EV)** : Monetary value of the progress of work that is completed *(Example in source material)* 
 3. Actual Cost **(AC)**: Actual cost that is spent on the project or a specific work/activity.*(Example in source material)*
 
-
+Following are the analysis that we do with the above 3 elements:
+1. **Schedule Variance**: SV tells you how ahead or behind schedule your project is.
+   SV = EV - PV
+   - If SV is -ve, your project is BEHIND schedule
+   - If SV is 0, your project is ON schedule
+   - If SV is +ve, your project is AHEAD of schedule
+2. **Schedule Performance Index**: 
 
 
 
