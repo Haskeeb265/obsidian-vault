@@ -1,4 +1,7 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "3 - Main Notes"
+  "newFileFolderPath": "3 - Main Notes",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
