@@ -11,14 +11,28 @@
             "id": "a077523da0785a24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6abc2acb32cd089b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e50d099a3455fd72",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-                "file": "2 - Source Material/Others/SPM LECTURE WEEK-6 7th Semester (Bahria University).md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf"
               },
-              "icon": "lucide-file",
-              "title": "SPM LECTURE WEEK-6 7th Semester (Bahria University)"
+              "icon": "lucide-file-text",
+              "title": "Bahria University 7th Semester Software Project Management Week 6 Lecture"
             }
           }
         ]
@@ -140,13 +154,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "a0ab26e9e2ef39eb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,13 +185,13 @@
   },
   "active": "a077523da0785a24",
   "lastOpenFiles": [
-    "2 - Source Material/Others/SPM-Week-6-Fall-2024-28102024-111152pm.pdf",
-    "2 - Source Material/Others/SPM LECTURE WEEK-6 7th Semester (Bahria University).md",
     "3 - Main Notes/Project Cost Management.md",
-    "1 - Rough Notes/Rough note.md",
-    "Tags/project management.md",
     "Tags/cost management.md",
     "Templates/University.md",
+    "Tags/project management.md",
+    "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf",
+    "2 - Source Material/Others/SPM LECTURE WEEK-6 7th Semester (Bahria University).md",
+    "1 - Rough Notes/Rough note.md",
     "Tags/learn.md",
     "3 - Main Notes/Cost ManagementCost Management.md",
     "3 - Main Notes/dasasdasd.md",
