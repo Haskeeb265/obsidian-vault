@@ -43,7 +43,9 @@ Following are the analysis that we do with the above 3 elements:
    - If SV is -ve, your project is BEHIND schedule
    - If SV is 0, your project is ON schedule
    - If SV is +ve, your project is AHEAD of schedule
-2. **Schedule Performance Index**: 
+2. **Schedule Performance Index**: SPI tells you how EFFICIENTLY you're using your time.
+   SPI = EV / PV
+   - If SPI is less than 0, 
 
 
 
