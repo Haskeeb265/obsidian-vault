@@ -33,9 +33,9 @@ Baseline Cost is basically a reference point to determine if the project is doin
 #### **EARNED VALUE ANALYSIS:
 EVA indicates the value of the project's progress.
 It requires 3 elements for its calculation:
-1. Planned Value (PV): Budget specified for the work scheduled to be completed 
-2. Earned Value : Monetary value of the progress of work that is completed
-3. Actual Cost: Actual cost that is spent on the project or a specific work/activity.
+1. Planned Value **(PV)**: Budget specified for the work scheduled to be completed 
+2. Earned Value **(EV)** : Monetary value of the progress of work that is completed
+3. Actual Cost **(AC)**: Actual cost that is spent on the project or a specific work/activity.
 
 
 
