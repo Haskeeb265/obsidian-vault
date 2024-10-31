@@ -1,7 +1,7 @@
 
 2024-10-30 20:53
 
-Status: #InProgress 
+Status: #Finished 
 
 Tags: [[cost management]] [[project management]] 
 
@@ -59,7 +59,11 @@ Following are the analysis that we do with the above 3 elements:
    - If CV < 0 = Task is over budget
    - If CV = 0 = Task is on budget
    - If CV > 0 = Task is under budget
-4. 
+4. **Cost Performance Index**: CPI tells us how efficiently we're using our resources
+   CPI = EV / AC
+   - CPI < 0 = Task is over budget
+   - CPI = 0 = Task is on budget
+   - CPI > 0 = Task is under budget
 
 
 

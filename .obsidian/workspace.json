@@ -6,7 +6,6 @@
       {
         "id": "6abc2acb32cd089b",
         "type": "tabs",
-        "dimension": 56.38297872340425,
         "children": [
           {
             "id": "e50d099a3455fd72",
@@ -20,25 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Project Cost Management"
-            }
-          }
-        ]
-      },
-      {
-        "id": "38abfd11855036de",
-        "type": "tabs",
-        "dimension": 43.61702127659575,
-        "children": [
-          {
-            "id": "e5ee6c99723a9c90",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Bahria University 7th Semester Software Project Management Week 6 Lecture"
             }
           }
         ]
@@ -93,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
