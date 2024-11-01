@@ -11,7 +11,7 @@ In the digital world, your data and your information is the most valuable asset.
 
 Information doesn't need to be secure only when it's **stored**. Rather it should also be kept safe when it's **transmitting and processed**.
 
-Information security is basically protection of **Confidentiality, Integrity, and Availability** of our digital assets. This can be done via the implementation of **technology, policy, education, training, and awarness**.
+Information security is basically protection of **Confidentiality, Integrity, and Availability** of our digital assets. This can be done via the implementation of **technology, policy, education, training, and awareness**.
 
 
 
