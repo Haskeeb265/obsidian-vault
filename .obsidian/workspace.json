@@ -6,6 +6,7 @@
       {
         "id": "abd5c87f7d2de7c1",
         "type": "tabs",
+        "dimension": 56.59574468085107,
         "children": [
           {
             "id": "581eb1fa373ada04",
@@ -19,6 +20,25 @@
               },
               "icon": "lucide-file",
               "title": "Introduction to Information Security"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7cfaccb1df0e4602",
+        "type": "tabs",
+        "dimension": 43.40425531914894,
+        "children": [
+          {
+            "id": "251ca0a68115dfa3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Bahria University 7th Semester Lecture 1 Information Security"
             }
           }
         ]
@@ -77,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -174,10 +195,10 @@
   },
   "active": "581eb1fa373ada04",
   "lastOpenFiles": [
+    "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf",
+    "3 - Main Notes/Introduction to Information Security.md",
     "3 - Main Notes/Project Cost Management.md",
     "Templates/University.md",
-    "3 - Main Notes/Introduction to Information Security.md",
-    "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf",
     "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf",
     "Tags/computer security.md",
     "Tags/cybersecurity.md",
