@@ -11,14 +11,12 @@
             "id": "581eb1fa373ada04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Main Notes/Introduction to Information Security.md",
-                "mode": "source",
-                "source": false
+                "file": "1-Intro-IS-CSC407-BSE-Fall2024-18092024-090156am.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Introduction to Information Security"
+              "icon": "lucide-file-text",
+              "title": "1-Intro-IS-CSC407-BSE-Fall2024-18092024-090156am"
             }
           }
         ]
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -175,8 +172,9 @@
   },
   "active": "581eb1fa373ada04",
   "lastOpenFiles": [
-    "Tags/computer security.md",
     "3 - Main Notes/Introduction to Information Security.md",
+    "1-Intro-IS-CSC407-BSE-Fall2024-18092024-090156am.pdf",
+    "Tags/computer security.md",
     "3 - Main Notes/Project Cost Management.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/2024-11-01.md",
@@ -199,7 +197,6 @@
     "2 - Source Material/Articles",
     "Untitled 1",
     "2 - Source Material",
-    "Templates/Untitled",
     "2 - Goals/2.1 - CyberSecurity.md",
     "Templates/dasd.md",
     "2 - Goals/2.2 - Language.md",

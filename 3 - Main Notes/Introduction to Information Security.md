@@ -8,7 +8,7 @@ Tags:
 # Introduction to Information Security
 
 
-
+![[1-Intro-IS-CSC407-BSE-Fall2024-18092024-090156am.pdf]]
 
 
 #### References
