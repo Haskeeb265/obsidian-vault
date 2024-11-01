@@ -69,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "581eb1fa373ada04",
+  "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
     "3 - Main Notes/2024-11-01.md",
     "Untitled.canvas",
