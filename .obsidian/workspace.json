@@ -11,12 +11,14 @@
             "id": "581eb1fa373ada04",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1-Intro-IS-CSC407-BSE-Fall2024-18092024-090156am.pdf"
+                "file": "3 - Main Notes/Introduction to Information Security.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1-Intro-IS-CSC407-BSE-Fall2024-18092024-090156am"
+              "icon": "lucide-file",
+              "title": "Introduction to Information Security"
             }
           }
         ]
@@ -172,14 +174,14 @@
   },
   "active": "581eb1fa373ada04",
   "lastOpenFiles": [
-    "3 - Main Notes/Introduction to Information Security.md",
-    "1-Intro-IS-CSC407-BSE-Fall2024-18092024-090156am.pdf",
-    "Tags/computer security.md",
     "3 - Main Notes/Project Cost Management.md",
+    "3 - Main Notes/Introduction to Information Security.md",
+    "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf",
+    "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf",
+    "Tags/computer security.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/2024-11-01.md",
     "Untitled.canvas",
-    "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf",
     "Tags/cost management.md",
     "Templates/University.md",
     "Tags/project management.md",
