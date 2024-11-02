@@ -30,7 +30,14 @@ We need to rely on cyber security because:
 2. Computers involved in too many of our daily tasks
 3. More networks = More area to be exploited
 
-Following are the 
+Following are the few impacts of the security breaches of your system:
+1. Loss of reputation
+2. Low client loyalty
+3. Low investor confidence
+4. Legal action
+5. Monetary loss
+
+
 
 #### References
 [[Bahria University 7th Semester Lecture 1 Information Security.pdf]]
