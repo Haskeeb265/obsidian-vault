@@ -19,7 +19,6 @@ Information security is basically protection of **Confidentiality, Integrity, an
 
 When we talk about **Security** in information security, we use that term in the sense of **minimizing** the **vulnerabilities**. 
 
-
-
+Vulnerability is basically ANY weakness that can be **exploited** by an atta
 #### References
 [[Bahria University 7th Semester Lecture 1 Information Security.pdf]]
