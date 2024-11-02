@@ -52,7 +52,7 @@ These are:
 
 ---
 
-# CIA TRIAD
+# CIA Triad
 The CIA Triad is the goals which we need to upheld and look after whenever we're implementing security. Following are the goals that are in CIA triad:
 1. **Confidentiality** = Maintaining data secret such that only the intended parties can read it
 2. **Integrity** = Keeping the data sent and received authentic without any modification or destruction
@@ -60,8 +60,16 @@ The CIA Triad is the goals which we need to upheld and look after whenever we're
 
 
 > [!NOTE] Nonrepudiation
-> When a Sender sends a message and then denies it or when a reciever receives a message and then denies it. Nonrepudiation protects both parties in this case. It helps with authen
+> When a Sender sends a message and then denies it or when a receiver receives a message and then denies it. Nonrepudiation protects both parties in this case. It helps with **authenticity and accountability** (additional security goals)
 
+---
+
+# Classification of Attacks
+There are 2 methods of attacking.
+## Method #1:
+**Passive Attacks**:
+- The attacker doesn't directly in
+**Active Attacks**:
 
 
 
