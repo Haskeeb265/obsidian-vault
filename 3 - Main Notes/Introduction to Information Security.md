@@ -68,8 +68,12 @@ The CIA Triad is the goals which we need to upheld and look after whenever we're
 There are 2 methods of attacking.
 ## Method #1:
 **Passive Attacks**:
-- The attacker doesn't directly in
+- The attacker doesn't directly interact with the parties involved
+- Attacker attempts to intercept the **transmitted** message.
+- Methods of passive attacks are **spoofing and eavesdropping**
+- Passive attacks are almost impossible to detect since neither the sender nor the receiver knows that their message is being interrupted. Hence this is why messages are sent **encrypted**. When dealing with passive attacks, emphasis on **prevention** rather than **detection**
 **Active Attacks**:
+- 
 
 
 
