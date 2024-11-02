@@ -79,7 +79,7 @@ There are 2 methods of attacking.
 	3. **Modification**: Modification is when a message, a part of the message is either altered, reordered, or delayed to produce an unauthorized effect
 	4. **DOS**: Denial Of Service prevents the legitimate users from accessing a service. Attackers achieve this by bombarding the servers with GB/s of requests continuously.
 
-Active attacks are hard to **prevents** because there are 
+Active attacks are hard to **prevents** because there are so many vulnerabilities. That's why we **detect** active attacks and then minimize the disruptions caused 
 
 
 
