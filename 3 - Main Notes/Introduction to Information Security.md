@@ -37,7 +37,9 @@ Following are the few impacts of the security breaches of your system:
 4. Legal action
 5. Monetary loss
 
+---
 
+Another sub domain of Information Security is **Data Security**. It is responsible for the safe keeping of 
 
 #### References
 [[Bahria University 7th Semester Lecture 1 Information Security.pdf]]
