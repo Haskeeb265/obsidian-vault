@@ -83,7 +83,7 @@ Active attacks are hard to **prevents** because there are so many vulnerabilitie
 
 ## Method #2:
 **Direct Attacks**:
-- 
+- An attack done by a hacker 
 
 
 
