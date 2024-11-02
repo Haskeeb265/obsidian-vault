@@ -39,7 +39,15 @@ Following are the few impacts of the security breaches of your system:
 
 ---
 
-Another sub domain of Information Security is **Data Security**. It is responsible for the safe keeping of 
+# Database Security
+Another sub domain of Information Security is **Data Security**. It is responsible for the safe keeping of our information. The value of our data motivates the attacker to steal, sabotage, or corrupt it.
+
+*Maintaining CIA triad of our data in the **DBMS** is called Database security.*
+
+Database security can be implemented by with the help of **control approaches**
+
+
+
 
 #### References
 [[Bahria University 7th Semester Lecture 1 Information Security.pdf]]
