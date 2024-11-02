@@ -48,7 +48,7 @@ Database security can be implemented by with the help of **control approaches**.
 These are:
 1. Managerial Controls => Policy implementation and Governance. 
 2. Physical Controls => Isolating the servers on a room with locked doors and other necessary physical security requirements 
-3. Technical Controls => 
+3. Technical Controls => Access control, backup, auth
 
 
 
