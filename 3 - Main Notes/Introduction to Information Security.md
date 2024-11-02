@@ -82,7 +82,8 @@ There are 2 methods of attacking.
 Active attacks are hard to **prevents** because there are so many vulnerabilities. That's why we **detect** active attacks and then minimize the disruptions caused by it.
 
 ## Method #2:
-**Direct Attacks**
+**Direct Attacks**:
+- 
 
 
 
