@@ -14,7 +14,7 @@ Information doesn't need to be secure only when it's **stored**. Rather it shoul
 Information security is basically protection of **Confidentiality, Integrity, and Availability** of our digital assets. This can be done via the implementation of **technology, policy, education, training, and awareness**.
 
 
-> [!NOTE] According to 
+> 	[!NOTE] According to 
 > Contents
 
 
