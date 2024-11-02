@@ -73,7 +73,11 @@ There are 2 methods of attacking.
 - Methods of passive attacks are **spoofing and eavesdropping**
 - Passive attacks are almost impossible to detect since neither the sender nor the receiver knows that their message is being interrupted. Hence this is why messages are sent **encrypted**. When dealing with passive attacks, emphasis on **prevention** rather than **detection**
 **Active Attacks**:
-- 
+- Attacker directly interacts with the machine. There are 4 types of active attacks
+	1. **Masquerade**: Masquerading is when the attacker impersonates someone to get information out of you through social engineering.
+	2. **Replay**: Replay is when the attacker resends a captured packet with the intention of producing an unauthorized effect to the system
+	3. **Modification**: Modification is when a message, a part of the message is either altered, reordered, or delayed to produce an unauthorized effect
+	4. **DOS**: Denial Of Service prevents the legitimate users from accessing a service. Attackers achieve this by bom
 
 
 
