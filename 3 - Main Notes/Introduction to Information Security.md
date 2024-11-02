@@ -83,7 +83,9 @@ Active attacks are hard to **prevents** because there are so many vulnerabilitie
 
 ## Method #2:
 **Direct Attacks**:
-- An attack done by a hacker 
+- An attack done by a hacker who directly attacks from his PC to break into a system
+**Indirect Attacks**:
+- When an attacker uses someone else's machine to attack other systems. **Botnets**
 
 
 
