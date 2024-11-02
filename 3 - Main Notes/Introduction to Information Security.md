@@ -44,7 +44,9 @@ Another sub domain of Information Security is **Data Security**. It is responsib
 
 *Maintaining CIA triad of our data in the **DBMS** is called Database security.*
 
-Database security can be implemented by with the help of **control approaches**
+Database security can be implemented by with the help of **control approaches**.
+These are:
+1. 
 
 
 
