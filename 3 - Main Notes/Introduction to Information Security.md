@@ -54,9 +54,13 @@ These are:
 
 # CIA TRIAD
 The CIA Triad is the goals which we need to upheld and look after whenever we're implementing security. Following are the goals that are in CIA triad:
-1. **Confidentiality:
-2. **Integrity**
-3. **Availability**
+1. **Confidentiality** = Maintaining data secret such that only the intended parties can read it
+2. **Integrity** = Keeping the data sent and received authentic without any modification or destruction
+3. **Availability** = Timely access to the entities (services) when needed
+
+
+> [!NOTE] Nonrepudiation
+> When a Sender sends a message and then denies it or when a reciever receives a message and then denies it. Nonrepudiation protects both parties in this case. It helps with authen
 
 
 
