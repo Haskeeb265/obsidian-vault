@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "abd5c87f7d2de7c1",
+        "id": "cf2fa57394a66eba",
         "type": "tabs",
-        "dimension": 47.66666666666667,
         "children": [
           {
-            "id": "581eb1fa373ada04",
+            "id": "a077523da0785a24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Introduction to Information Security.md",
+                "file": "3 - Main Notes/Project Cost Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Information Security"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7cfaccb1df0e4602",
-        "type": "tabs",
-        "dimension": 52.33333333333333,
-        "children": [
-          {
-            "id": "251ca0a68115dfa3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Bahria University 7th Semester Lecture 1 Information Security"
+              "title": "Project Cost Management"
             }
           }
         ]
@@ -157,25 +137,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 - Main Notes/Project Cost Management.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Project Cost Management"
-            }
-          },
-          {
-            "id": "a0ab26e9e2ef39eb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,27 +160,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "581eb1fa373ada04",
+  "active": "a077523da0785a24",
   "lastOpenFiles": [
-    "3 - Main Notes/Introduction to Information Security.md",
-    "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf",
-    "3 - Main Notes/Project Cost Management.md",
-    "Templates/University.md",
-    "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf",
-    "Tags/computer security.md",
     "Tags/cybersecurity.md",
-    "3 - Main Notes/2024-11-01.md",
-    "Untitled.canvas",
-    "Tags/cost management.md",
-    "Tags/project management.md",
-    "2 - Source Material/Others/SPM LECTURE WEEK-6 7th Semester (Bahria University).md",
+    "Tags/computer security.md",
+    "3 - Main Notes/Introduction to Information Security.md",
+    "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf",
+    "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf",
+    "2 - Source Material/Others",
     "1 - Rough Notes/Rough note.md",
+    "Tags/project management.md",
+    "3 - Main Notes/Project Cost Management.md",
+    "Tags/cost management.md",
+    "Templates/University.md",
     "Tags/learn.md",
     "3 - Main Notes/Cost ManagementCost Management.md",
     "3 - Main Notes/dasasdasd.md",
     "3 - Main Notes/University/Big Data Analytics/Untitled.md",
     "5 - Goals",
-    "2 - Source Material/Others",
     "2 - Source Material/Books",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
