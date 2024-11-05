@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ac060548af93519b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2698d74668139ca",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Others/MapReduce University Lecture.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "MapReduce University Lecture"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
