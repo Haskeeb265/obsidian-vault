@@ -26,8 +26,14 @@ Hadoop was designed to answer the question:
 
 > [!NOTE] Hadoop Architecture 
 > - **NameNode**: The primary job of NameNode is to manage the metadata of all the files and directories. The NameNode also knows which DataNode holds the data blocks of each file.
+>   
 >   The **MetaData** is data about the data. User logs, information regarding the stored data; where its stored, how big it is and so on. NameNode uses this information to find the closest DataNode for faster communication. NameNode also instructs DataNode regarding creation, deletion, and replication.
->   For Fault-Tolerance, NameNode uses *heartbeats* of the blocks and manages the Replication (by default its 3) incase any block fails. 
+>   
+>   For Fault-Tolerance, NameNode uses *heartbeats* of the blocks and manages the Replication (by default its 3) incase any block fails. Heartbeat is basically a signal from the DataNode to the NameNode which reassures NameNode that that DataNode is available for service
+>   
+>   The secondary NameNode is used to achieve availability. The secondary NameNode synchronizes with the primary NameNode and takes over incase the MasterNode fails causing minimum downtime 
+>   
+>   Usually the 1st replica is stored in the same node as the client making request. The 2nd replica is stored in a different rack incase the first rack fails. The 3rd replica is stored in the same rack as the 1st one allowing fast communication
 >   
 > - **DataNode**: 
 
