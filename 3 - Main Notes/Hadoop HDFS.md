@@ -21,7 +21,7 @@ Hadoop was designed to answer the question:
 - Fault tolerant
 - **Move computation rather than data**
 
-#### Architecture of Hadoop
+#### Architecture of HDFS
 ![[Pasted image 20241105173914.png]]
 
 > [!NOTE] Hadoop Architecture 
@@ -37,6 +37,8 @@ Hadoop was designed to answer the question:
 >   
 > - **DataNode**: Responsible for the actual storage of the data. DataNode sends *heartbeats* to the NameNode to let it know that its available for service. The DataNode also sends a *block report*. This stores the list of all the blocks stored in the DataNode. It sends this report to NameNode every once an hour so that NameNode can quickly identify which blocks were lost incase of a DataNode failure.
 
+
+#### MapReduce
 
 
 #### References
