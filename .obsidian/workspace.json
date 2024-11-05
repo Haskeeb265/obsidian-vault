@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68d97651516ec191",
+        "id": "532f7df862189c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "a194245df076af36",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Others/GFS University Lecture Big Data Analytics.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GFS University Lecture Big Data Analytics"
-            }
-          },
-          {
-            "id": "835d67c1fa274b9c",
+            "id": "c226567e87ab40e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,25 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Google File System"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "af057f37b7eb2bd3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "836899ab2c681f07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Others/GFS University Lecture Big Data Analytics.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GFS University Lecture Big Data Analytics"
             }
           }
         ]
@@ -83,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#InProgress",
+                "query": "big",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,12 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -191,10 +160,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "835d67c1fa274b9c",
+  "active": "5bdb1fdce45af96d",
   "lastOpenFiles": [
-    "2 - Source Material/Others/GFS University Lecture Big Data Analytics.pdf",
     "3 - Main Notes/Google File System.md",
+    "2 - Source Material/Others/GFS Architecture University Lecture Big Data Analytics.pdf",
+    "2 - Source Material/Others/GFS University Lecture Big Data Analytics.pdf",
     "3 - Main Notes/Advanced Big Data Analytics.md",
     "3 - Main Notes/Hadoop HDFS and MapReduce().md",
     "3 - Main Notes/Introduction to Information Security.md",
@@ -224,7 +194,6 @@
     "3 - Main Notes/University/Big Data Analytics/Untitled.md",
     "5 - Goals",
     "2 - Source Material/Books",
-    "2 - Source Material/Podcasts",
     "2 - Goals/2.1 - CyberSecurity.md",
     "Templates/dasd.md",
     "2 - Goals/2.2 - Language.md",

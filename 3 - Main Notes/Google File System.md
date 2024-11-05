@@ -1,7 +1,7 @@
 
 2024-11-06 04:21
 
-Status: #InProgress 
+Status: #Finished  
 
 Tags: [[big data]] [[storage]] 
 
@@ -26,7 +26,7 @@ Like HDFS, GFS also consists of a single master node and several chunk servers. 
 4. Client makes changes in the primary replica.
 5. The primary replica forwards the changes to the secondary replicas.
 
-GFS has only single MasterNode ()
+GFS has only single MasterNode (No secondary MasterNode). Incase of failure, the MasterNode automatically restarts and uses *"checkpoint"* to restore the last state of the MasterNode. Checkpoint is basically like a snapshot but for the metadata only. 
 
 
 
