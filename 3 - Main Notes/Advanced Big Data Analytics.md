@@ -16,7 +16,21 @@ There are 3 types of data of data structures that we encounter in Big data analy
 2. **Unstructured Data:** Data that does not have any defined structure. This type of data includes media files including images, audio, and video files
 3. **Semi-Structured Data:** Does not rely on rigid tables but still have some organizational attributes. This is with the help of tags and markdowns. For example JSON files and HTML files
 
-### C
+### Characteristics of Big Data
+
+Big data has 3 important characteristics:
+1. **Volume**: The amount of data being generated
+2. **Velocity**: The speed at which the data is being generated
+3. **Variety:** The different type of data that is being generated
+
+Following are the tools that are used for Big data analytics:
+>**MongoDB:** Used for datasets that change frequently
+>**Hadoop: 
+>Talend:
+>Cassandra:
+>Storm:
+>Spark: 
+
 
 
 
