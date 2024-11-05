@@ -37,6 +37,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "c8dacb9180346467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac40caffb6a03f40",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Others/Lecture 1 Advanced Big Data Analytics Bahria University 7th Semester.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 1 Advanced Big Data Analytics Bahria University 7th Semester"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -174,18 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a2f57f4d96c3a2",
+  "active": "e45b614f7870ea58",
   "lastOpenFiles": [
+    "2 - Source Material/Others/Lecture 1 Advanced Big Data Analytics Bahria University 7th Semester.pdf",
+    "3 - Main Notes/Advanced Big Data Analytics.md",
     "3 - Main Notes/Introduction to Information Security.md",
     "3 - Main Notes/Project Cost Management.md",
-    "3 - Main Notes/Advanced Big Data Analytics.md",
     "Tags/data.md",
     "Tags/big data.md",
     "Tags/storage.md",
     "Tags/information.md",
     "3 - Main Notes/Big data.md",
     "2 - Source Material/Others/Lecture 1 Information Security Bahria University 7th Semester.pdf",
-    "2 - Source Material/Others/Lecture 1 Advanced Big Data Analytics Bahria University 7th Semester.pdf",
     "2 - Source Material/Others/Week 6 Lecture Software Project Management Bahria University 7th Semester.pdf",
     "2 - Source Material/Source Material.md",
     "Tags/cybersecurity.md",
