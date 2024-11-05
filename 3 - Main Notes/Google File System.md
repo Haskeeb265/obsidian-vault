@@ -17,7 +17,12 @@ GFS mainly manages 2 types of data.
 1. File Metadata
 2. File Data
 
-Like HDFS, GFS also consists of a single master node and several chunk servers
+Like HDFS, GFS also consists of a single master node and several chunk servers. The only difference is that unlike in HDFS, the client won't have to interact with MasterNode every time it wants to modify any file. 
+
+#### How GFS works?
+1. Client makes request to MasterNode
+2. MasterNode provides client with the metadata of the file chunk it wants to access/modify
+3. Now that the client has the metadata, next time 
 
 
 
