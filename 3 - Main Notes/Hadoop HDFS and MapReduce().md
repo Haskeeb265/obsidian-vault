@@ -52,6 +52,15 @@ MapReduce is the processing unit of Hadoop. It can be broken down into 2 functio
 
 The **Map()** takes input (set of data) and breaks it down into *tuples* (key value pairs). Once the tuples are made, they're shuffled and sorted into values with the same key. The **Reduce()** takes these shuffled tuples as an input and combines the values with the same key applying functions like aggregation and then delivers the output.
 
+The **MapReduce** has 3 main components:
+1. Driver Code
+2. Mapper (For Transformation)
+3. Reducer (For Aggregation)
+
+MapReduce processes the data in parallel by dividing the job into a set of independent tasks (sub-jobs)
+
+Since Hadoop has a major drawback of cross-switch networks, MapReduce introduced the concept of **Data-Locality** which is basically moving the computational operations closer to the data instead of the other way around.
+
 
 #### Applications of Hadoop:
 - Advertisement (Mining user behavior to generate personalized ads)
