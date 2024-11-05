@@ -21,7 +21,7 @@ Hadoop was designed to answer the question:
 - Fault tolerant
 - **Move computation rather than data**
 
-
+#### Architecture of Hadoop
 
 
 
