@@ -23,7 +23,7 @@ Hadoop was designed to answer the question:
 
 #### Architecture of HDFS
 
-![[Pasted image 20241105173914.png]]
+![[HDFS Architecture.png]]
 
 > [!NOTE] Hadoop Architecture 
 > - **NameNode**: The primary job of NameNode is to manage the metadata of all the files and directories. The NameNode also knows which DataNode holds the data blocks of each file.

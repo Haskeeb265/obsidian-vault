@@ -11,10 +11,14 @@
             "id": "a194245df076af36",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Hadoop HDFS and MapReduce().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hadoop HDFS and MapReduce()"
             }
           }
         ]
@@ -157,13 +161,13 @@
   },
   "active": "a194245df076af36",
   "lastOpenFiles": [
+    "HDFS Architecture.png",
     "3 - Main Notes/Hadoop HDFS and MapReduce().md",
     "2 - Source Material/Others/MapReduce University Lecture.pdf",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Big Data Analytics University Lecture.pdf",
     "2 - Source Material/Others/HDFS University Lecture.pdf",
-    "Pasted image 20241105173914.png",
     "Tags/big data.md",
     "3 - Main Notes/Advanced Big Data Analytics.md",
     "3 - Main Notes/Introduction to Information Security.md",
