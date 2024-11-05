@@ -26,6 +26,11 @@ Like HDFS, GFS also consists of a single master node and several chunk servers. 
 4. Client makes changes in the primary replica.
 5. The primary replica forwards the changes to the secondary replicas.
 
+GFS has only single MasterNode ()
+
+
+
+
 
 
 
