@@ -45,7 +45,7 @@ MapReduce is the processing unit of Hadoop. It can be broken down into 2 functio
 1. **Map()**
 2. **Reduce()**
 
-The **Map()** takes input (set of data) and breaks it down into *tuples* (key value pairs) 
+The **Map()** takes input (set of data) and breaks it down into *tuples* (key value pairs).
 
 #### References
 [[Lecture 2 Big Data Analytics Hadoop HDFS.pdf]]
