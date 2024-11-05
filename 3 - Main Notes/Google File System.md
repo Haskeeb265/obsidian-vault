@@ -22,7 +22,9 @@ Like HDFS, GFS also consists of a single master node and several chunk servers. 
 #### How GFS works?
 1. Client makes request to MasterNode
 2. MasterNode provides client with the metadata of the file chunk it wants to access/modify
-3. Now that the client has the metadata, next time 
+3. Now that the client has the metadata, next time it wants to make any changes, it'll directly access the file without having to interact with the MasterNode again.
+4. Client makes changes in the primary replica.
+5. The primary replica forwards the changes to the secondary replicas.
 
 
 
