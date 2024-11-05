@@ -25,11 +25,20 @@ Big data has 3 important characteristics:
 
 Following are the tools that are used for Big data analytics:
 >**MongoDB:** Used for datasets that change frequently
->**Hadoop: 
->Talend:
->Cassandra:
->Storm:
->Spark: 
+>**Hadoop:** Stores and analyze the *tools* used for big data analytics
+>**Talend:** Used for data integration
+>**Cassandra:** Distributed database that is used for handling chunks of data
+>**Storm:** Real time open source computational system
+>**Spark:** Used for real time processing and analysis of large amount of data
+
+
+### Domains of Big Data
+- Education
+- Manufacturing
+- Healthcare
+- Agriculture
+- Weather forecast
+
 
 
 
