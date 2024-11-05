@@ -14,6 +14,13 @@ Hadoop is an open source framework which allows us to store and process large am
 Hadoop was designed to answer the question:
 >**"How to process big data with reasonable cost and time?"**
 
+#### Goals of Hadoop
+- Facilitate storage and processing of large and rapidly growing datasets
+- High scalability and availability
+- Use cheap hardware with little redundancy
+- Fault tolerant
+- **Move computation rather than data**
+
 
 
 
