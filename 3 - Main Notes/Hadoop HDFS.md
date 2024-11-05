@@ -7,7 +7,12 @@ Tags: [[big data]] [[storage]]
 
 # Hadoop HDFS
 
-Hadoop is an open source framework which allows us to store and process large amount of data in a parallel and distributed manner. Two main components of Hadoop are HDFS and MapReduce
+Hadoop is an open source framework which allows us to store and process large amount of data in a parallel and distributed manner.
+
+**HDFS** and **MapReduce** are two main components of Hadoop. HDFS is the primary data storage system whereas the MapReduce is the processing unit of Hadoop
+
+Hadoop was designed to answer the question:
+>**"How to "**
 
 
 
