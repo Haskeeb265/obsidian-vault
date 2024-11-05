@@ -22,6 +22,7 @@ Hadoop was designed to answer the question:
 - **Move computation rather than data**
 
 #### Architecture of HDFS
+
 ![[Pasted image 20241105173914.png]]
 
 > [!NOTE] Hadoop Architecture 
@@ -40,6 +41,11 @@ Hadoop was designed to answer the question:
 
 #### MapReduce
 
+MapReduce is the processing unit of Hadoop. It can be broken down into 2 functions:
+1. **Map()**
+2. **Reduce()**
+
+The **Map()** takes input (set of data) and breaks it down into *tuples* (key value pairs) 
 
 #### References
 [[Lecture 2 Big Data Analytics Hadoop HDFS.pdf]]
