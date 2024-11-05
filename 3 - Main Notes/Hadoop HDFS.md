@@ -35,8 +35,7 @@ Hadoop was designed to answer the question:
 >   
 >   Usually the 1st replica is stored in the same node as the client making request. The 2nd replica is stored in a different rack incase the first rack fails. The 3rd replica is stored in the same rack as the 1st one allowing fast communication
 >   
-> - **DataNode**: 
-s
+> - **DataNode**: Responsible for the actual storage of the data
 
 
 
