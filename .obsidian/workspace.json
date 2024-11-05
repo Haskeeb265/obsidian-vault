@@ -11,14 +11,12 @@
             "id": "a194245df076af36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Main Notes/Hadoop HDFS and MapReduce().md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Material/Others/GFS University Lecture Big Data Analytics.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Hadoop HDFS and MapReduce()"
+              "icon": "lucide-file-text",
+              "title": "GFS University Lecture Big Data Analytics"
             }
           }
         ]
@@ -161,8 +159,9 @@
   },
   "active": "a194245df076af36",
   "lastOpenFiles": [
-    "2 - Source Material/Others/MapReduce University Lecture.pdf",
     "3 - Main Notes/Hadoop HDFS and MapReduce().md",
+    "2 - Source Material/Others/GFS University Lecture Big Data Analytics.pdf",
+    "2 - Source Material/Others/MapReduce University Lecture.pdf",
     "HDFS Architecture.png",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
@@ -191,7 +190,6 @@
     "5 - Goals",
     "2 - Source Material/Books",
     "2 - Source Material/Podcasts",
-    "2 - Source Material/Videos",
     "2 - Goals/2.1 - CyberSecurity.md",
     "Templates/dasd.md",
     "2 - Goals/2.2 - Language.md",
