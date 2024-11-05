@@ -22,6 +22,13 @@ Hadoop was designed to answer the question:
 - **Move computation rather than data**
 
 #### Architecture of Hadoop
+![[Pasted image 20241105173914.png]]
+
+> [!NOTE] Hadoop Architecture
+> - Main nodes run **TaskTracker**. TaskTracker accepts and replies to MapReduce tasks and also Datanode to store needed blocks as closely as possible 
+> - NameNode
+> - DataNode
+
 
 
 
