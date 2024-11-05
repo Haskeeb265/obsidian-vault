@@ -1,7 +1,7 @@
 
 2024-11-01 16:00
 
-Status: #Started
+Status: #InProgress 
 
 Tags:
 [[cybersecurity]] [[computer security]]
@@ -96,4 +96,4 @@ Active attacks are hard to **prevents** because there are so many vulnerabilitie
 
 
 #### References
-[[Bahria University 7th Semester Lecture 1 Information Security.pdf]]
+[[Lecture 1 Information Security Bahria University 7th Semester.pdf]]
