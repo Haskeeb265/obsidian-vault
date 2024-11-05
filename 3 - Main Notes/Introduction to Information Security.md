@@ -96,4 +96,4 @@ Active attacks are hard to **prevents** because there are so many vulnerabilitie
 
 
 #### References
-[[Lecture 1 Information Security Bahria University 7th Semester.pdf]]
+[[Introduction to Information Security University Lecture.pdf]]

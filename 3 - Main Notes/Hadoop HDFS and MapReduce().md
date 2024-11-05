@@ -58,4 +58,5 @@ The **Map()** takes input (set of data) and breaks it down into *tuples* (key va
 - Searching (Group related docs)
 - Security (searching for odd or uncommon patterns)
 #### References
-[[Lecture 2 Big Data Analytics Hadoop HDFS.pdf]]
+[[HDFS University Lecture.pdf]]
+[[MapReduce University Lecture.pdf]]

@@ -69,4 +69,4 @@ Following are the analysis that we do with the above 3 elements:
 
 
 #### References
-[[Week 6 Lecture Software Project Management Bahria University 7th Semester.pdf]]
+[[Project Cost Management University Lecture.pdf]]

@@ -44,4 +44,4 @@ Following are the tools that are used for Big data analytics:
 
 
 #### References
-[[Lecture 1 Advanced Big Data Analytics Bahria University 7th Semester.pdf]]
+[[Introduction to Big Data Analytics University Lecture.pdf]]
