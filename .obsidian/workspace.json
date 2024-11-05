@@ -25,14 +25,12 @@
             "id": "e45b614f7870ea58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Main Notes/Advanced Big Data Analytics.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Material/Others/Hadoop-30092024-121207am.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Advanced Big Data Analytics"
+              "icon": "lucide-file-text",
+              "title": "Hadoop-30092024-121207am"
             }
           }
         ],
@@ -85,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Started",
+                "query": "tag:#InProgress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -195,8 +192,9 @@
   },
   "active": "e45b614f7870ea58",
   "lastOpenFiles": [
-    "2 - Source Material/Others/Lecture 1 Advanced Big Data Analytics Bahria University 7th Semester.pdf",
     "3 - Main Notes/Advanced Big Data Analytics.md",
+    "2 - Source Material/Others/Hadoop-30092024-121207am.pdf",
+    "2 - Source Material/Others/Lecture 1 Advanced Big Data Analytics Bahria University 7th Semester.pdf",
     "3 - Main Notes/Introduction to Information Security.md",
     "3 - Main Notes/Project Cost Management.md",
     "Tags/data.md",
@@ -223,7 +221,6 @@
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Articles",
-    "Untitled 1",
     "2 - Goals/2.1 - CyberSecurity.md",
     "Templates/dasd.md",
     "2 - Goals/2.2 - Language.md",
