@@ -35,7 +35,7 @@ Hadoop was designed to answer the question:
 >   
 >   Usually the 1st replica is stored in the same node as the client making request. The 2nd replica is stored in a different rack incase the first rack fails. The 3rd replica is stored in the same rack as the 1st one allowing fast communication
 >   
-> - **DataNode**: Responsible for the actual storage of the data
+> - **DataNode**: Responsible for the actual storage of the data. DataNode sends *heartbeats* to the NameNode to let it know that its available for service. The DataNode also sends a *block report*. This stores the list of all the blocks stored in the DataNode. It sends this report to NameNode every once an hour so that NameNode can quickly identify which blocks were lost incase of a DataNode failure.
 
 
 
