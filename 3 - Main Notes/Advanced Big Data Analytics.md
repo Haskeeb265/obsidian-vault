@@ -14,8 +14,9 @@ Big data analytics can be defined as the process in which we extract meaningful 
 There are 3 types of data of data structures that we encounter in Big data analytics:
 1. **Structured Data**: Data that already have a proper structure such as CSV files, spreadsheets, and data tables in databases
 2. **Unstructured Data:** Data that does not have any defined structure. This type of data includes media files including images, audio, and video files
-3. **Semi-Structured Data:** 
+3. **Semi-Structured Data:** Does not rely on rigid tables but still have some organizational attributes. This is with the help of tags and markdowns. For example JSON files and HTML files
 
+### C
 
 
 
