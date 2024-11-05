@@ -26,7 +26,7 @@ Hadoop was designed to answer the question:
 
 > [!NOTE] Hadoop Architecture 
 > - **NameNode**: The primary job of NameNode is to manage the metadata of all the files and directories. The NameNode also knows which DataNode holds the data blocks of each file.
->   The **MetaData** is data about the data. The activity 
+>   The **MetaData** is data about the data. User logs, information regarding the stored data; where its stored, how big it is and so on. NameNode uses this information to find the closest DataNode for faster communication. NameNode also instructs DataNode regarding creation, deletion, and replication.
 > - **DataNode**: 
 
 
