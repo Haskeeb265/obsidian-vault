@@ -52,5 +52,10 @@ MapReduce is the processing unit of Hadoop. It can be broken down into 2 functio
 
 The **Map()** takes input (set of data) and breaks it down into *tuples* (key value pairs). Once the tuples are made, they're shuffled and sorted into values with the same key. The **Reduce()** takes these shuffled tuples as an input and combines the values with the same key applying functions like aggregation and then delivers the output.
 
+
+#### Applications of Hadoop:
+- Advertisement (Mining user behavior to generate personalized ads)
+- Searching (Group related docs)
+- Security (searching for odd or uncommon patterns)
 #### References
 [[Lecture 2 Big Data Analytics Hadoop HDFS.pdf]]
