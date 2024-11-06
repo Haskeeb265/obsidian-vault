@@ -16,8 +16,9 @@ Data extraction basically refers to the process of procuring data from a given s
 - Data extraction is perhaps the most crucial part of ETL. Some even call it the backbone of ETL. ETL is basically a process that that drives the data and analytics workflows.
 - ETL allows organizations to bring data from different sources into a single location.
 
-**Extraction**:
-**Transformation**
+**Extraction**: Gathering data from one or more sources. This process includes locating and identifying relevant data.
+**Transformation**: In this stage the data is preprocessed.
+**Loading**: The preprocessed data is sent to a central repo for immediate or further analysis
 
 
 
