@@ -1,7 +1,7 @@
 
 2024-11-06 05:03
 
-Status: #InProgress
+Status: #Finished
 
 Tags: [[big data]] 
 
@@ -35,7 +35,8 @@ Data extraction happens for one of the following 3 reasons:
 
 - Refers to data formatted according to standardized models making it ready for analysis.
 - Structured data can be extracted using **logical data extraction**. It is broken down into
-  1. Full Extraction
+  1. **Full Extraction**: Single-trip retrieval of data from a given source
+  2. **Incremental Extraction**: Repeatedly visiting the source of the data to incrementally retrieve the data. It is an ongoing process which monitors and extracts any new changes that are made into the source. We would have to be careful not to retrieve repeated data. This is done through the practice of **Change Data Capture** **(CDC)**
 
 
 
