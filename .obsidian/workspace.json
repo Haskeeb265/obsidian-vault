@@ -11,33 +11,32 @@
             "id": "ba65816ca8df61c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/Big Data Integration University Lecture.pdf"
+                "file": "3 - Main Notes/Academics/Big Data Analytics/Big Data Integration.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Big Data Integration University Lecture"
+              "icon": "lucide-file",
+              "title": "Big Data Integration"
             }
-          }
-        ]
-      },
-      {
-        "id": "551184c7c159e997",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2e6ffd863f023b74",
+            "id": "ca11eab739f18e04",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/Spark Big Data University Lecture.pdf"
+                "file": "3 - Main Notes/Academics/Big Data Analytics/Hadoop HDFS and MapReduce().md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Spark Big Data University Lecture"
+              "icon": "lucide-file",
+              "title": "Hadoop HDFS and MapReduce()"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,26 +174,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba65816ca8df61c4",
+  "active": "ca11eab739f18e04",
   "lastOpenFiles": [
-    "3 - Main Notes/Spark Big Data.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Advanced Big Data Analytics.md",
     "2 - Source Material/Others/Spark Big Data University Lecture.pdf",
-    "3 - Main Notes/Big Data Integration.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Big Data Extraction.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Big Data Integration.md",
+    "3 - Main Notes/Academics/Big Data Analytics",
+    "3 - Main Notes/Academics",
     "2 - Source Material/Others/Big Data Integration University Lecture.pdf",
-    "3 - Main Notes/Big Data Extraction.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Spark Big Data.md",
     "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
-    "3 - Main Notes/Advanced Big Data Analytics.md",
-    "3 - Main Notes/Google File System.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Google File System.md",
     "2 - Source Material/Others/GFS Architecture University Lecture Big Data Analytics.pdf",
     "2 - Source Material/Others/GFS University Lecture Big Data Analytics.pdf",
-    "3 - Main Notes/Hadoop HDFS and MapReduce().md",
+    "3 - Main Notes/Academics/Big Data Analytics/Hadoop HDFS and MapReduce().md",
     "3 - Main Notes/Introduction to Information Security.md",
     "2 - Source Material/Others/MapReduce University Lecture.pdf",
     "HDFS Architecture.png",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
-    "2 - Source Material/Others/Introduction to Big Data Analytics University Lecture.pdf",
-    "2 - Source Material/Others/HDFS University Lecture.pdf",
     "Tags/big data.md",
     "3 - Main Notes/Project Cost Management.md",
     "Tags/data.md",
