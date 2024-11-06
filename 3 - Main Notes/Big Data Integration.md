@@ -32,6 +32,17 @@ Following are the 3 steps of record linkage:
 1. **Blocking**:
    >Makes small blocks of similar records 
 2. **Pairwise Matching**:
-   >Compares all recor
+   >Compares all record pairs in a block
 3. **Clustering**:
+   >Groups sets of records into entities
+   
+## Data Fusion:
+
+Following are the 3 steps of Data Fusion:
+
+1. **Voting**:
+3. **Source Quality**:
+4. **Copy Detection**:
+
 #### References
+[[Big Data Integration University Lecture.pdf]]
