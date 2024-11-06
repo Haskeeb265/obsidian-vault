@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fec1e77aa5b9b44d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "383d53a82de0729b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Others/Big Data Integration University Lecture.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Big Data Integration University Lecture"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",

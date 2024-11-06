@@ -1,7 +1,7 @@
 
 2024-11-06 05:35
 
-Status: #InProgress
+Status: #Finished
 
 Tags: [[big data]] [[data]]
 
@@ -41,8 +41,11 @@ Following are the 3 steps of record linkage:
 Following are the 3 steps of Data Fusion:
 
 1. **Voting**:
-3. **Source Quality**:
+   >Ensures conflicting of differing information is resolved. Select the most frequent and accurate values
+1. **Source Quality**:
+   >Prioritize dataset with a more credible source
 4. **Copy Detection**:
+   >Detect any redundant records. Removes duplicate records linking to the same entity.
 
 #### References
 [[Big Data Integration University Lecture.pdf]]
