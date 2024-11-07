@@ -32,7 +32,14 @@ There are many types of software project life cycles which dictate how to pursue
 - ==Incremental Model:==
 	Development process in which the project is delivered in small functional modules.
 - ==Iterative Model:==
-	Development approach where the software is 
+	Development approach where the software is built and refined through repeated cycles of development.
+
+
+| **SDLC**                                                        | **SPLC**                                             |
+| --------------------------------------------------------------- | ---------------------------------------------------- |
+| Focuses on specifically on the **development** of the software. | Focuses beyond the technical aspects of the project. |
+| Only deals with technical aspects                               | SPLC includes the **management **                    |
+
 
 
 #### References
