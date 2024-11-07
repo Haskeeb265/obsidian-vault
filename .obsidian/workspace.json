@@ -51,6 +51,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "601b699ab93ee25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0710f318c8a625ed",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Project Planning, Critical Path, Schedule Compression Techniques University Lecture"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,6 +221,8 @@
   },
   "active": "c7da63726dec0fc3",
   "lastOpenFiles": [
+    "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
+    "3 - Main Notes/Project Planning.md",
     "1 - Rough Notes/Are you a man.md",
     "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
     "Tags/project management.md",
@@ -220,7 +240,6 @@
     "Templates/Main Note.md",
     "Templates/Rough Note.md",
     "conflict-files-obsidian-git.md",
-    "3 - Main Notes/Project Planning.md",
     "Images/When to use which project management methodology.png",
     "Images",
     "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
@@ -229,7 +248,6 @@
     "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
-    "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
     "3 - Main Notes/Hadoop HDFS and MapReduce().md",
     "3 - Main Notes/Advanced Big Data Analytics.md",
     "Tags/storage.md",
@@ -239,7 +257,6 @@
     "3 - Main Notes/Academics/Information Security",
     "3 - Main Notes/Big Data Analytics",
     "Tags/computer security.md",
-    "Tags/cybersecurity.md",
     "Untitled.canvas"
   ]
 }

@@ -25,4 +25,4 @@ CPM is also known as **Activity On Arrow (AOA)**
 
 
 #### References
-[[prot]]
+[[Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf]]
