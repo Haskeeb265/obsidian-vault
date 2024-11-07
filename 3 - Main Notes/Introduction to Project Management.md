@@ -13,8 +13,8 @@ Tags: [[project management]]
 | American based                       | European based                       |
 | Covers vast majority of fields       | Specifically for technology industry |
 | Based on PMBOK book                  | Based on Prince2 book                |
-| Framework is descriptive (describes) | Framework is prescriptive ()         |
-
+| Framework is descriptive (describes) | Framework is prescriptive (suggests) |
+| Answers **"How"**                    | Answers **"what", "when", "who"**    |
 
 
 
