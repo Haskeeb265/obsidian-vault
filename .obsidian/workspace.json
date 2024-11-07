@@ -63,6 +63,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "b585ba23a330c4d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf83eeccd8809f31",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PMI Knowledge Areas University Lecture"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -202,8 +221,9 @@
   },
   "active": "e4bb30796954f251",
   "lastOpenFiles": [
-    "3 - Main Notes/Introduction to Project Management.md",
+    "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
     "3 - Main Notes/PMI Knowledge Areas.md",
+    "3 - Main Notes/Introduction to Project Management.md",
     "conflict-files-obsidian-git.md",
     "2 - Source Material/Others/Threats and Vulnerabilities University Lecture Information Security.pdf",
     "Templates/Rough Note.md",
@@ -218,7 +238,6 @@
     "3 - Main Notes/Big Data Extraction.md",
     "3 - Main Notes/Advanced Big Data Analytics.md",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
-    "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
