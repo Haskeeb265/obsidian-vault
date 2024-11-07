@@ -17,6 +17,10 @@ Tags: [[project management]]
 | Answers **"How"**                    | Answers **"what", "when", "who"**    |
 
 
+> [!NOTE] According to Project Management Institute **(PMI)**:
+> 
+
+
 
 
 
