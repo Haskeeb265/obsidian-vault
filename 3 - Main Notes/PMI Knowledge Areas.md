@@ -55,7 +55,14 @@ For successful execution, project managers would have to negotiate a rigid trian
 ## Scope Creep
 - Scope creep is when a project grows beyond its scope. 
 - We can also say that project creeps when additional deliverables are included that are not part of the initial project scope
-- One of the reasons why scope creeps
+- One of the reasons why scope creeps is because of **gold plating** by developers
+## How to Manage Scope Creep?
+
+1. Clearly define project scope
+2. Create change control process
+3. Document requirements
+4. Set requirement priorities
+5. Engage stakeholders
 
 
 
