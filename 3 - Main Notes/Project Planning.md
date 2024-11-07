@@ -46,9 +46,9 @@ A single Node in CPM includes the following details:
 
 **Earliest Start:** For the first node the **ES** is 0. For the Next Node the **EF** of the previous node is its **ES**. In case there are 2 or more previous nodes, we'll always choose the one with the maximum **EF**.
 **Earliest Finish:** **ES** + Duration
-**Latest Start:**
-**Latest Finish:**
-**Float**: 
+**Latest Start:** **LF** - Duration
+**Latest Finish:** For the last node, **LF = EF** | For the previous nodes, **LF = LS of the next node**. Incase of 2 nodes, we choose the minimum
+**Float**: **LF - EF**
 
 There are 2 steps to this:
 1. Forward Pass: In this pass we find out the **ES** and **EF** of all nodes 
