@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7cfaccb1df0e4602",
+        "id": "a76bec1b88add9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "251ca0a68115dfa3",
+            "id": "9322b2d3cdfdcfa7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2 - Source Material/Others/PERT Analysis, Three-Point Estimate,.pdf"
+                "file": "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "PERT Analysis, Three-Point Estimate,"
+              "title": "Introduction to Software Project Management University Lecture"
             }
           }
         ]
@@ -170,34 +170,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "251ca0a68115dfa3",
+  "active": "9322b2d3cdfdcfa7",
   "lastOpenFiles": [
+    "3 - Main Notes/Introduction to Project Management.md",
+    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
+    "3 - Main Notes/Hadoop HDFS and MapReduce().md",
+    "3 - Main Notes/Introduction to Information Security.md",
+    "3 - Main Notes/Threats and Vulnerabilities.md",
+    "1 - Rough Notes/Stuck in a rut.md",
+    "Templates/Rough Note.md",
+    "Templates/Main Note.md",
+    "3 - Main Notes/Big Data Extraction.md",
+    "3 - Main Notes/Advanced Big Data Analytics.md",
+    "3 - Main Notes/Project Cost Management.md",
+    "3 - Main Notes/Spark Big Data.md",
+    "3 - Main Notes/Google File System.md",
+    "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "conflict-files-obsidian-git.md",
-    "2 - Source Material/Others/PERT Analysis, Three-Point Estimate,.pdf",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
     "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
     "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
-    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
-    "3 - Main Notes/Introduction to Information Security.md",
     "Tags/storage.md",
     "Tags/information.md",
     "Tags/data.md",
     "Tags/big data.md",
-    "3 - Main Notes/Threats and Vulnerabilities.md",
-    "3 - Main Notes/Academics/Information Security/Introduction to Information Security.md",
-    "3 - Main Notes/Academics/Big Data Analytics/Spark Big Data.md",
-    "3 - Main Notes/Academics/Big Data Analytics/Hadoop HDFS and MapReduce().md",
-    "3 - Main Notes/Academics/Big Data Analytics/Google File System.md",
-    "3 - Main Notes/Academics/Big Data Analytics/Big Data Integration.md",
-    "3 - Main Notes/Academics/Big Data Analytics/Big Data Extraction.md",
-    "3 - Main Notes/Academics/Big Data Analytics/Advanced Big Data Analytics.md",
+    "3 - Main Notes/Big Data Integration.md",
     "3 - Main Notes/Academics/Information Security",
-    "3 - Main Notes/Academics/Big Data Analytics",
+    "3 - Main Notes/Big Data Analytics",
     "3 - Main Notes/Academics",
     "2 - Source Material/Others/Threats and Vulnerabilities University Lecture Information Security.pdf",
-    "3 - Main Notes/Project Cost Management.md",
-    "Templates/University.md",
     "Tags/computer security.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/2024-11-01.md",
@@ -205,8 +207,6 @@
     "Tags/cost management.md",
     "Tags/project management.md",
     "2 - Source Material/Others/SPM LECTURE WEEK-6 7th Semester (Bahria University).md",
-    "1 - Rough Notes/Rough note.md",
-    "Tags/learn.md",
-    "3 - Main Notes/Cost ManagementCost Management.md"
+    "1 - Rough Notes/Rough note.md"
   ]
 }
