@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a76bec1b88add9bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9322b2d3cdfdcfa7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Software Project Management University Lecture"
-            }
-          }
-        ]
-      },
-      {
         "id": "6ecbd0f7d49ac043",
         "type": "tabs",
         "children": [
@@ -37,6 +19,24 @@
               },
               "icon": "lucide-file",
               "title": "Introduction to Project Management"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c887adf0b7e0167f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90f5c300d55662c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to Software Project Management University Lecture"
             }
           }
         ]
@@ -190,10 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0055c85c4d614290",
+  "active": "d90f5c300d55662c",
   "lastOpenFiles": [
-    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "3 - Main Notes/Introduction to Project Management.md",
+    "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
+    "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
+    "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
+    "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
+    "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
+    "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
+    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "3 - Main Notes/Hadoop HDFS and MapReduce().md",
     "3 - Main Notes/Introduction to Information Security.md",
     "3 - Main Notes/Threats and Vulnerabilities.md",
@@ -205,12 +211,7 @@
     "3 - Main Notes/Project Cost Management.md",
     "3 - Main Notes/Spark Big Data.md",
     "3 - Main Notes/Google File System.md",
-    "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "conflict-files-obsidian-git.md",
-    "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
-    "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
-    "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
-    "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
     "Tags/storage.md",
     "Tags/information.md",
     "Tags/data.md",
@@ -219,7 +220,6 @@
     "3 - Main Notes/Academics/Information Security",
     "3 - Main Notes/Big Data Analytics",
     "3 - Main Notes/Academics",
-    "2 - Source Material/Others/Threats and Vulnerabilities University Lecture Information Security.pdf",
     "Tags/computer security.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/2024-11-01.md",
