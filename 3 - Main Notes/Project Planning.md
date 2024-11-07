@@ -14,7 +14,7 @@ Tags: [[project management]]
 	- PDM includes relationships like **start-to-start, start-to-finish, finish-to-start, finish-to-finish**.
 PDM is also known as **Activity On Node (AON)**.
 2. **Critical Path Method (CPM)**:
-	- A technique which utilizes the network of the tasks to determine the critical path. Critical path
+	- A technique which utilizes the network of the tasks to determine the critical path. Critical path represents the **shortest time** in which the project can be completed.
 
 
 
