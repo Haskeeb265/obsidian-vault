@@ -1,9 +1,9 @@
 
 2024-11-07 17:50
 
-Status: #Started , #InProgress , #Finished 
+Status: #Finished
 
-Tags:
+Tags: [[project management]] 
 
 # PMI Knowledge Areas
 
@@ -63,8 +63,11 @@ For successful execution, project managers would have to negotiate a rigid trian
 3. Document requirements
 4. Set requirement priorities
 5. Engage stakeholders
+6. Regularly review progress
+7. Document everything
 
 
 
 
 #### References
+[[PMI Knowledge Areas University Lecture.pdf]]
