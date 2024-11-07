@@ -17,7 +17,10 @@ A specialized field within project management which focuses on the planning, exe
 Specific area of expertise and focus that project managers and teams need to consider throughout the project life cycle
 
 ### Process Groups:
-	
+Refers to the **5** stages that encompasses the entire project life cycle.
+Provides a structured framework for managing project activities from start to end
+
+
 
 
 
