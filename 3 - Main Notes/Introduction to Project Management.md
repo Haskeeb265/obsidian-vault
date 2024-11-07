@@ -25,12 +25,14 @@ A project can be a result: Covid Vaccine (Research project)
 A project can be a service: Call centers
 
 There are many types of software project life cycles which dictate how to pursue the development of a software product from start to end. Such models are:
-- Waterfall:
+- ==Waterfall:==
 	Waterfall is a linear and sequential software development. Each phase must be completed before starting the next
--  V-Model:
+- ==V-Model:==
 	A software development model which integrates testing of the corresponding activities alongside the development phase
-- Incremental Model:
-
+- ==Incremental Model:==
+	Development process in which the project is delivered in small functional modules.
+- ==Iterative Model:==
+	Development approach where the software is 
 
 
 #### References
