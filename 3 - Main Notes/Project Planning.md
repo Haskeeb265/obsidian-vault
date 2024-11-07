@@ -6,6 +6,7 @@ Status: #InProgress
 Tags: [[project management]]
 
 # Project Planning
+
 - PDM and CDM are used to plan, schedule, and manage tasks in a project.
 
 1. **Precedence Diagramming Method (PDM):**
@@ -19,6 +20,17 @@ PDM is also known as **Activity On Node (AON)**.
 	- **==CPM gives you the shortest time but the longest path==**
 CPM is also known as **Activity On Arrow (AOA)** 
 
+## Task Relationships
+
+There are 4 types of relationships between tasks:
+1. Start-to-Start
+2. Start-to-Finish
+3. Finish-to-Start
+4. Finish-to-Finish
+
+## CPM
+
+In CPM we have 2 main
 
 
 
