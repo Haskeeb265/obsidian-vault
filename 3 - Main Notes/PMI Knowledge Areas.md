@@ -23,7 +23,23 @@ Provides a structured framework for managing project activities from start to en
 1. Conception and Initiation
 2. Definition and Planning
 3. Launch and Execution
-4. Performance 
+4. Performance and Control
+5. Project Close
+
+## Project Management Triangle
+
+The **Golden Triangle** is a visual aid for project management whose 3 sides represents the core constraints which affect the overall quality of the end product
+1. Cost
+2. Time
+3. Scope
+
+The triangle also represents balance that must be maintained between the triple constraints. If one variable changes, the others would have to too
+
+For successful execution, project managers would have to negotiate a rigid triangle.
+
+### Relationship Between Constraints:
+
+
 
 
 
