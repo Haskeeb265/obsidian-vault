@@ -18,7 +18,11 @@ Tags: [[project management]]
 
 
 > [!NOTE] According to Project Management Institute **(PMI)**:
-> 
+> A project is a temporary endeavor undertaken to create a unique product, result, or service
+
+A project can a product: An app
+A project can be a result: Covid Vaccine (Research project)
+A project can be a service: Call centers
 
 
 
