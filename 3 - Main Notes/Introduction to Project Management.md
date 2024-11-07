@@ -12,5 +12,4 @@ Tags: [[project management]]
 
 
 #### References
-[[Introduction to Software Project Management University Lecture.pdf]]0s 
-\
+[[Introduction to Software Project Management University Lecture.pdf]] 
