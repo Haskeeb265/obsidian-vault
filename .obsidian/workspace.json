@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "PMI Knowledge Areas"
             }
+          },
+          {
+            "id": "c7da63726dec0fc3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccfd1c6b4b6ba4bc",
+  "active": "c7da63726dec0fc3",
   "lastOpenFiles": [
     "3 - Main Notes/Introduction to Project Management.md",
     "3 - Main Notes/PMI Knowledge Areas.md",
