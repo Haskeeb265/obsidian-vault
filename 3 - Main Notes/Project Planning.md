@@ -33,7 +33,7 @@ There are 4 types of relationships between tasks:
 In CPM we have 2 main concepts:
 1. **Critical Task**: Critical task cannot be delayed. Otherwise the project will go beyond the deadline
 2. **Critical Path:** Critical path is a sequence of tasks which gives us the longest path to the end.
-### Method
+### **PERT CPM Method**
 
 A single Node in CPM includes the following details:
 - Activity Label
