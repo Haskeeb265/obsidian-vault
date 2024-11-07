@@ -52,6 +52,11 @@ For successful execution, project managers would have to negotiate a rigid trian
 - More time = Less cost
 - More cost = Less time
 
+## Scope Creep
+- Scope creep is when a project grows beyond its scope. 
+- We can also say that project creeps when additional deliverables are included that are not part of the initial project scope
+- One of the reasons wh
+
 
 
 
