@@ -20,7 +20,10 @@ Specific area of expertise and focus that project managers and teams need to con
 Refers to the **5** stages that encompasses the entire project life cycle.
 Provides a structured framework for managing project activities from start to end
 
-
+1. Conception and Initiation
+2. Definition and Planning
+3. Launch and Execution
+4. Performance 
 
 
 
