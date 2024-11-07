@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "abd5c87f7d2de7c1",
-        "type": "tabs",
-        "dimension": 47.66666666666667,
-        "children": [
-          {
-            "id": "581eb1fa373ada04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/Introduction to Information Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Information Security"
-            }
-          }
-        ]
-      },
-      {
         "id": "7cfaccb1df0e4602",
         "type": "tabs",
-        "dimension": 52.33333333333333,
         "children": [
           {
             "id": "251ca0a68115dfa3",
@@ -35,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf"
+                "file": "2 - Source Material/Others/PERT Analysis, Three-Point Estimate,.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Bahria University 7th Semester Lecture 1 Information Security"
+              "title": "PERT Analysis, Three-Point Estimate,"
             }
           }
         ]
@@ -192,13 +170,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "581eb1fa373ada04",
+  "active": "251ca0a68115dfa3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2 - Source Material/Others/PERT Analysis, Three-Point Estimate,.pdf",
+    "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
+    "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
+    "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
+    "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
+    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "3 - Main Notes/Introduction to Information Security.md",
-    "2 - Source Material/Others/Bahria University 7th Semester Lecture 1 Information Security.pdf",
+    "Tags/storage.md",
+    "Tags/information.md",
+    "Tags/data.md",
+    "Tags/big data.md",
+    "3 - Main Notes/Threats and Vulnerabilities.md",
+    "3 - Main Notes/Academics/Information Security/Introduction to Information Security.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Spark Big Data.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Hadoop HDFS and MapReduce().md",
+    "3 - Main Notes/Academics/Big Data Analytics/Google File System.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Big Data Integration.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Big Data Extraction.md",
+    "3 - Main Notes/Academics/Big Data Analytics/Advanced Big Data Analytics.md",
+    "3 - Main Notes/Academics/Information Security",
+    "3 - Main Notes/Academics/Big Data Analytics",
+    "3 - Main Notes/Academics",
+    "2 - Source Material/Others/Threats and Vulnerabilities University Lecture Information Security.pdf",
     "3 - Main Notes/Project Cost Management.md",
     "Templates/University.md",
-    "2 - Source Material/Others/Bahria University 7th Semester Software Project Management Week 6 Lecture.pdf",
     "Tags/computer security.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/2024-11-01.md",
@@ -208,21 +207,6 @@
     "2 - Source Material/Others/SPM LECTURE WEEK-6 7th Semester (Bahria University).md",
     "1 - Rough Notes/Rough note.md",
     "Tags/learn.md",
-    "3 - Main Notes/Cost ManagementCost Management.md",
-    "3 - Main Notes/dasasdasd.md",
-    "3 - Main Notes/University/Big Data Analytics/Untitled.md",
-    "5 - Goals",
-    "2 - Source Material/Others",
-    "2 - Source Material/Books",
-    "2 - Source Material/Podcasts",
-    "2 - Source Material/Videos",
-    "2 - Source Material/Articles",
-    "Untitled 1",
-    "2 - Source Material",
-    "2 - Goals/2.1 - CyberSecurity.md",
-    "Templates/dasd.md",
-    "2 - Goals/2.2 - Language.md",
-    "1 - Rough Notes/Untitled.md",
-    "Welcome.md"
+    "3 - Main Notes/Cost ManagementCost Management.md"
   ]
 }
