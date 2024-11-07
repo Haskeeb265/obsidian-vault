@@ -30,7 +30,8 @@ There are 4 types of relationships between tasks:
 
 ## CPM
 
-In CPM we have 2 main
+In CPM we have 2 main concepts:
+1. **Critical Task**: Critical task cannot be delayed. Otherwise the project will go beyond the deadline
 
 
 
