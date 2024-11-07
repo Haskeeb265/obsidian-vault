@@ -17,7 +17,7 @@ A specialized field within project management which focuses on the planning, exe
 Specific area of expertise and focus that project managers and teams need to consider throughout the project life cycle
 
 ### Process Groups:
-
+	
 
 
 
