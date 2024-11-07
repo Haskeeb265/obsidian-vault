@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Videos/Untitled.md",
+                "file": "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Are You a Man By Mohamed Hoblos"
             }
           }
         ]
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Are You a Man By Mohamed Hoblos"
             }
           },
           {
@@ -129,11 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Are You a Man By Mohamed Hoblos"
             }
           },
           {
@@ -180,7 +182,7 @@
   "active": "5038779f7c7ace2e",
   "lastOpenFiles": [
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
-    "2 - Source Material/Videos/Untitled.md",
+    "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
     "2 - Source Material/Videos",
     "3 - Main Notes/Project Planning.md",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
