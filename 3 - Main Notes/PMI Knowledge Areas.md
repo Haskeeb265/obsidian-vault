@@ -14,7 +14,10 @@ A specialized field within project management which focuses on the planning, exe
 ## Knowledge Areas and Process Groups
 
 ### Knowledge Areas:
-Specific area of expertise
+Specific area of expertise and focus that project managers and teams need to consider throughout the project life cycle
+
+### Process Groups:
+
 
 
 
