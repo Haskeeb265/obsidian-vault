@@ -20,26 +20,23 @@
               "icon": "lucide-file",
               "title": "Introduction to Project Management"
             }
-          }
-        ]
-      },
-      {
-        "id": "c887adf0b7e0167f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d90f5c300d55662c",
+            "id": "ccfd1c6b4b6ba4bc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf"
+                "file": "3 - Main Notes/PMI Knowledge Areas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Software Project Management University Lecture"
+              "icon": "lucide-file",
+              "title": "PMI Knowledge Areas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0055c85c4d614290",
+  "active": "ccfd1c6b4b6ba4bc",
   "lastOpenFiles": [
-    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "3 - Main Notes/Introduction to Project Management.md",
+    "3 - Main Notes/PMI Knowledge Areas.md",
+    "3 - Main Notes/Introduction to Information Security.md",
+    "Images/When to use which project management methodology.png",
+    "Images",
+    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
     "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
     "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
@@ -201,7 +202,6 @@
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
     "3 - Main Notes/Hadoop HDFS and MapReduce().md",
-    "3 - Main Notes/Introduction to Information Security.md",
     "3 - Main Notes/Threats and Vulnerabilities.md",
     "1 - Rough Notes/Stuck in a rut.md",
     "Templates/Rough Note.md",
@@ -219,7 +219,6 @@
     "3 - Main Notes/Big Data Integration.md",
     "3 - Main Notes/Academics/Information Security",
     "3 - Main Notes/Big Data Analytics",
-    "3 - Main Notes/Academics",
     "Tags/computer security.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/2024-11-01.md",

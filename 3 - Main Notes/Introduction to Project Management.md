@@ -1,7 +1,7 @@
 
 2024-11-07 13:13
 
-Status: #InProgress
+Status: #Finished
 
 Tags: [[project management]] 
 
@@ -39,8 +39,7 @@ There are many types of software project life cycles which dictate how to pursue
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | Focuses on specifically on the **development** of the software. | Focuses beyond the technical aspects of the project.            |
 | Only deals with technical aspects                               | SPLC includes the **management** aspects of the project as well |
-
-
+![[When to use which project management methodology.png]]
 
 
 #### References
