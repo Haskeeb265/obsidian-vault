@@ -15,6 +15,12 @@ A specialized field within project management which focuses on the planning, exe
 
 ### Knowledge Areas:
 Specific area of expertise and focus that project managers and teams need to consider throughout the project life cycle
+Example of Knowledge areas are:
+- Project Cost Management
+- Project Time Management
+- Project Risk Management
+- Project Integration Management
+- Project Scope Management
 
 ### Process Groups:
 Refers to the **5** stages that encompasses the entire project life cycle.
@@ -38,8 +44,13 @@ The triangle also represents balance that must be maintained between the triple 
 For successful execution, project managers would have to negotiate a rigid triangle.
 
 ### Relationship Between Constraints:
-
-
+##### Directly Proportional:
+- Scope is directly proportional to cost and time.
+- If you increase the scope, the cost and time will increase too
+##### Inversely Proportional::
+- Relationship between cost and time is inversely proportional.
+- More time = Less cost
+- More cost = Less time
 
 
 
