@@ -44,16 +44,16 @@ A single Node in CPM includes the following details:
 - Float
 - Duration
 
-**Earliest Start:** For the first node the **ES** is 0. For the Next Node the **EF** of the previous node is its **ES**
+**Earliest Start:** For the first node the **ES** is 0. For the Next Node the **EF** of the previous node is its **ES**. In case there are 2 or more previous nodes, we'll always choose the one with the maximum **EF**.
 **Earliest Finish:** **ES** + Duration
 **Latest Start:**
 **Latest Finish:**
 **Float**: 
 
-There are 2 approaches to this:
-1. Forward Pass: Start to Finish
-2. Backward Pass: Finish to Start
-
+There are 2 steps to this:
+1. Forward Pass: In this pass we find out the **ES** and **EF** of all nodes 
+2. Backward Pass: In this pass we find out the **LS** and **LF** of all nodes
+ 
 
 
 #### References
