@@ -29,14 +29,12 @@
             "id": "5038779f7c7ace2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Main Notes/Project Planning.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Project Planning"
+              "icon": "lucide-file-text",
+              "title": "PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture"
             }
           }
         ]
@@ -177,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5038779f7c7ace2e",
+  "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
-    "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
+    "2 - Source Material/Videos",
     "3 - Main Notes/Project Planning.md",
+    "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
     "3 - Main Notes/Project Cost Management.md",
     "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
