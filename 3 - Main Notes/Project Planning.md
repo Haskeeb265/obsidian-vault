@@ -37,14 +37,15 @@ In CPM we have 2 main concepts:
 
 A single Node in CPM includes the following details:
 - Activity Label
-- Earliest Start
+- Earliest Start 
 - Earliest Finish
 - Latest Start
 - Latest Finish
 - Float
 - Duration
 
-
+**Earliest Start:** For the first node the **ES** is it's duration. For the Next Node the **EF** of the previous node is its **ES**
+**Earliest Finish:** **ES** + Duration
 
 
 
