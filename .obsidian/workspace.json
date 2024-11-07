@@ -29,12 +29,14 @@
             "id": "5038779f7c7ace2e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf"
+                "file": "2 - Source Material/Videos/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -175,8 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a2f57f4d96c3a2",
+  "active": "5038779f7c7ace2e",
   "lastOpenFiles": [
+    "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
+    "2 - Source Material/Videos/Untitled.md",
     "2 - Source Material/Videos",
     "3 - Main Notes/Project Planning.md",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
@@ -200,10 +204,8 @@
     "3 - Main Notes/Big Data Integration.md",
     "3 - Main Notes/Big Data Extraction.md",
     "3 - Main Notes/Advanced Big Data Analytics.md",
-    "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "1 - Rough Notes/Stuck in a rut.md",
-    "1 - Rough Notes",
     "3 - Main Notes/Academics/Information Security/Introduction to Information Security.md",
     "3 - Main Notes/Threats and Vulnerabilities.md",
     "3 - Main Notes/Academics/Big Data Analytics/Spark Big Data.md",
@@ -213,7 +215,6 @@
     "3 - Main Notes/Academics/Big Data Analytics/Hadoop HDFS and MapReduce().md",
     "3 - Main Notes/Academics/Big Data Analytics/Advanced Big Data Analytics.md",
     "HDFS Architecture.png",
-    "Tags/big data.md",
-    "Tags/data.md"
+    "Tags/big data.md"
   ]
 }
