@@ -3,7 +3,7 @@
 
 Status: #InProgress 
 
-Tags: [[computer security]] [[cybersecurity]] 
+Tags: [[computer security]] [[cybersecurity]] [[academics]]
 
 # Threats and Vulnerabilities
 

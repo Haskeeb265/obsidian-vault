@@ -3,7 +3,7 @@
 
 Status: #InProgress
 
-Tags: [[big data]] [[storage]]
+Tags: [[big data]] [[storage]] [[academics]]
 
 # Spark Big Data
 

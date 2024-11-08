@@ -3,7 +3,7 @@
 
 Status: #Finished
 
-Tags: [[big data]] 
+Tags: [[big data]] [[academics]] 
 
 # Big Data Extraction
 

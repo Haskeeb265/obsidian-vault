@@ -3,7 +3,7 @@
 
 Status: #Finished
 
-Tags: [[project management]] 
+Tags: [[project management]]  [[academics]]
 
 # Introduction to Project Management
 

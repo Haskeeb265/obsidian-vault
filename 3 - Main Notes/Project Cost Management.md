@@ -3,7 +3,7 @@
 
 Status: #Finished 
 
-Tags: [[cost management]] [[project management]] 
+Tags: [[cost management]] [[project management]] [[academics]]
 
 # Project Cost Management
 

@@ -3,7 +3,7 @@
 
 Status: #InProgress
 
-Tags: [[project management]]
+Tags: [[project management]] [[academics]]
 
 # PERT Analysis, Three-Point Estimate
 

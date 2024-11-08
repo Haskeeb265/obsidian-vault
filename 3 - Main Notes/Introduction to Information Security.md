@@ -4,7 +4,7 @@
 Status: #InProgress 
 
 Tags:
-[[cybersecurity]] [[computer security]]
+[[cybersecurity]] [[computer security]] [[academics]]
 # Introduction to Information Security
 
 In the digital world, your data and your information is the most valuable asset. Hence that's why it should be your utmost priority to keep it safe and secure from attackers and potential threats. 
