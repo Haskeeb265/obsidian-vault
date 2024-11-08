@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/PERT Analysis, Three-Point Estimate.md",
+                "file": "3 - Main Notes/Project Cost Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PERT Analysis, Three-Point Estimate"
+              "title": "Project Cost Management"
             }
           }
         ]
       },
       {
-        "id": "163e61b3b0973e88",
+        "id": "f374375b38c5d6d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f183bb9e213fb6f1",
+            "id": "8458343434fe0edd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf"
+                "file": "2 - Source Material/Others/Project Cost Management University Lecture.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture"
+              "title": "Project Cost Management University Lecture"
             }
           }
         ]
@@ -190,19 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f183bb9e213fb6f1",
+  "active": "8458343434fe0edd",
   "lastOpenFiles": [
+    "3 - Main Notes/Project Cost Management.md",
+    "3 - Main Notes/PMI Knowledge Areas.md",
     "3 - Main Notes/PERT Analysis, Three-Point Estimate.md",
+    "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "3 - Main Notes/Project Planning.md",
     "3 - Main Notes/Untitled.md",
     "3 - Main Notes/Introduction to Project Management.md",
-    "3 - Main Notes/PMI Knowledge Areas.md",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
     "1 - Rough Notes/Are you a man.md",
     "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
     "Tags/project management.md",
-    "3 - Main Notes/Project Cost Management.md",
     "3 - Main Notes/Threats and Vulnerabilities.md",
     "3 - Main Notes/Spark Big Data.md",
     "3 - Main Notes/Big Data Integration.md",
@@ -217,7 +218,6 @@
     "Images/When to use which project management methodology.png",
     "Images",
     "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
-    "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
     "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
     "2 - Source Material/Others/PMI Knowledge Areas University Lecture.pdf",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
