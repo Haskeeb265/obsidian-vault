@@ -13,3 +13,4 @@ Tags: [[computer security]] [[cybersecurity]] [[academics]]
 
 
 #### References
+[[Threats and Vulnerabilities University Lecture Information Security.pdf]]
