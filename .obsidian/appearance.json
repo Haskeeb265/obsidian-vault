@@ -1,5 +1,8 @@
 {
   "accentColor": "#c41c76",
-  "cssTheme": "Ultra Lobster",
-  "theme": "obsidian"
+  "cssTheme": "Sanctum",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 16
 }
