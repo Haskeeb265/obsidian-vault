@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "cb1b68d33eba88c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcc8fbf56a63792a",
+  "active": "cb1b68d33eba88c2",
   "lastOpenFiles": [
     "4 - Journal/Wednesday, 13th Nov, 2024.md",
     "Tags/journal.md",
