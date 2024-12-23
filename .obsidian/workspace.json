@@ -11,26 +11,17 @@
             "id": "dcc8fbf56a63792a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "cb1b68d33eba88c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.6"
+                "file": "1 - Rough Notes/Are you a man.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "Are you a man"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1b68d33eba88c2",
+  "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
     "4 - Journal/Wednesday, 13th Nov, 2024.md",
     "Tags/journal.md",
