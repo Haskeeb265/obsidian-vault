@@ -18,7 +18,7 @@ There's a few things in my mind right now. First of all the most urgent is the S
 
 There's also this urgency of developing a game or an app looming over my head. I bought the google console play account and I didn't knew that Google would deactivate the account if you stay inactive for too long. I hope to start publishing apps as soon as possible. On top of that I need to completely revamp my digital profiles, resume, and I should start coding my online portfolio.
 
-And then there's K. I feel like my relationship with my parents isn't the best right now. For some reason they still think I'm immature and not ready for anything serious. Till Poma mamo's wedding I'll have to somehow prove to them that I'm mature enough for such stuff. 
+And then there's K. I feel like my relationship with my parents isn't the best right now. For some reason they still think I'm immature and not ready for anything serious. Till  mamo's wedding I'll have to somehow prove to them that I'm mature enough for such stuff. 
 
 That's all for today. So proud of you Haseeb! You did amazing so far. I hope you'll continue the day with the same momentum and drive. InshaaAllah!
 

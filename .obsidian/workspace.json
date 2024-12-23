@@ -11,12 +11,14 @@
             "id": "dcc8fbf56a63792a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/CyBOK_v1.1.0.pdf"
+                "file": "4 - Journal/Wednesday, 13th Nov, 2024.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CyBOK_v1.1.0"
+              "icon": "lucide-file",
+              "title": "Wednesday, 13th Nov, 2024"
             }
           }
         ]
@@ -172,8 +174,9 @@
   },
   "active": "dcc8fbf56a63792a",
   "lastOpenFiles": [
-    "1 - Rough Notes/Are you a man.md",
+    "Images/When to use which project management methodology.png",
     "2 - Source Material/Books/CyBOK_v1.1.0.pdf",
+    "1 - Rough Notes/Are you a man.md",
     "4 - Journal/Wednesday, 13th Nov, 2024.md",
     "Tags/journal.md",
     "3 - Main Notes/Threats and Vulnerabilities.md",
@@ -203,7 +206,6 @@
     "Templates/Main Note.md",
     "Templates/Rough Note.md",
     "conflict-files-obsidian-git.md",
-    "Images/When to use which project management methodology.png",
     "Images",
     "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
