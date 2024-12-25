@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "CyBOK_v1.1.0"
             }
+          },
+          {
+            "id": "61c00e2aef146654",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "666548f2e1d30c88",
+  "active": "61c00e2aef146654",
   "lastOpenFiles": [
     "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
     "4 - Journal/Wednesday, 13th Nov, 2024.md",
