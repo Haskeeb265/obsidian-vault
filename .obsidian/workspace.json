@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fa936bef5956f065",
+        "id": "a7152d2da6883bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "666548f2e1d30c88",
+            "id": "696b7aea0510118b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Books/CyBOK_v1.1.0.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CyBOK_v1.1.0"
-            }
-          },
-          {
-            "id": "61c00e2aef146654",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +168,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61c00e2aef146654",
+  "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
+    "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
+    "Tags/self-reflection.md",
+    "3 - Main Notes/Advanced Big Data Analytics.md",
+    "3 - Main Notes/Big Data Extraction.md",
+    "3 - Main Notes/2024-12-27.md",
+    "4 - Journal/Friday, 27th Dec, 2024.md",
     "4 - Journal/Wednesday, 13th Nov, 2024.md",
-    "Images/When to use which project management methodology.png",
     "2 - Source Material/Books/CyBOK_v1.1.0.pdf",
+    "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
+    "Images/When to use which project management methodology.png",
     "1 - Rough Notes/Are you a man.md",
     "Tags/journal.md",
     "3 - Main Notes/Threats and Vulnerabilities.md",
@@ -198,8 +189,6 @@
     "3 - Main Notes/Hadoop HDFS and MapReduce().md",
     "3 - Main Notes/Google File System.md",
     "3 - Main Notes/Big Data Integration.md",
-    "3 - Main Notes/Big Data Extraction.md",
-    "3 - Main Notes/Advanced Big Data Analytics.md",
     "3 - Main Notes/Spark Big Data.md",
     "3 - Main Notes/Project Cost Management.md",
     "3 - Main Notes/PMI Knowledge Areas.md",
@@ -214,9 +203,6 @@
     "Tags/project management.md",
     "Tags/self-improvement.md",
     "Tags/Islam.md",
-    "Templates/Main Note.md",
-    "Templates/Rough Note.md",
-    "conflict-files-obsidian-git.md",
     "Images",
     "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
     "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf",
