@@ -7,5 +7,6 @@ Mood: #Contemplating #Satisfied #Ambitious
 Tags:  [[journal]] [[self-reflection ]]
 
 
-#  Friday, 27th Dec, 2024
+#  Saturday, 28th Dec, 2024
 
+The year 
