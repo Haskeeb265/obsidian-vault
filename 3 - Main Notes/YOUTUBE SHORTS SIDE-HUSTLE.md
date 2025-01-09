@@ -2,9 +2,8 @@
 2025-01-10 00:42
 
 Status:  #Finished 
-Mood: 
 
-Tags:
+Tags: [[side hustle]] 
 
 #  YOUTUBE SHORTS SIDE-HUSTLE
 
