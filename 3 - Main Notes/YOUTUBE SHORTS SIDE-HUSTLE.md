@@ -18,3 +18,4 @@ Tags: [[side hustle]]
 Savett: https://savett.cc/en1/
 MP4 to MOV converter: https://www.freeconvert.com/mp4-to-mov
 Font: https://www.dafont.com/komika-axis.font
+AI Voice (Adam): https://elevenlabs.io/app/speech-synthesis/text-to-speech 
