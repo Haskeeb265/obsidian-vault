@@ -1,7 +1,7 @@
 
 2024-12-27 17:19
 
-Status: #InProgress  
+Status: #Finished 
 Mood: #Contemplating #Satisfied #Ambitious
 
 Tags:  [[journal]] [[self-reflection ]]
@@ -15,4 +15,4 @@ The best thing 2024 gave me is my K. Was it June or was it July? I don't remembe
 
 I got my first taste of corporate life in 2024 as well, I learned how fragile relationships are. This is coming from the fact that how in 3rd Semester two of my classmates got into a relation and now in 7th semester they broke up. I started to be more affectionate towards my mother. Can't say the same for my siblings. I started to be more conscious of my future and my responsibilities. Even though I still suffer with procrastination, all the time at the back of my head there's my thoughts about how to become a better person roaming.
 
-Before 2024 I was pretty much clueless. Going with the flow of life. No purpose whatsoever. Do what I'm 
+Before 2024 I was pretty much clueless. Going with the flow of life. No purpose whatsoever. Now I have a purpose. Now I know exactly what I need to do.
