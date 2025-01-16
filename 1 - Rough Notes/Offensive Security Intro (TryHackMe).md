@@ -30,3 +30,4 @@ This is the command that is used to execute GoBuster:
 - ==Security Engineer:== 
 
 #### References
+[[Offensive Security Intro]] 
