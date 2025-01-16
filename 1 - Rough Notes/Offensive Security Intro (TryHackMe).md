@@ -20,7 +20,8 @@ We used "GoBuster". It is a tool used to brute force:
 This is the command that is used to execute GoBuster:
 	gobuster -u http://fakebank.thm -w wordlist.txt dir
 
-- -u indicates the website that we wants to run GoBuster on
-- -w
+- **-u** indicates the website that we wants to run GoBuster on
+- **-w** is used to point to the file in which you have the words which you want to use in your bruteforce attack.
+- **dir** refers to the mode of Gobuster. In the above command we'll be brute forcing directories and files 
 
 #### References
