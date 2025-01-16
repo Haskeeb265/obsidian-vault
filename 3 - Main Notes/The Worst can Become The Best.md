@@ -1,7 +1,7 @@
 
 2025-01-16 15:23
 
-Status: #Started , #InProgress , #Finished 
+Status: #Finished
 
 Tags: [[Islam]] [[self-improvement]]
 
@@ -33,5 +33,5 @@ Life is about change. Change is our responsibility. Changing yourself and changi
 
 
 #### References
-[[2 - Source Material/Videos/The Worst can Become the Best|The Worst can Become the Best]]
+[[The Worst can Become the Best (MercifulServant)|The Worst can Become the Best (MercifulServant)]]
 https://sunnah.com/bukhari:6120
