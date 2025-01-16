@@ -17,6 +17,10 @@ We used "GoBuster". It is a tool used to brute force:
 - Open Google Cloud buckets
 - TFTP servers
 
+This is the command that is used to execute GoBuster:
+	gobuster -u http://fakebank.thm -w wordlist.txt dir
 
+- -u indicates the website that we wants to run GoBuster on
+- -w
 
 #### References
