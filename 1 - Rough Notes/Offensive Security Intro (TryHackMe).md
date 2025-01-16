@@ -22,6 +22,11 @@ This is the command that is used to execute GoBuster:
 
 - **-u** indicates the website that we wants to run GoBuster on
 - **-w** is used to point to the file in which you have the words which you want to use in your bruteforce attack.
-- **dir** refers to the mode of Gobuster. In the above command we'll be brute forcing directories and files 
+- **dir** refers to the mode of Gobuster. In the above command we'll be brute forcing directories and files
+
+## CYBER SECURITY ROLES:
+- ==Penetration Tester:== Responsible for finding vulnerabilities in technology products
+- ==Red Teamer:== Plays the role of a threat and attacks an organization and then providing feedback from the perspective of an enemy
+- ==Security Engineer:== 
 
 #### References
