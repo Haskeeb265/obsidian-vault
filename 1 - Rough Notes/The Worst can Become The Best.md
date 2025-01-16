@@ -12,5 +12,11 @@ Tags: [[Islam]] [[self-improvement]]
 
 
 
+https://sunnah.com/bukhari:6120
+
+
+
+
+
 #### References
 [[2 - Source Material/Videos/The Worst can Become the Best|The Worst can Become the Best]]
