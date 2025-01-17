@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Offensive Security Intro.md",
+                "file": "4 - Journal/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Offensive Security Intro"
+              "title": "Untitled"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "e24d25a35d04b70b",
   "lastOpenFiles": [
-    "1 - Rough Notes/Offensive Security Intro (TryHackMe).md",
     "3 - Main Notes/Offensive Security Intro.md",
+    "4 - Journal/Untitled.md",
+    "1 - Rough Notes/Offensive Security Intro (TryHackMe).md",
     "2 - Source Material/Videos/The Worst can Become the Best (MercifulServant).md",
     "3 - Main Notes/The Worst can Become The Best.md",
     "2 - Source Material/Videos/Are You a Man By Mohamed Hoblos.md",
@@ -203,7 +204,6 @@
     "3 - Main Notes/Spark Big Data.md",
     "3 - Main Notes/Project Cost Management.md",
     "3 - Main Notes/PMI Knowledge Areas.md",
-    "3 - Main Notes/PERT Analysis, Three-Point Estimate.md",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
     "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
