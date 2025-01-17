@@ -4,7 +4,7 @@
 Status: #Finished   
 Mood: #Ambitious #Happy #Satisfied
 
-Tags: [[journal]] [[self-reflection]]
+Tags: [[journal]] 
 
 #  Wednesday, 13th Nov, 2024
 

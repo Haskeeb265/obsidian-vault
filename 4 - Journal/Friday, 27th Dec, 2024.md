@@ -4,7 +4,7 @@
 Status: #Finished 
 Mood: #Contemplating #Satisfied #Ambitious
 
-Tags:  [[journal]] [[self-reflection ]]
+Tags:  [[journal]] 
 
 
 #  Saturday, 28th Dec, 2024
