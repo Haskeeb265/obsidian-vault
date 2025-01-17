@@ -8,7 +8,7 @@ Tags: [[journal]]
 
 #  Friday, 17th Jan, 2025
 
-I'm sitting infront of my computer 30mins before the Jummah. Nowadays I'm feeling a bit a
+I'm sitting infront of my computer 30mins before the Jummah. Nowadays I'm feeling a bit anxious 
 
 
 
