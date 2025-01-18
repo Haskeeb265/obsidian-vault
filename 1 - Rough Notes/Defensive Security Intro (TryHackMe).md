@@ -60,6 +60,10 @@ In defensive security, the focus of forensics is evidence after an attack. It fo
 
 Incident response is the methodology which is to be followed when an *incident* occurs. The aim is to reduce the damage and recover in as little time as possible.
 
+Here are the 4 major phases of incident response:
+1. Preparation
+2. Detection and Analysis
+
 
 
 
