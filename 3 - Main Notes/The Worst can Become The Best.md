@@ -3,7 +3,7 @@
 
 Status: #Finished
 
-Tags: [[Islam]] [[self-improvement]]
+Tags: [[Islam]] 
 
 # The Worst can Become the Best
 
