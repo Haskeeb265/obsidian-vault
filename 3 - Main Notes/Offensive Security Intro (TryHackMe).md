@@ -1,7 +1,7 @@
 
 2025-01-16 16:35
 
-Status: #InProgress
+Status: #Finished
 
 Tags: [[cybersecurity]], [[offensive security]] 
 
@@ -27,7 +27,7 @@ This is the command that is used to execute GoBuster:
 ## CYBER SECURITY ROLES:
 - ==Penetration Tester:== Responsible for finding vulnerabilities in technology products
 - ==Red Teamer:== Plays the role of a threat and attacks an organization and then providing feedback from the perspective of an enemy
-- ==Security Engineer:== 
+- ==Security Engineer:== Designs, maintains, and monitors security controls over the network to prevent any cyberattacks
 
 #### References
 [[Offensive Security Intro]] 
