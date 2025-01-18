@@ -47,7 +47,15 @@ In DIFR, we cover:
 
 #### Digital Forensics:
 
-Digital forensics is the process of investigating crimes and establish facts while preparing evidences which are presentable in court
+Digital forensics is the process of investigating crimes and establish facts while preparing evidences which are presentable in court.
+
+In defensive security, the focus of forensics is evidence after an attack. It focuses on different areas such as:
+
+1. File System: Analyzing low level copy (image) of a system.
+2. System Memory
+3. System logs
+4. Network Logs
+5. 
 
 
 
