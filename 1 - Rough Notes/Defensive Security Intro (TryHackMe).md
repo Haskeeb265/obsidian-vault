@@ -34,7 +34,15 @@ SOC's areas of interests are:
 SOC covers various tasks to ensure security. One such task is **Threat Intelligence**:
 ### Threat Intelligence:
 
-- Intelligence refers to the information you gather about actual and potential enemies. A threat is any actions which can negatively affect the system. 
+- Intelligence refers to the information you gather about actual and potential enemies. A threat is any actions which can negatively affect the system.
+- Threat intelligence helps companies better understand how to deal with their adversaries. Each company has different type of adversaries.
+- Intelligence needs data. Data is collected from local sources such as network logs and public sources such as forums. This data needs to be collected, processed, and analyzed. The analysis phase seeks to find more information about the enemy. It helps create a list of recommendation and actionable steps
+
+### Digital Forensics And Incident Response (DIFR):
+
+
+
+
 
 
 
