@@ -21,7 +21,20 @@ Defensive Security responsibilities includes:
 - Setting up logging and monitoring devices.
 
 
+## Security Operations Center (SOC)
 
+A SOC is a team of cybersecurity specialists which monitor the network to see any malicious activities.
+
+SOC's areas of interests are:
+- Vulnerabilities
+- Network intrusions
+- Unauthorized activity
+- Policy violations
+
+SOC covers various tasks to ensure security. One such task is **Threat Intelligence**:
+### Threat Intelligence:
+
+Intelligence refers to the information you gather about actual and potential enemies. A threat is any actions which can negatively affect the system. 
 
 
 
