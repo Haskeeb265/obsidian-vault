@@ -47,7 +47,7 @@ In DIFR, we cover:
 
 #### Digital Forensics:
 
-Digital forensics is the process of 
+Digital forensics is the process of investigating crimes and establish facts while preparing evidences which are presentable in court
 
 
 
