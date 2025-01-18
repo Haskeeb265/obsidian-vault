@@ -40,7 +40,14 @@ SOC covers various tasks to ensure security. One such task is **Threat Intellige
 
 ### Digital Forensics And Incident Response (DIFR):
 
+In DIFR, we cover:
+- Digital Forensics
+- Incident Response
+- Malware Analysis
 
+#### Digital Forensics:
+
+Digital forensics is the process of 
 
 
 
