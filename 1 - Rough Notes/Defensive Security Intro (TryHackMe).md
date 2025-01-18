@@ -34,7 +34,8 @@ SOC's areas of interests are:
 SOC covers various tasks to ensure security. One such task is **Threat Intelligence**:
 ### Threat Intelligence:
 
-Intelligence refers to the information you gather about actual and potential enemies. A threat is any actions which can negatively affect the system. 
+- Intelligence refers to the information you gather about actual and potential enemies. A threat is any actions which can negatively affect the system. 
+
 
 
 
