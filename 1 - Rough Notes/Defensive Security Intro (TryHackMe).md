@@ -55,7 +55,12 @@ In defensive security, the focus of forensics is evidence after an attack. It fo
 2. System Memory
 3. System logs
 4. Network Logs
-5. 
+
+### Incident Response:
+
+Incident response is the methodology which is to be followed when an *incident* occurs. The aim is to reduce the damage and recover in as little time as possible.
+
+
 
 
 
