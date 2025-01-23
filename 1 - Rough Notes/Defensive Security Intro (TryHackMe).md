@@ -74,6 +74,10 @@ Malware is malicious software. It can be anything such as software, files, and d
 - **Trojan Horse:** Usually attached to a usable software such as video player or editor. Underneath which dangerous code lurks. Once the program is installed, the malware is also installed in your PC
 - **Ransomware:** Encrypts the files of the victim and asked for money in return for the key of the encrypted files.
 
+> [!NOTE] IP Address
+> 	An IP address is like a home address for your computer on the PC. Your IP address tells the other computers where to send the information that you request.
+> New or Unknown IP Address's mean someone suspicious or new to the network is trying to get access
+
 
 
 
