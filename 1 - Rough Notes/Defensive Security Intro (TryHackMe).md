@@ -66,7 +66,10 @@ Here are the 4 major phases of incident response:
 3. Containment, Eradication, and Recovery
 4. Post-Incident Activity
 
+## Malware:
 
+Malware is malicious software. It can be anything such as software, files, and documents that are saved on your hard disk and can be shared over the network. There are different types of malware:
+1. 
 
 
 
