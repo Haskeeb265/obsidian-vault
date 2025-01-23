@@ -11,9 +11,9 @@ There is a lot of information on the internet. Anyone can post anything and clai
 
 We should consider the following things when evaluating information:
 
-1. **Source**
-2. **Evidence and Reasoning**
-3. **Objectivity and Bias**
+1. **Source**: Identify the author
+2. **Evidence and Reasoning:** Check if the claims made are backed up by credible and valid evidence
+3. **Objectivity and Bias:** See if the 
 4. **Corroboration and Consistency**
 
 
