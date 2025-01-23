@@ -13,10 +13,10 @@ We should consider the following things when evaluating information:
 
 1. **Source**: Identify the author
 2. **Evidence and Reasoning:** Check if the claims made are backed up by credible and valid evidence
-3. **Objectivity and Bias:** See if the 
-4. **Corroboration and Consistency**
+3. **Objectivity and Bias:** See if the information being presented from multiple perspectives or bias?
+4. **Corroboration and Consistency:** 
 
 
 
-#### References
+####  References
 [[Search Skills]]
