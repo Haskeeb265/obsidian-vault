@@ -69,7 +69,12 @@ Here are the 4 major phases of incident response:
 ## Malware:
 
 Malware is malicious software. It can be anything such as software, files, and documents that are saved on your hard disk and can be shared over the network. There are different types of malware:
-1. 
+
+-  **Virus:** A program attached to a file. It's purpose is to make the computer slow till its unusable. It is designed to spread from one computer to another. It works by overwriting, deleting, and altering the files on the infested PC
+- **Trojan Horse:** Usually attached to a usable software such as video player or editor. Underneath which dangerous code lurks. Once the program is installed, the malware is also installed in your PC
+- **Ransomware:** Encrypts the files of the victim and asked for money in return for the key of the encrypted files.
+
+
 
 
 
