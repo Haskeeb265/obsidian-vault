@@ -63,6 +63,8 @@ Incident response is the methodology which is to be followed when an *incident* 
 Here are the 4 major phases of incident response:
 1. Preparation
 2. Detection and Analysis
+3. Containment, Eradication, and Recovery
+4. Post-Incident Activity
 
 
 
