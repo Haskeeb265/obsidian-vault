@@ -26,9 +26,11 @@ Here are some of the advanced search operators that are allowed on Google:
 
 ## Special Search Engines:
 #### Shodan:
-allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
+Allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
 #### Censys:
-
+Censys is similar to Shodan however instead of returning results related to physical devices, it returns results related to open ports, digital certificates, internet assets and internet connected hosts (and more) 
+#### Virus Total:
+Helps you upload files and run them against several anti viruses to detect any malicious code. All of this happens in a single operation.
 
 ####  References
 [[Search Skills]]
