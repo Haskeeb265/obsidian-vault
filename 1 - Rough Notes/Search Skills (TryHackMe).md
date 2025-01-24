@@ -38,7 +38,12 @@ It tells you if your email has appeared in a data breach.
 ## Vulnerabilities and Exploits
 
 #### CVE:
-We can think of CVE program or Common Vulnerabilities and Exposure program as a dictionary of vulnerabilities. It is like a database of all known vulnerabilities which can be referred to by vendors, software devs and security researchers.  
+Link: https://www.nist.gov/
+We can think of CVE program or Common Vulnerabilities and Exposure program as a dictionary of vulnerabilities. It is like a database of all known vulnerabilities which can be referred to by vendors, software devs and security researchers.
+
+## Exploit Database:
+Link: https://www.exploit-db.com/
+Exploit database is a 
 
 ####  References
 [[Search Skills]]
