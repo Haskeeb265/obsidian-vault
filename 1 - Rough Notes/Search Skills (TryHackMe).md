@@ -20,8 +20,8 @@ Simply searching for the results that you want on search engines is the bare min
 
 Here are some of the advanced search operators that are allowed on Google:
 1. " ": The double quotation allows you to search for the exact phrases that you include in them. For example you might search for "Apple Sauce". This search would return you the pages with that exact phrase in them.
-2. site: *site name*: This allows you to limit the search to a certain domain or website. For example you might want to 
-
+2. site: *site name*: This allows you to limit the search to a certain domain or website. For example you might want to search for Honda Civic on pakwheels.com. you'd search for: ==site: pakwheels.com Honda civic==
+3. 
 
 ####  References
 [[Search Skills]]
