@@ -24,6 +24,11 @@ Here are some of the advanced search operators that are allowed on Google:
 3. filetype: This command allows you to search for keywords in the filetype that you want. For example you want to fine PDF's regarding cybersecurity, you'd search: ==filetype: pdf cybersecurity== 
 
 
+## Special Search Engines:
+#### Shodan:
+allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
+#### Censys:
+
 
 ####  References
 [[Search Skills]]
