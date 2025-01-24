@@ -33,5 +33,11 @@ Censys is similar to Shodan however instead of returning results related to phys
 Helps you upload files and run them against several anti viruses to detect any malicious code. All of this happens in a single operation.
 #### Have I Been Pwned:
 It tells you if your email has appeared in a data breach.
+
+
+## Vulnerabilities and Exploits
+
+#### CVE:
+
 ####  References
 [[Search Skills]]
