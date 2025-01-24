@@ -31,6 +31,7 @@ Allows you to search for specific types and versions of servers, networking equi
 Censys is similar to Shodan however instead of returning results related to physical devices, it returns results related to open ports, digital certificates, internet assets and internet connected hosts (and more) 
 #### Virus Total:
 Helps you upload files and run them against several anti viruses to detect any malicious code. All of this happens in a single operation.
-
+#### Have I Been Pwned:
+It tells you if your email has appeared in a data breach.
 ####  References
 [[Search Skills]]
