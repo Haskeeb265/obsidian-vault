@@ -43,7 +43,7 @@ We can think of CVE program or Common Vulnerabilities and Exposure program as a 
 
 ## Exploit Database:
 Link: https://www.exploit-db.com/
-Exploit database is a 
+Exploit database is a database which consists of exploit codes by different authors.
 
 ####  References
 [[Search Skills]]
