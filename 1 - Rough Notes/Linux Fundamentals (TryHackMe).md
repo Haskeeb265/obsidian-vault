@@ -17,6 +17,11 @@ Linux is used in almost every commercial application such as:
 - Linux is open source and thanks to that we can all the OS's that are developed for different use cases.
 - The first Linux distribution was released in 1991
 
+### Ubuntu Commands:
+1. echo "Message": Outputs the message
+2. whoami: Shows who you're logged in as
+3. ls: Lists all the directories in the current directory or desktop that you're in
+4. cd ""
 
 
 
