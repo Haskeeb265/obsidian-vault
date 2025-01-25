@@ -1,7 +1,7 @@
 
 2025-01-17 12:59
 
-Status: #Started , #InProgress , #Finished 
+Status: #Finished 
 Mood: #Anxious , #Ambitious 
 
 Tags: [[journal]]
