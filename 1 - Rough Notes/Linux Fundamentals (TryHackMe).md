@@ -25,6 +25,8 @@ Linux is used in almost every commercial application such as:
 5. cd .. : Goes back to the previous directory
 6. cat: Cat stands for concatenate. We use this command to give us an output of files.
 7. pwd: pwd stands for **Print Working Directory** this command is used to keep track of where you are in the filesystem.
+8. find -name *name of file*: The find command helps us search for files through the entire system. Instead of using ls, cd, repeatedly for all available directories, we can run a single find command and it will return the path of the file that we're looking for.
+	Let's say you don't know the name of the file that you're looking for. What you can do is use 
 
 
 
