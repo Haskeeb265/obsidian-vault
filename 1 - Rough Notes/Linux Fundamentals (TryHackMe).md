@@ -7,8 +7,11 @@ Tags: [[linux]] [[cybersecurity]]
 
 # Linux Fundamentals (TryHackMe)
 
+Linux is used in 
+
 
 
 
 
 #### References
+[[Linux Fundamentals]]
