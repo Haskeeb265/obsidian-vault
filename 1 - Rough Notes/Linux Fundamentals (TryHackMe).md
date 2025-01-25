@@ -14,6 +14,10 @@ Linux is used in almost every commercial application such as:
 
 - Linux is very lightweight. It can run on a system with only 512MB RAM. 
 - Linux is actually an umbrella term for multiple OS's
+- Linux is open source and thanks to that we can all the OS's that are developed for different use cases.
+- The first Linux distribution was released in 1991
+
+
 
 
 
