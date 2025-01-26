@@ -35,9 +35,12 @@ Linux is used in almost every commercial application such as:
 ### Shell Operators:
 
 
-| &   | This operator allows you to run commands in the background of your terminal |
-| --- | --------------------------------------------------------------------------- |
-| &&  | This operator tries                                                         |
+| &   | This operator allows you to run commands in the background of your terminal     |
+| --- | ------------------------------------------------------------------------------- |
+| &&  | This operator allows you to combine multiple commands together in a single line |
+| >   |                                                                                 |
+| >>  |                                                                                 |
+|     |                                                                                 |
 
 
 
