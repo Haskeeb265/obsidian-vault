@@ -35,12 +35,12 @@ Linux is used in almost every commercial application such as:
 ### Shell Operators:
 
 
-| &   | This operator allows you to run commands in the background of your terminal     |
-| --- | ------------------------------------------------------------------------------- |
-| &&  | This operator allows you to combine multiple commands together in a single line |
-| >   |                                                                                 |
-| >>  |                                                                                 |
-|     |                                                                                 |
+| &   | This operator allows you to run commands in the background of your terminal. For example if we want to copy a large file, we can run that command in the background using this operator. |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| &&  | This operator allows you to combine multiple commands together in a single line                                                                                                          |
+| >   | This operator allows us to take the output from another command (such as cat) and direct that command elsewhere. Also known as "Redirector"                                              |
+| >>  |                                                                                                                                                                                          |
+|     |                                                                                                                                                                                          |
 
 
 
