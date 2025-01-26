@@ -30,7 +30,7 @@ Linux is used in almost every commercial application such as:
 	    find -name *.txt
 	    The above command would return every file which holds the extension .txt in the end.
 
-9. grep: This command is used to find a specific value within a file. Consider a file with 100 names and you want to find the name "Haseeb". Instead of going thoru 
+9. grep: This command is used to find a specific value within a file. Consider a file with 100 names and you want to find the name "Haseeb". Instead of going throug
 
 
 
