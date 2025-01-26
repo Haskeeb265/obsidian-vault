@@ -32,6 +32,14 @@ Linux is used in almost every commercial application such as:
 
 9. grep: This command is used to find a specific value within a file. Consider a file with 100 names and you want to find the name "Haseeb". Instead of going through the entire file. For example, grep "Haseeb" names.txt would fetch the name Haseeb from names.txt if it exists.
 
+### Shell Operators:
+
+
+| &   | This operator allows you to run commands in the background of your terminal |
+| --- | --------------------------------------------------------------------------- |
+| &&  | This operator tries                                                         |
+
+
 
 
 #### References
