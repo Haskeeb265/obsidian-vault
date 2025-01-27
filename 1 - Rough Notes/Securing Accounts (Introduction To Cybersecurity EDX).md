@@ -17,6 +17,7 @@ Tags: [[cybersecurity]]
 1. **Dictionary Attack:** A dictionary attack is basically an attacker collecting information on you, storing it into a computer file and then using that file to brute-force your password.
 2. **Brute-Force Attacks**: A Brute-Force attack is basically trying all possible combinations in the hope of that one combination will break the password. Passwords of shorter length are more vulnerable to brute-force attack compared to password of longer lengths
 
+- We have to balance between choosing a password which we can remember eas
 
 
 
