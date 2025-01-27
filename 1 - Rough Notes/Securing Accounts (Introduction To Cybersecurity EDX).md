@@ -44,7 +44,7 @@ Tags: [[cybersecurity]]
 It is basically signing up with another account on another website or app such as "Sign in with Google" or "Sign in with Facebook". The presumption here is that since accounts like Google and Facebook are dear to you, chances are you've already set 2FA and secure passwords on them. Since we meet the security criteria, why not just log in with those accounts directly instead of creating or registering a new account.
 
 ### Password Managers
-Password managers not only save passwords for you but they also create, 
+Password managers not only save passwords for you but they also create them for you too as well as automatically log you in on legit URLs or the URLs on which you created a password using the password manager. This practice saves us from Phishing attacks as well
 
 
 
