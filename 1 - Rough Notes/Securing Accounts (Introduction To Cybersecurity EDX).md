@@ -41,7 +41,10 @@ Tags: [[cybersecurity]]
 ## Some Security Solutions:
 
 ### Single Sign-On (SSO):
-It is basically signing up with another account on another website or app such as "Sign in with Google" or "Sign in with Facebook". The presu
+It is basically signing up with another account on another website or app such as "Sign in with Google" or "Sign in with Facebook". The presumption here is that since accounts like Google and Facebook are dear to you, chances are you've already set 2FA and secure passwords on them. Since we meet the security criteria, why not just log in with those accounts directly instead of creating or registering a new account.
+
+### Password Managers
+Password managers not only save passwords for you but they also create, 
 
 
 
