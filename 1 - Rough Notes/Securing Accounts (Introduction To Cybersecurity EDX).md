@@ -35,6 +35,13 @@ Tags: [[cybersecurity]]
 - **Keylogging** is the process of recording the keystrokes of a person's computer. It is done by first installing a keylogger into the persons' PC which then records and sends the keystrokes back to the adversary's server/PC
 - **Credential Stuffing** trying the usernames and passwords that has been breached on another website(S) in hope that the victim is using the same username and password
 - **Phishing** is basically doing social engineering but in a more technical way.
+- **Machine-in-the-Middle** is basically being vary of machines in the internet such as routers, switches, etc. which might harm you when your information goes through them
+
+---
+## Some Security Solutions:
+
+### Single Sign-On (SSO):
+It is basically signing up with another account on another website or app such as "Sign in with Google" or "Sign in with Facebook". The presu
 
 
 
