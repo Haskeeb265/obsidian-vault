@@ -14,7 +14,8 @@ Tags: [[cybersecurity]]
 
 ## Some Common Attacks
 
-1. **Dictionary Attack:** A dictionary attack is basically an attacker collecting information on you, storing it into a 
+1. **Dictionary Attack:** A dictionary attack is basically an attacker collecting information on you, storing it into a computer file and then using that file to brute-force your password.
+2. **Brute-Force Attacks**: A Brute-Force attack is basically trying all possible combinations in the hope of that one combination will break the password 
 
 
 

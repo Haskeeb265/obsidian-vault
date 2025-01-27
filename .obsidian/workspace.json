@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -154,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,8 +176,8 @@
   "active": "81cad6e105683fba",
   "lastOpenFiles": [
     "2 - Source Material/Videos/Edx CS50 Securing Accounts.md",
-    "2 - Source Material/Videos/Edx CS50 Introduction to CyberSecurity (Securing Accounts).md",
     "1 - Rough Notes/Securing Accounts (Introduction To Cybersecurity EDX).md",
+    "2 - Source Material/Videos/Edx CS50 Introduction to CyberSecurity (Securing Accounts).md",
     "3 - Main Notes/Linux Fundamentals (TryHackMe).md",
     "Untitled.canvas",
     "Untitled 1.canvas",
