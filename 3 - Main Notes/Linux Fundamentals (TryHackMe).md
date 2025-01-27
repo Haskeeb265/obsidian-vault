@@ -1,7 +1,7 @@
 
 2025-01-25 12:29
 
-Status: #InProgress
+Status: #Finished 
 
 Tags: [[linux]] [[cybersecurity]] 
 
@@ -35,12 +35,12 @@ Linux is used in almost every commercial application such as:
 ### Shell Operators:
 
 
-| &   | This operator allows you to run commands in the background of your terminal. For example if we want to copy a large file, we can run that command in the background using this operator.                                               |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| &&  | This operator allows you to combine multiple commands together in a single line. For example: ==command1 && command2==. Command2 will only run if command1 is successful.                                                              |
-| >   | This operator allows us to take the output from another command (such as cat) and direct that command elsewhere. Also known as "Redirector". For example: ==echo hi > greeting== would save the output "hi" in a file called greeting. |
-| >>  | This operator is same as > however if this operator appends rather than overwriting. > overwrites the content in a file.                                                                                                               |
-|     |                                                                                                                                                                                                                                        |
+| Operator | Description                                                                                                                                                                                                                            |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| &&       | This operator allows you to combine multiple commands together in a single line. For example: ==command1 && command2==. Command2 will only run if command1 is successful.                                                              |
+| >        | This operator allows us to take the output from another command (such as cat) and direct that command elsewhere. Also known as "Redirector". For example: ==echo hi > greeting== would save the output "hi" in a file called greeting. |
+| >>       | This operator is same as > however if this operator appends rather than overwriting. > overwrites the content in a file.                                                                                                               |
+| &        | This operator allows you to run commands in the background of your terminal. For example if we want to copy a large file, we can run that command in the background using this operator.                                               |
 
 
 
