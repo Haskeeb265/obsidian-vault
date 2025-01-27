@@ -1,0 +1,1 @@
+https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/block-v1:HarvardX+CS50CS+Cybersecurity+type@sequential+block@d4c7ab1efef14ae5bee7abac07fca417/block-v1:HarvardX+CS50CS+Cybersecurity+type@vertical+block@a7d809c1862640b99bccbd06b55227a8
