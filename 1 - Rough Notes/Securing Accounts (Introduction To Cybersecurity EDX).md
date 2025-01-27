@@ -22,6 +22,7 @@ Tags: [[cybersecurity]]
   - According to NIST, the smallest number of characters in a password should be 8 and the longest should be 64
   - The developers should compare the password of the user to check if it's a commonly compromised password. If it is, give user an alert to choose a better password.
   - Developers should also not give a hint to the user or an unauthorized person. For example: "What's the name of your pet?"
+  - After a certain numer
 
 
 
