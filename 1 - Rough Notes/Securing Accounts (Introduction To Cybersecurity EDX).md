@@ -33,7 +33,8 @@ Tags: [[cybersecurity]]
   3. Inherence: Something that's part of you like your fingerprint
 
 - **Keylogging** is the process of recording the keystrokes of a person's computer. It is done by first installing a keylogger into the persons' PC which then records and sends the keystrokes back to the adversary's server/PC
-- **Credential Stuffing** 
+- **Credential Stuffing** trying the usernames and passwords that has been breached on another website(S) in hope that the victim is using the same username and password
+- **Phishing** is basically doing social engineering but in a more technical way.
 
 
 
