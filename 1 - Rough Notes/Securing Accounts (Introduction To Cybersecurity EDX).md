@@ -20,7 +20,8 @@ Tags: [[cybersecurity]]
 - We have to balance between choosing a password which we can remember easily (usability) and making it hard for the adversary to crack the code (security).
 - **NIST** is an organization which standardize cybersecurity including other things.
   - According to NIST, the smallest number of characters in a password should be 8 and the longest should be 64
-  - The developers should compare the password of the user to check if it's a commonly compromised passwo
+  - The developers should compare the password of the user to check if it's a commonly compromised password. If it is, give user an alert to choose a better password.
+  - Developers should also not give a hint to the user or an unauthorized person. For example: "What's the name of your pet?"
 
 
 
