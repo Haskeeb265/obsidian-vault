@@ -18,9 +18,12 @@ Tags: [[programming language]] [[cybersecurity]] [[low-level programming]]
   - Cryptography
   - Safety Critical Applications
 
-- 
+- Rust is made to guide a dev towards a reliable and safe code
+- It helps developers mitigate and traverse through the rough waters of low level programming
+- Rust is not made for any single domain. 
 
 
 
 
 #### References
+[[Foreword (Rust the book)]]
