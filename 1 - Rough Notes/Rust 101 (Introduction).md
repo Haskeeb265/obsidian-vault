@@ -25,7 +25,7 @@ Tags: [[programming language]] [[cybersecurity]] [[low-level programming]]
 
 ## Rust Developer Tools:
 
-1. **Cargo:** 
+1. **Cargo:** An included dependency manager and build tool. It helps with compiling
 
 
 
