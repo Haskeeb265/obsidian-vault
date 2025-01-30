@@ -32,7 +32,13 @@ Security engineers develop and implement security solutions using historical and
 Incident Responders are crucial assets of a company. They're responsible dealing with cyber attacks in real-time and after the incident has happened. Their duty includes mitigating damages and putting systems back on track after a cyber attack occurs. 
 
 ## Digital Forensics Examiner
-Digital forensics investigate cyber attacks, collect digital evidence, and track down perpetrators. The responsibility of a digital forensics examiner is similar to a real life detective with the only difference being that instead of investigating real life crime scenes, digital forensics examiners investigate digital crime scenes. 
+Digital forensics investigate cyber attacks, collect digital evidence, and track down perpetrators. The responsibility of a digital forensics examiner is similar to a real life detective with the only difference being that instead of investigating real life crime scenes, digital forensics examiners investigate digital crime scenes.
+
+## Malware Analyst
+A Malware Analyst is responsible for analyzing suspicious software they prove as a threat to an organization. Also known as reverse engineering, Malware analyses includes finding out the working of a malware and how it's working mechanisms with the goal of implementing counter measures that saves systems Or/And networks against similar suspicious software. To be a Malware Analyst you must have a strong programming background especially in low-level programming such as C and assembly language.
+
+## Penetration Testing:
+Penetration testing or PenTesting includes an individual testing and breaking into systems and networks of an organization with a goal of finding any vulnerabilities. Through systemized hacking, Pentesters attempt to break into the network and systems of an organization to report any vulnerable infrastructure which then can be rectified by the organization.
 
 #### References
 [[Careers in Cybersecurity (TryHackMe)]]
