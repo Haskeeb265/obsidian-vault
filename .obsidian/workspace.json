@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e7943dc94e424af9",
+        "id": "6e206071d379c6d7",
         "type": "tabs",
         "children": [
           {
@@ -19,6 +19,37 @@
               },
               "icon": "lucide-file",
               "title": "Intrusion Detection System"
+            }
+          },
+          {
+            "id": "e58923193a0b7ba1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "30353b4e8e71afcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf441700f84c307",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11"
             }
           }
         ]
@@ -77,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -172,16 +204,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81cad6e105683fba",
+  "active": "e58923193a0b7ba1",
   "lastOpenFiles": [
+    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
+    "1 - Rough Notes/Intrusion Detection System.md",
+    "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
+    "2 - Source Material/Books and PDFs/Foreword (Rust the book).md",
     "1 - Rough Notes/Rust 101 (Introduction).md",
     "Tags/project.md",
-    "1 - Rough Notes/Intrusion Detection System.md",
     "3 - Main Notes/Careers in Cybersecurity.md",
     "2 - Source Material/Articles/Careers in Cybersecurity (TryHackMe).md",
     "Tags/career.md",
-    "2 - Source Material/Books/Introduction (Rust the book).md",
-    "2 - Source Material/Books/Foreword (Rust the book).md",
+    "2 - Source Material/Books and PDFs/Introduction (Rust the book).md",
     "3 - Main Notes/Securing Accounts (Introduction To Cybersecurity EDX).md",
     "2 - Source Material/Videos/Edx CS50 Introduction to CyberSecurity (Securing Accounts).md",
     "2 - Source Material/Videos/Edx CS50 Securing Accounts.md",
@@ -201,9 +235,7 @@
     "4 - Journal/Wednesday, 13th Nov, 2024.md",
     "3 - Main Notes/Search Skills (TryHackMe).md",
     "3 - Main Notes/Offensive Security Intro (TryHackMe).md",
-    "3 - Main Notes/The Worst can Become The Best.md",
     "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
-    "2 - Source Material/Books/CyBOK_v1.1.0.pdf",
     "Images/When to use which project management methodology.png",
     "2 - Source Material/Others/Threats and Vulnerabilities University Lecture Information Security.pdf",
     "2 - Source Material/Others/Project Cost Management University Lecture.pdf",
@@ -211,7 +243,6 @@
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
     "Images",
-    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf",
-    "2 - Source Material/Others/Creep Management and Project Management Process Groups University Lecture.pdf"
+    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf"
   ]
 }

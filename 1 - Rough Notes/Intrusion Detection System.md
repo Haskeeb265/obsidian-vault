@@ -1,7 +1,7 @@
 
 2025-01-31 03:08
 
-Status: #Finished 
+Status: #InProgress 
 
 Tags: [[cybersecurity]] [[project]]
 
@@ -11,5 +11,5 @@ Intrusion Detection Systems are software or hardware systems that automate the p
 
 
 
-
 #### References
+[[NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf]]
