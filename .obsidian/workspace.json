@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Rust 101 (Introduction).md",
+                "file": "3 - Main Notes/Careers in Cybersecurity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust 101 (Introduction)"
+              "title": "Careers in Cybersecurity"
             }
           }
         ]
@@ -174,10 +174,10 @@
   },
   "active": "81cad6e105683fba",
   "lastOpenFiles": [
+    "1 - Rough Notes/Rust 101 (Introduction).md",
     "3 - Main Notes/Careers in Cybersecurity.md",
     "2 - Source Material/Articles/Careers in Cybersecurity (TryHackMe).md",
     "Tags/career.md",
-    "1 - Rough Notes/Rust 101 (Introduction).md",
     "2 - Source Material/Books/Introduction (Rust the book).md",
     "2 - Source Material/Books/Foreword (Rust the book).md",
     "3 - Main Notes/Securing Accounts (Introduction To Cybersecurity EDX).md",
