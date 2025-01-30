@@ -13,43 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Intrusion Detection System.md",
+                "file": "1 - Rough Notes/Rust 101 (Introduction).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intrusion Detection System"
-            }
-          },
-          {
-            "id": "e58923193a0b7ba1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "30353b4e8e71afcf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5bf441700f84c307",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11"
+              "title": "Rust 101 (Introduction)"
             }
           }
         ]
@@ -71,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -204,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e58923193a0b7ba1",
+  "active": "81cad6e105683fba",
   "lastOpenFiles": [
-    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "1 - Rough Notes/Intrusion Detection System.md",
+    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "2 - Source Material/Books and PDFs/Foreword (Rust the book).md",
     "1 - Rough Notes/Rust 101 (Introduction).md",
