@@ -1,7 +1,7 @@
 
 2025-01-30 03:25
 
-Status: #InProgress
+Status: #Finished
 
 Tags: [[programming language]] [[cybersecurity]] [[low-level programming]] 
 
@@ -31,3 +31,4 @@ Tags: [[programming language]] [[cybersecurity]] [[low-level programming]]
 
 #### References
 [[Foreword (Rust the book)]]
+[[Introduction (Rust the book)]]
