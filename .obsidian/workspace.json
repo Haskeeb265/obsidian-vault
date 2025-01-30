@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Careers in Cybersecurity.md",
+                "file": "1 - Rough Notes/Intrusion Detection System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Careers in Cybersecurity"
+              "title": "Intrusion Detection System"
             }
           }
         ]
@@ -175,6 +175,8 @@
   "active": "81cad6e105683fba",
   "lastOpenFiles": [
     "1 - Rough Notes/Rust 101 (Introduction).md",
+    "Tags/project.md",
+    "1 - Rough Notes/Intrusion Detection System.md",
     "3 - Main Notes/Careers in Cybersecurity.md",
     "2 - Source Material/Articles/Careers in Cybersecurity (TryHackMe).md",
     "Tags/career.md",
@@ -200,8 +202,6 @@
     "3 - Main Notes/Search Skills (TryHackMe).md",
     "3 - Main Notes/Offensive Security Intro (TryHackMe).md",
     "3 - Main Notes/The Worst can Become The Best.md",
-    "3 - Main Notes/YOUTUBE SHORTS SIDE-HUSTLE.md",
-    "2 - Source Material/Articles/Offensive Security Intro.md",
     "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
     "2 - Source Material/Books/CyBOK_v1.1.0.pdf",
     "Images/When to use which project management methodology.png",
