@@ -21,6 +21,14 @@ Security analysts are very important for constructing safe and secure infrastruc
 - Compile reports and documents regarding the safety of networks, security issues, and their solutions plus the measures taken in response
 - Develop security plans and conduct research of new tools and methods to stay up to date with counter security methods.
 
+## Security Engineer
+Security engineers develop and implement security solutions using historical and current threats and vulnerability data of a company. They're duties include circumventing a wide breadth of attacks from web app attacks, network attacks, to evolving threats.
+
+- Testing and screening security solutions across software
+- Monitor network and report to update system security
+- Identification of systems needed for optimal security.
+
+## 
 
 #### References
 [[Careers in Cybersecurity (TryHackMe)]]
