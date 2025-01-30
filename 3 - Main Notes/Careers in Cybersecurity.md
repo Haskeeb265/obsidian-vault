@@ -1,7 +1,7 @@
 
 2025-01-30 15:36
 
-Status: #InProgress 
+Status: #Finished 
 
 Tags: [[cybersecurity]] [[career]] 
 
