@@ -17,7 +17,12 @@ cargo new *project-name*
 The new cargo project generated has an src folder with a *main.rs* file and a *Cargo.toml* file. 
 ==toml==: Tom's Obvious Minimal Language
 
+We refer to packages as **crates** in rust
 
+This is how you run your cargo code:
+```
+cargo build
+```
 
 
 #### References
