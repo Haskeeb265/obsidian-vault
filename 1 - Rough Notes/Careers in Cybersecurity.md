@@ -28,7 +28,11 @@ Security engineers develop and implement security solutions using historical and
 - Monitor network and report to update system security
 - Identification of systems needed for optimal security.
 
-## 
+## Incident Responder
+Incident Responders are crucial assets of a company. They're responsible dealing with cyber attacks in real-time and after the incident has happened. Their duty includes mitigating damages and putting systems back on track after a cyber attack occurs. 
+
+## Digital Forensics Examiner
+Digital forensics investigate cyber attacks, collect digital evidence, and track down perpetrators. The responsibility of a digital forensics examiner is similar to a real life detective with the only difference being that instead of investigating real life crime scenes, digital forensics examiners investigate digital crime scenes. 
 
 #### References
 [[Careers in Cybersecurity (TryHackMe)]]
