@@ -37,8 +37,11 @@ Digital forensics investigate cyber attacks, collect digital evidence, and track
 ## Malware Analyst
 A Malware Analyst is responsible for analyzing suspicious software they prove as a threat to an organization. Also known as reverse engineering, Malware analyses includes finding out the working of a malware and how it's working mechanisms with the goal of implementing counter measures that saves systems Or/And networks against similar suspicious software. To be a Malware Analyst you must have a strong programming background especially in low-level programming such as C and assembly language.
 
-## Penetration Testing:
+## Penetration Testing
 Penetration testing or PenTesting includes an individual testing and breaking into systems and networks of an organization with a goal of finding any vulnerabilities. Through systemized hacking, Pentesters attempt to break into the network and systems of an organization to report any vulnerable infrastructure which then can be rectified by the organization.
+
+## Red Teamer
+Red teamers are more or less like Pentesters. However unlike Pentesters, they emulate an actual cyber attack externally and focuses solely on the detection and response systems of an organization. Sometimes these attacks go on till months!
 
 #### References
 [[Careers in Cybersecurity (TryHackMe)]]
