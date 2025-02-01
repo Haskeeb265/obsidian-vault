@@ -20,5 +20,7 @@ In the above code, ==new== is an associated function of ==String==
 
 - In short, in the above code, we created a new mutable variable using ==let== which we named guess. Then we declared that the guess variable is currently an 
 
-**Cargo.lock** helps us with producing reproduceable codes. What we mean by that is when you build your code, Cargo figures out the dependencies that fit the criteria of your code and save them in the Cargo.lock file. What this does is even if a new version of that dependency was to come out tomorrow, Cargo would use the specified version of that dependency from your Cargo.tom
+**Cargo.lock** helps us with producing reproduceable codes. What we mean by that is when you build your code, Cargo figures out the dependencies that fit the criteria of your code and save them in the Cargo.lock file. What this does is even if a new version of that dependency was to come out tomorrow, Cargo would use the specified version of that dependency from your Cargo.toml. This allows Rust to not recompile the code from scratch every time and rather only focus on the new changes. 
+
+
 #### References
