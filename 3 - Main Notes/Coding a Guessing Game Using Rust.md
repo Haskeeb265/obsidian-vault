@@ -25,3 +25,4 @@ In the above code, ==new== is an associated function of ==String==
 
 - *Shadowing:* Shadowing is a property in Rust which allows us to use the names of previous variables.
 #### References
+[[Programming a Guessing Game (Rust the book)]]
