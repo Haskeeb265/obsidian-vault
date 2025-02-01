@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Intrusion Detection System"
             }
-          },
-          {
-            "id": "32061aafdbda82fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32061aafdbda82fa",
+  "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
     "3 - Main Notes/Rust 101 Anatomy of a Rust Program.md",
     "1 - Rough Notes/Intrusion Detection System.md",
