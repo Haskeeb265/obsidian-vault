@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Intrusion Detection System"
             }
+          },
+          {
+            "id": "32061aafdbda82fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,14 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0c3a81ea5c65fe8",
+  "active": "32061aafdbda82fa",
   "lastOpenFiles": [
+    "3 - Main Notes/Rust 101 Anatomy of a Rust Program.md",
     "1 - Rough Notes/Intrusion Detection System.md",
+    "1 - Rough Notes/Untitled.md",
     "3 - Main Notes/Rust Cargo.md",
     "2 - Source Material/Books and PDFs/Introduction (Rust the book).md",
     "2 - Source Material/Books and PDFs/Hello, Cargo! (Rust the book).md",
     "3 - Main Notes/Untitled.md",
-    "3 - Main Notes/Rust 101 Anatomy of a Rust Program.md",
     "2 - Source Material/Books and PDFs/Hello World! (Rust the book).md",
     "2 - Source Material/Books and PDFs/Rust the book.md",
     "3 - Main Notes/Rust 101 (Introduction).md",
@@ -204,7 +218,6 @@
     "2 - Source Material/Articles/Linux Fundamentals.md",
     "Tags/linux.md",
     "4 - Journal/Monday, 20th Jan, 2025.md",
-    "4 - Journal/Friday, 27th Dec, 2024.md",
     "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
     "Images/When to use which project management methodology.png",
     "2 - Source Material/Others/Threats and Vulnerabilities University Lecture Information Security.pdf",
