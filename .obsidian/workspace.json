@@ -11,10 +11,14 @@
             "id": "1187c048daecd951",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Rust Cargo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rust Cargo"
             }
           }
         ]
