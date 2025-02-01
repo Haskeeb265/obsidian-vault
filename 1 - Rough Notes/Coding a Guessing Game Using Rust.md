@@ -23,4 +23,5 @@ In the above code, ==new== is an associated function of ==String==
 **Cargo.lock** helps us with producing reproduceable codes. What we mean by that is when you build your code, Cargo figures out the dependencies that fit the criteria of your code and save them in the Cargo.lock file. What this does is even if a new version of that dependency was to come out tomorrow, Cargo would use the specified version of that dependency from your Cargo.toml. This allows Rust to not recompile the code from scratch every time and rather only focus on the new changes. 
 
 
+- *Shadowing:* Shadowing is a property in Rust which allows us to use the names of previous variables.
 #### References
