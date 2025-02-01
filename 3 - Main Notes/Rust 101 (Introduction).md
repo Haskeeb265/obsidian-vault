@@ -3,7 +3,7 @@
 
 Status: #Finished
 
-Tags: [[programming language]] [[cybersecurity]] [[low-level programming]] 
+Tags: [[programming language]] [[cybersecurity]] [[low-level programming]] [[rust]]
 
 # Rust 101 (Introduction)
 

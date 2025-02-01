@@ -3,7 +3,7 @@
 
 Status: #Finished 
 
-Tags: [[cybersecurity]] [[career]] 
+Tags: [[cybersecurity]] [[career]] [[tryhackme]]
 
 # Careers in Cybersecurity
 

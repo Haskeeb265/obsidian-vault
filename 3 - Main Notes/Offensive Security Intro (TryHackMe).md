@@ -3,7 +3,7 @@
 
 Status: #Finished
 
-Tags: [[cybersecurity]], [[offensive security]] 
+Tags: [[cybersecurity]], [[offensive security]] [[tryhackme]]
 
 # Offensive Security Intro
 

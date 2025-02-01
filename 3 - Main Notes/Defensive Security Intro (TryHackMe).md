@@ -3,7 +3,7 @@
 
 Status: #Finished 
 
-Tags: [[defensive security]] [[cybersecurity]]
+Tags: [[defensive security]] [[cybersecurity]] [[tryhackme]]
 
 # Defensive Security Intro (TryHackMe)
 

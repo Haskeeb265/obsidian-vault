@@ -3,7 +3,7 @@
 
 Status: #InProgress 
 
-Tags:[[low-level programming]] [[cybersecurity]]
+Tags:[[low-level programming]] [[cybersecurity]] [[rust]]
 
 # Coding a Guessing Game Using Rust
 

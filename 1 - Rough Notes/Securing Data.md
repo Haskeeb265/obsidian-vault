@@ -3,7 +3,7 @@
 
 Status: #InProgress
 
-Tags: [[cybersecurity]] 
+Tags: [[cybersecurity]] [[CS50]]
 # Securing Data
 
 

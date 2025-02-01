@@ -3,7 +3,7 @@
 
 Status: #Finished 
 
-Tags: [[linux]] [[cybersecurity]] 
+Tags: [[linux]] [[cybersecurity]] [[tryhackme]]
 
 # Linux Fundamentals (TryHackMe)
 

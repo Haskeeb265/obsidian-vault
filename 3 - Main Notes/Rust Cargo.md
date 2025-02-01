@@ -3,7 +3,7 @@
 
 Status: #Finished 
 
-Tags: [[programming language]] [[low-level programming]] [[cybersecurity]]
+Tags: [[programming language]] [[low-level programming]] [[cybersecurity]] [[rust]]
 
 # Rust Cargo
 

@@ -3,7 +3,7 @@
 
 Status: #Finished 
 
-Tags: [[cybersecurity]] 
+Tags: [[cybersecurity]] [[CS50]] 
 
 # Securing Accounts (Introduction To Cybersecurity EDX)
 

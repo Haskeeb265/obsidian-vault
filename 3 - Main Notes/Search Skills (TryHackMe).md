@@ -3,7 +3,7 @@
 
 Status: #Finished  
 
-Tags: [[cybersecurity]]
+Tags: [[cybersecurity]] [[tryhackme]]
 
 # Search Skills (TryHackMe)
 
