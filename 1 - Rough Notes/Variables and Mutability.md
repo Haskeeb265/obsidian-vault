@@ -9,7 +9,8 @@ Tags: [[cybersecurity]] [[rust]] [[programming language]] [[low-level programmin
 
 - By default, Rust makes your variables immutable. By this we mean that once a value has been assigned to your variable, it cannot be changed.
 - Rust encourages you to keep your variables immutable by default because its safe
-- 
+
+- Constants and variables are different. You can't use 
 
 
 
