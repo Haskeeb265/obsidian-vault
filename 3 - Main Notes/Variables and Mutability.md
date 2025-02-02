@@ -1,7 +1,7 @@
 
 2025-02-03 01:38
 
-Status: #InProgress 
+Status: #Finished 
 
 Tags: [[cybersecurity]] [[rust]] [[programming language]] [[low-level programming]]
 
@@ -36,3 +36,4 @@ In the above code we "Shadowed" the initial x variable by changing its value fro
 
 
 #### References
+[[Variables and Mutability (Rust the book)]]
