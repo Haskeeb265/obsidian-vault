@@ -10,7 +10,10 @@ Tags: [[cybersecurity]] [[rust]] [[programming language]] [[low-level programmin
 - By default, Rust makes your variables immutable. By this we mean that once a value has been assigned to your variable, it cannot be changed.
 - Rust encourages you to keep your variables immutable by default because its safe
 
-- Constants and variables are different. You can't use 
+- Constants and variables are different. You can't use ==mut== with a constant.
+- Unlike declaring variables, you use ==const== instead of ==let== 
+- Constants naming convention is that their name should be decalred in all caps
+- Constants cannot be a return value. It's always set and cannot be changed
 
 
 
