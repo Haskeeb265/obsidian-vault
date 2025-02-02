@@ -15,6 +15,11 @@ Tags: [[cybersecurity]] [[rust]] [[programming language]] [[low-level programmin
 - Constants naming convention is that their name should be decalred in all caps
 - Constants cannot be a return value. It's always set and cannot be changed
 
+- Value of constants are calculated at compile time whereas the values of the variables are calculated at runtime. 
+
+## Shadowing:
+
+
 
 
 
