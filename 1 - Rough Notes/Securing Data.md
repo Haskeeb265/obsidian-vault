@@ -8,7 +8,9 @@ Tags: [[cybersecurity]] [[CS50]]
 
 ## Hashing:
 Process of taking an input and storing/converting it into a "hash".
-- A Hash is basically a value that is the result of a mathematical algorithm.
+- A Hash is basically a value that is the result of a mathematical algorithm. 
+
+- On server side what happens is that whenever a user signs up, the password's hash value is saved in the database. Next time the user puts in his password to login, the hash of the input password is compared to the stored hash. (The password itself is never compared)
 
 
 
