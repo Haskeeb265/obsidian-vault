@@ -19,7 +19,19 @@ Tags: [[cybersecurity]] [[rust]] [[programming language]] [[low-level programmin
 
 ## Shadowing:
 
+Shadowing is when we use the name of the variable for another purpose. For example:
 
+```
+let x = 5;
+let x = x+1;
+
+println!("The value of x is: {x}");
+
+The output of the above code is: 6
+```
+
+In the above code we "Shadowed" the initial x variable by changing its value from x = 5 to x = 6.
+- Shadow variables carry on the final value until the end of the scope or if they're further shadowed by another variable.
 
 
 
