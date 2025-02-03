@@ -27,7 +27,11 @@ Scalar types represents a single value. Rust has 4 primary scalar types:
 - If the integer is to stay positive, we'll make it an unsigned integer. Unsigned integers are denoted by  ==u==. u8, u16, u32, u64 and so on are unsinged integers.
 
 - Each signed variant can store this many numbers:
-**-(2^n-1) to 2n^-1** where **n** = architecture 
+**-(2^n-1) to 2n^-1** where **n** = bit architecture (8,16,32,64...)
+- Each unsinged variant can store this many numbers:
+**0 to 2n^-1**
 
+
+- Floating-point numbers only have 2 types: ==f32== and ==f64==
 #### References
 [[Data Types (Rust the book)]]
