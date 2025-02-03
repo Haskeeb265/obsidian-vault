@@ -36,8 +36,16 @@ Scalar types represents a single value. Rust has 4 primary scalar types:
 - bools in Rust are 1 byte.
 - Rust's ==char== type is the most primitive alphabetic type.
 
+let z: char = 'ℤ'; // with explicit type annotation (==explicitly typed annotations are used when compiler cannot infer to the data type automatically==)
 
 
+### Compound Type:
+
+Compound types can group multiple type into a single type. Rust has 2 compound type:
+1. Tuple
+2. Arrays
+
+- Tuple type
 
 
 #### References
