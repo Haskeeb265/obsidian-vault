@@ -19,6 +19,8 @@ Process of taking an input and storing/converting it into a "hash".
 - **Salting** is a process in which we give our hash function another input including the data. It's called "Salt". The purpose of salting is to ensure that the same input has different hash value.
 - According to NIST, stored passwords should be salted and hashed in a form that is resistant to offline attacks. They should be salted and hashed using a **one way** key derivation function.
 
+- One way hash functions turn string values of arbitrary length into a fixed length. This means that no matter how short or long a password is, the Hash would always be of the same length. 
+- You **CANNOT** reverse one-way hash functions. 
 
 
 
