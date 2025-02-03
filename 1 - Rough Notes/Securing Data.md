@@ -17,6 +17,7 @@ Process of taking an input and storing/converting it into a "hash".
 - Unless there's some randomness in the hashing function, the hash of a 2 same inputs would be the same
 
 - **Salting** is a process in which we give our hash function another input including the data. It's called "Salt". The purpose of salting is to ensure that the same input has different hash value.
+- According to NIST, stored passwords should be salted and hashed in a form that is resistant to offline attacks. They should be salted and hashed using a **one way** key derivation function.
 
 
 
