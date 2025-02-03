@@ -33,5 +33,12 @@ Scalar types represents a single value. Rust has 4 primary scalar types:
 
 
 - Floating-point numbers only have 2 types: ==f32== and ==f64==
+- bools in Rust are 1 byte.
+- Rust's ==char== type is the most primitive alphabetic type.
+
+
+
+
+
 #### References
 [[Data Types (Rust the book)]]
