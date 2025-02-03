@@ -11,14 +11,10 @@
             "id": "1f5c9ce29c37da73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Securing Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Securing Data"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -176,8 +171,11 @@
   },
   "active": "1f5c9ce29c37da73",
   "lastOpenFiles": [
-    "3 - Main Notes/Untitled.md",
+    "1 - Rough Notes/MD5 Message Digest Algorithm.md",
+    "2 - Source Material/Articles/MD5.md",
+    "Tags/algorithms.md",
     "1 - Rough Notes/Securing Data.md",
+    "3 - Main Notes/Untitled.md",
     "2 - Source Material/Videos/Edx CS50 Securing Data (Introduction to Cybersecurity).md",
     "2 - Source Material/Videos/Edx CS50 Securing Accounts (Introduction to CyberSecurity).md",
     "1 - Rough Notes/Intrusion Detection System.md",
@@ -199,9 +197,6 @@
     "3 - Main Notes/Rust Cargo.md",
     "3 - Main Notes/Rust 101 Anatomy of a Rust Program.md",
     "3 - Main Notes/Rust 101 (Introduction).md",
-    "3 - Main Notes/Offensive Security Intro (TryHackMe).md",
-    "3 - Main Notes/Linux Fundamentals (TryHackMe).md",
-    "3 - Main Notes/Defensive Security Intro (TryHackMe).md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled.canvas",
