@@ -24,9 +24,10 @@ Scalar types represents a single value. Rust has 4 primary scalar types:
 
 - There are 2 types of integers in Rust. Signed and Unsigned.
 - Signed variables means that the variable can be a negative integer. (- sign). Signed integer is denoted by ==i==. i8, i16, i32, i64 and so on are signed integers
- - If the integer is to stay positive, we'll make it an unsigned integer. Unsigned integers are denoted by  
+- If the integer is to stay positive, we'll make it an unsigned integer. Unsigned integers are denoted by  ==u==. u8, u16, u32, u64 and so on are unsinged integers.
 
-
+- Each signed variant can store this many numbers:
+**-(2^n-1) to 2n^-1** where **n** = architecture 
 
 #### References
 [[Data Types (Rust the book)]]
