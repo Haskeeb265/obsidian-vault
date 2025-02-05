@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/MD5 Message Digest Algorithm.md",
+                "file": "1 - Rough Notes/What is Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MD5 Message Digest Algorithm"
+              "title": "What is Networking"
             }
           }
         ]
@@ -175,11 +175,14 @@
   },
   "active": "c875c924feeeb86b",
   "lastOpenFiles": [
+    "1 - Rough Notes/Securing Data.md",
+    "1 - Rough Notes/MD5 Message Digest Algorithm.md",
+    "2 - Source Material/Articles/What is Networking (TryHackMe).md",
+    "Tags/networks.md",
+    "1 - Rough Notes/What is Networking.md",
     "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/PenTesting Fundamentals.md",
-    "1 - Rough Notes/Securing Data.md",
     "1 - Rough Notes/Rust Data Types.md",
-    "1 - Rough Notes/MD5 Message Digest Algorithm.md",
     "2 - Source Material/Articles/PenTesting Fundamentals (TryHackMe).md",
     "Tags/pentesting.md",
     "3 - Main Notes/Untitled.md",
@@ -198,9 +201,6 @@
     "4 - Journal/Friday, 17th Jan, 2025.md",
     "4 - Journal/Friday, 27th Dec, 2024.md",
     "4 - Journal/Monday, 20th Jan, 2025.md",
-    "4 - Journal/Wednesday, 13th Nov, 2024.md",
-    "3 - Main Notes/Are you a man.md",
-    "3 - Main Notes/Careers in Cybersecurity.md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled.canvas",
