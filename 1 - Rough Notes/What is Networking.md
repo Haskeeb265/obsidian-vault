@@ -11,6 +11,8 @@ Internet is one giant network which consists of smaller networks
 - Smaller networks are called private networks. 
 - The networks connecting those smaller networks are called public networks
 - A computer is identified by two means: **IP Address** and **Mac Address**
+### IP ADDRESSES:
+- Stands for Internet Protocol
 - 
 
 
