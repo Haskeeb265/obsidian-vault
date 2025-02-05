@@ -19,7 +19,9 @@ This is the structure of an IP Address:
 ==192.168.1.1==
 Where each subsection is an **octet**. In total there are 4 octets and can be in the range ==0-255==
 
-The IP Address is calculated through
+The IP Address is calculated through ==IP Addressing== and ==Subnetting==. IP can change from device to device but cannot be simultaneously active in the same network more than once.
+
+IP Addresses follows standards called Protocols. 
 
 
 
