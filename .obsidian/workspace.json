@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -175,6 +176,7 @@
   },
   "active": "c875c924feeeb86b",
   "lastOpenFiles": [
+    "Pasted image 20250206050135.png",
     "1 - Rough Notes/What is Networking.md",
     "1 - Rough Notes/Securing Data.md",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
@@ -200,7 +202,6 @@
     "4 - Journal/25th, Jan, 2025 Saturday.md",
     "4 - Journal/Friday, 17th Jan, 2025.md",
     "4 - Journal/Friday, 27th Dec, 2024.md",
-    "4 - Journal/Monday, 20th Jan, 2025.md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled.canvas",
