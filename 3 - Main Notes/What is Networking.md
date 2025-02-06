@@ -1,7 +1,7 @@
 
 2025-02-06 03:07
 
-Status: #InProgress 
+Status: #Finished 
 
 Tags: [[cybersecurity]] [[tryhackme]] [[networks]] 
 
@@ -46,7 +46,6 @@ This is what a MAC address looks like:
 
 - Ping uses ICMP (Internet Control Message Protocol) to determine the performance of connection between two or more devices.
 - The time taken for ICMP packets to travel is measured by ping
-- 
 
 #### References
 [[What is Networking (TryHackMe)]]
