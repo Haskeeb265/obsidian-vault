@@ -11,10 +11,14 @@
             "id": "c875c924feeeb86b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Securing Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Securing Data"
             }
           }
         ]
@@ -172,12 +176,12 @@
   },
   "active": "c875c924feeeb86b",
   "lastOpenFiles": [
+    "1 - Rough Notes/Securing Data.md",
     "1 - Rough Notes/Intrusion Detection System.md",
     "Untitled.canvas",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
     "1 - Rough Notes/PenTesting Fundamentals.md",
     "1 - Rough Notes/Rust Data Types.md",
-    "1 - Rough Notes/Securing Data.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/What is Networking.md",
     "Pasted image 20250206050135.png",
