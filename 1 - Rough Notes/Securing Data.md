@@ -22,5 +22,9 @@ Process of taking an input and storing/converting it into a "hash".
 - One way hash functions turn string values of arbitrary length into a fixed length. This means that no matter how short or long a password is, the Hash would always be of the same length. 
 - You **CANNOT** reverse one-way hash functions. 
 
+
+## Cryptographic Hash Functions:
+C
+
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
