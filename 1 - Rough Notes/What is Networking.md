@@ -37,6 +37,8 @@ This is what a MAC address looks like:
 ==a4:c3:f0:53:ac:2f==
 
 
+-  MAC addresses can be "**Spoofed**". By spoofing we mean that they can be faked. 
+- Spoofing happens when another device pretends to have another MAC Address over the network. 
 
 
 
