@@ -31,6 +31,7 @@ Where each subsection is an **octet**. In total there are 4 octets and can be in
 ### MAC ADDRESSES:
 
 - Each hardware on the net is assigned a unique physical address in the factories they're build in. These are called MAC Addresses.
+- MAC = Media Access Control
 - A MAC consists of in total of 12 characters in hexadecimal divided into groups of 2.
 
 This is what a MAC address looks like:
