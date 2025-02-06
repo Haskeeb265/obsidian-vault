@@ -43,6 +43,6 @@ There are many different types of encryptions.
 - This is also known as **Symmetric-Key Encryption**. This means that both A and B will use the same key to decrypt and encrypt
 - For B to read A's message, B must know the algorithm as well as the key A used 
 
-
+- 
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
