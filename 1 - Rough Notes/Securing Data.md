@@ -39,6 +39,9 @@ Ciphers are algorithmic in nature.
 There are many different types of encryptions.
 ### Secret-Key Cryptography
 - The security of your data relies on the secrecy of your key
+- The presumption is that if A wants to send a message to B, then A and B must keep secret whatever key they're using
+- This is also known as **Symmetric-Key Encryption**. This means that both A and B will use the same key to decrypt and encrypt
+
 
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
