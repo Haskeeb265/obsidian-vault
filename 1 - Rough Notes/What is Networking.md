@@ -25,7 +25,10 @@ Where each subsection is an **octet**. In total there are 4 octets and can be in
 
 - IPv4 is 2^32
 - IPv6 is 2^128
+
 ![[Pasted image 20250206050135.png]]
+
+### MAC ADDRESSES:
 
 
 
