@@ -24,7 +24,15 @@ Process of taking an input and storing/converting it into a "hash".
 
 
 ## Cryptographic Hash Functions:
-Cryptography is all about securing data. Whether it's in transit or at rest
+Cryptography is all about securing data. Whether it's in transit or at rest.
+
+- Encoding/Encrypt = plaintext -> codetext
+- Decoding/Decrypt = codetext -> plaintext
+
+Ciphers are algorithmic in nature.
+
+- Cyphers are well documented and mostly public. The algorithms are out in the open for everyone to see.
+
 
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
