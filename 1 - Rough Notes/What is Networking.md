@@ -42,7 +42,11 @@ This is what a MAC address looks like:
 - Spoofing happens when another device pretends to have another MAC Address over the network. 
 
 
+### PING:
 
+- Ping uses ICMP (Internet Control Message Protocol) to determine the performance of connection between two or more devices.
+- The time taken for ICMP packets to travel is measured by ping
+- 
 
 #### References
 [[What is Networking (TryHackMe)]]
