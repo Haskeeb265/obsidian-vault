@@ -31,8 +31,14 @@ Cryptography is all about securing data. Whether it's in transit or at rest.
 
 Ciphers are algorithmic in nature.
 
-- Cyphers are well documented and mostly public. The algorithms are out in the open for everyone to see.
+- Cyphers are well documented and mostly public. The algorithms are out in the open for everyone to see. 
+- To keep these ciphers specific to each users, we have a secret piece of information called a **key**
+- To establish communication between two connections, the sender as well as the recipient should know each other's keys
+- Keys in nature as basically very huge numbers
 
+There are many different types of encryptions.
+### Secret-Key Cryptography
+- The security of your data relies on the secrecy of your key
 
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
