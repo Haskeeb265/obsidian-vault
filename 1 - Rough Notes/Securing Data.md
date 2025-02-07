@@ -47,6 +47,8 @@ There are many different types of encryptions.
 - Also known as Asymmetric Key Cryptography
 - RSA, Diffie-Hellman, MQV 
 
-- Instead of one key, you use 2 keys. Public key and Private key
+- Instead of one key, you use 2 keys. Public key and Private key. 
+- Anyone over the internet can encrypt a message using YOUR public key. Only YOUR secret key can decrypt a message encrypted by YOUR public key
+- 
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
