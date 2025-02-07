@@ -87,6 +87,12 @@ Encryption = 2 way
 - Passkeys eliminate passwords
 
 To verify identity through passkey, websites would first send you a challenge. The challenge is anything. It can be a word, phrase a number etc. 
+- Using your private key, you generate a signature for that challenge and sends it back to the server
+- The server then uses your public key to decrypt your signature to get back the same challenge value
+
+## Encryption in Transit:
+
+- 
 
 
 
