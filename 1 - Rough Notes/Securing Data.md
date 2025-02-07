@@ -89,10 +89,14 @@ Encryption = 2 way
 To verify identity through passkey, websites would first send you a challenge. The challenge is anything. It can be a word, phrase a number etc. 
 - Using your private key, you generate a signature for that challenge and sends it back to the server
 - The server then uses your public key to decrypt your signature to get back the same challenge value
+---
+## Deletion:
 
-## Encryption in Transit:
+- Whenever you "delete" any file from your computer, it's not actually deleted. Rather the computer just "forgets" where it was stored. 
+- In a more technical way, the 0s and 1s occupied by those files are not pointed towards anymore unless and until new data or files are being written into the disk. What that does is that it overwrites the previous 0s and 1s.
 
-- 
+- There are tools which can recover your deleted data. 
+- To absolutely delete your d
 
 
 
