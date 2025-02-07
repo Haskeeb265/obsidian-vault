@@ -49,6 +49,13 @@ There are many different types of encryptions.
 
 - Instead of one key, you use 2 keys. Public key and Private key. 
 - Anyone over the internet can encrypt a message using YOUR public key. Only YOUR secret key can decrypt a message encrypted by YOUR public key
-- 
+### RSA:
+- Relies on really big prime numbers where **p** * **q** = **n** and p and q are really big prime numbers. This is done so that no one can know what the original p and q were
+
+**To Encrypt**: cipher text = m^e mod n (e = public key)
+**To Decrypt:** message = m^d mod n (d = secret key)
+### Key Exchange:
+
+
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
