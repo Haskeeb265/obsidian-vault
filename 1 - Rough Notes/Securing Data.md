@@ -82,6 +82,11 @@ The above formula gives both parties the same public key
 Hashing = 1 way
 Encryption = 2 way
 
+## Passkeys/WebAuth:
+
+- Passkeys eliminate passwords
+
+To verify identity through passkey, websites would first send you a challenge. The challenge is anything. It can be a word, phrase a number etc. 
 
 
 
