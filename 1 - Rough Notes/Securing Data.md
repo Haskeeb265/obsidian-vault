@@ -44,5 +44,9 @@ There are many different types of encryptions.
 - For B to read A's message, B must know the algorithm as well as the key A used 
 
 ## Public Key Cryptography
+- Also known as Asymmetric Key Cryptography
+- RSA, Diffie-Hellman, MQV 
+
+- Instead of one key, you use 2 keys 
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
