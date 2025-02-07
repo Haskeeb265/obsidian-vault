@@ -64,6 +64,17 @@ The values A and B are sent across the internet. Then this formula is applied:
 - **s = B^a mod p**
 - **s = A^b mod p.**
 
-The above formula 
+The above formula gives both parties the same public key
+
+### Digital Signatures:
+- DSA, ECDSA, RSA allows you to sign documents digitally (including many more)
+-   
+
+
+
+
+
+
+
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
