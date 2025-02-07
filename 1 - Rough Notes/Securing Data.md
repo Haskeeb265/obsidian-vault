@@ -68,7 +68,10 @@ The above formula gives both parties the same public key
 
 ### Digital Signatures:
 - DSA, ECDSA, RSA allows you to sign documents digitally (including many more)
--   
+
+1. First you convert your message into a hash.
+2. You take that hash value and put it into a function with your private key
+3. The output of the second step is your signature 
 
 
 
