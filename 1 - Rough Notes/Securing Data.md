@@ -53,10 +53,17 @@ There are many different types of encryptions.
 - Relies on really big prime numbers where **p** * **q** = **n** and p and q are really big prime numbers. This is done so that no one can know what the original p and q were
 
 **To Encrypt**: ==cipher text = m^e mod n== (e = public key)
-**To Decrypt:** ==message = m^d mod n== (d = secret key)
+**To Decrypt:** ==message = m^d mod n== (d = secret key) 
 ### Key Exchange:
 
 1. Diffie-Hellman: Algorithm for sharing a key. This is how it works
-	- ==A = g^a mod p== where   
+	- ==A = g^a mod p== where   a = private key, g = any number called the generator, p = prime number
+	- ==B = g^b mod p== where   a = private key, g = any number called the generator, p = prime number
+
+The values A and B are sent across the internet. Then this formula is applied:
+- **s = B^a mod p**
+- **s = A^b mod p.**
+
+The above formula 
 #### References
 [[Edx CS50 Securing Data (Introduction to Cybersecurity)]]
