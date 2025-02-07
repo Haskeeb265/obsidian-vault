@@ -96,8 +96,7 @@ To verify identity through passkey, websites would first send you a challenge. T
 - In a more technical way, the 0s and 1s occupied by those files are not pointed towards anymore unless and until new data or files are being written into the disk. What that does is that it overwrites the previous 0s and 1s.
 
 - There are tools which can recover your deleted data. 
-- To absolutely delete your d
-
+- To absolutely delete your data,  one of the ways is to use **Secure delete**. Secure delete is expensive since it literally deletes the capacity that was used by the deleted file making that capacity unable to store new data.
 
 
 
