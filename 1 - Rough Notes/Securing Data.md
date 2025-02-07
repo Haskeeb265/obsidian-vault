@@ -72,8 +72,15 @@ The above formula gives both parties the same public key
 1. First you convert your message into a hash.
 2. You take that hash value and put it into a function with your private key
 3. The output of the second step is your signature 
+4. Once you have your signature, the recipient can verify it by:
+	1.  Converting your message into a hash
+	2. Using your public key and signature as an input to generate another hash
+	3. If both hashes are same, the document is correctly signed digitally
 
+--- 
 
+Hashing = 1 way
+Encryption = 2 way
 
 
 
