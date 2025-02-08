@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Securing Data.md",
+                "file": "3 - Main Notes/Securing Data.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -174,9 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c875c924feeeb86b",
+  "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
-    "1 - Rough Notes/Securing Data.md",
+    "3 - Main Notes/Securing Data.md",
     "1 - Rough Notes/Intrusion Detection System.md",
     "Untitled.canvas",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
