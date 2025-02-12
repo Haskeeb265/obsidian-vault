@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Rust Data Types.md",
+                "file": "1 - Rough Notes/Intrusion Detection System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Data Types"
+              "title": "Intrusion Detection System"
             }
           }
         ]
@@ -173,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a2f57f4d96c3a2",
+  "active": "c875c924feeeb86b",
   "lastOpenFiles": [
+    "1 - Rough Notes/Rust Data Types.md",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
     "1 - Rough Notes/Intrusion Detection System.md",
     "Pasted image 20250206050135.png",
@@ -191,7 +192,6 @@
     "4 - Journal/Friday, 17th Jan, 2025.md",
     "Untitled.canvas",
     "1 - Rough Notes/PenTesting Fundamentals.md",
-    "1 - Rough Notes/Rust Data Types.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/What is Networking.md",
     "2 - Source Material/Articles/What is Networking (TryHackMe).md",
