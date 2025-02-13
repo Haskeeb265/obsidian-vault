@@ -11,14 +11,12 @@
             "id": "c875c924feeeb86b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1 - Rough Notes/Intrusion Detection System.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250206050135.png"
               },
-              "icon": "lucide-file",
-              "title": "Intrusion Detection System"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250206050135"
             }
           }
         ]
@@ -175,9 +173,9 @@
   },
   "active": "c875c924feeeb86b",
   "lastOpenFiles": [
+    "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/Rust Data Types.md",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
-    "1 - Rough Notes/Intrusion Detection System.md",
     "Pasted image 20250206050135.png",
     "3 - Main Notes/Rust 101 Anatomy of a Rust Program.md",
     "3 - Main Notes/Linux Fundamentals (TryHackMe).md",
