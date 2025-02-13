@@ -11,17 +11,12 @@
             "id": "c875c924feeeb86b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2 - Source Material/Others/Pasted image 20250206050135.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250206050135"
             }
           }
         ]
@@ -178,7 +173,8 @@
   },
   "active": "c875c924feeeb86b",
   "lastOpenFiles": [
-    "Pasted image 20250206050135.png",
+    "Untitled.canvas",
+    "2 - Source Material/Others/Pasted image 20250206050135.png",
     "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/Rust Data Types.md",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
@@ -193,7 +189,6 @@
     "3 - Main Notes/YOUTUBE SHORTS SIDE-HUSTLE.md",
     "4 - Journal/25th, Jan, 2025 Saturday.md",
     "4 - Journal/Friday, 17th Jan, 2025.md",
-    "Untitled.canvas",
     "1 - Rough Notes/PenTesting Fundamentals.md",
     "Tags/cybersecurity.md",
     "3 - Main Notes/What is Networking.md",
