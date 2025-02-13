@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c875c924feeeb86b",
+  "active": "27a2f57f4d96c3a2",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
