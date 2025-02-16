@@ -9,6 +9,10 @@ Tags: [[Islam]]
 
 - Allah sent you in this time for a purpose
 - We are the continuation the legacy of Ibrahim (AS)
+- Ibrahim (AS) faced trials over and over again. Many more than any other human being. Ibrahim (AS) was tested like no other
+
+- Allah soothes us with the fact that our purpose is the continuation of the legacy of Ibrahim (AS). At first it may not sound very relaxing since Ibrahim (AS) was tested very thoroughly. However Allah mentioned Ibrahim (AS) because He made jumping in the fire easy for him, leaving his family alone in the middle of a desert easy for him, standing up to his father and a whole community as a young man easy for him, putting knife on his son's throat easy for him
+- If Allah made all those things easy for Ibrahim (AS), what do we have fear of? Allah isn't asking anything CLOSE to that from us. All Allah asks from us is to stay away
 
 
 
