@@ -16,6 +16,10 @@ Tags: [[Islam]]
 
 - Knowing that, you have no reason to feel despair in the mercy of Allah. 
 
+- Ibrahim (AS) was the only one holding onto Allah's religion. You cannot complain about your environment to blame for your bad actions.
+- If you've held onto Allah, you've held on to the constant and the most powerful support.
+- 
+
 
 
 
