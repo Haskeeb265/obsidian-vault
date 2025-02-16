@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Untitled 2.md",
+                "file": "1 - Rough Notes/Legacy of Ibrahim (AS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Legacy of Ibrahim (AS)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/Untitled 2.md",
+                "file": "1 - Rough Notes/Legacy of Ibrahim (AS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for Legacy of Ibrahim (AS)"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/Untitled 2.md",
+                "file": "1 - Rough Notes/Legacy of Ibrahim (AS).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 2"
+              "title": "Outgoing links from Legacy of Ibrahim (AS)"
             }
           },
           {
@@ -177,7 +178,8 @@
   },
   "active": "b0babeec66cea5ab",
   "lastOpenFiles": [
-    "3 - Main Notes/Untitled 2.md",
+    "2 - Source Material/Videos/You're the Legacy of Ibrahim (AS).md",
+    "1 - Rough Notes/Legacy of Ibrahim (AS).md",
     "3 - Main Notes/Untitled 1.md",
     "3 - Main Notes/Untitled.md",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
@@ -204,7 +206,6 @@
     "2 - Source Material/Articles/PenTesting Fundamentals (TryHackMe).md",
     "Tags/pentesting.md",
     "2 - Source Material/Books and PDFs/Data Types (Rust the book).md",
-    "2 - Source Material/Articles/MD5.md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled 1.canvas",
