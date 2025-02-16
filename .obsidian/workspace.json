@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a85a2112f817a28f",
+        "id": "c2d9569c11d71217",
         "type": "tabs",
         "children": [
           {
-            "id": "c875c924feeeb86b",
+            "id": "a3d8149b07916b36",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "2 - Source Material/Others/Pasted image 20250206050135.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250206050135"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -170,10 +168,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a2f57f4d96c3a2",
+  "active": "a3d8149b07916b36",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
+    "Untitled.canvas",
     "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/Rust Data Types.md",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
