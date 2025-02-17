@@ -33,3 +33,4 @@ Tags: [[computer basics]] [[hardware]]
 - More intensive computing = Bigger PSU
 
 #### References
+[[What is Computer Hardware]]
