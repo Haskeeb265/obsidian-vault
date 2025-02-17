@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -177,8 +178,10 @@
   },
   "active": "b0babeec66cea5ab",
   "lastOpenFiles": [
-    "1 - Rough Notes/Intrusion Detection System.md",
+    "Tags/hardware.md",
     "1 - Rough Notes/Computer Hardware.md",
+    "Tags/computer basics.md",
+    "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
     "1 - Rough Notes/Rust Data Types.md",
     "1 - Rough Notes/PenTesting Fundamentals.md",
@@ -203,8 +206,6 @@
     "3 - Main Notes/What is Networking.md",
     "2 - Source Material/Articles/What is Networking (TryHackMe).md",
     "Tags/networks.md",
-    "2 - Source Material/Articles/PenTesting Fundamentals (TryHackMe).md",
-    "Tags/pentesting.md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled 1.canvas",
