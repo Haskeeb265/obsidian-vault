@@ -25,6 +25,6 @@ Tags: [[computer basics]] [[hardware]]
 - RAM tasks includes: rendering images, multitasking with several apps open
 
 - HDD is based on older technology. It works in writing binary data onto a spinning magnetic disk that rotate at high speeds.
-- SSD are newer type 
+- SSD are newer type. They store data on NAN flash memory chips.
 
 #### References
