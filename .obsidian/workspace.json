@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Untitled.md",
+                "file": "1 - Rough Notes/Computer Hardware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Computer Hardware"
             }
           }
         ]
@@ -178,7 +178,7 @@
   "active": "b0babeec66cea5ab",
   "lastOpenFiles": [
     "1 - Rough Notes/Intrusion Detection System.md",
-    "1 - Rough Notes/Untitled.md",
+    "1 - Rough Notes/Computer Hardware.md",
     "1 - Rough Notes/MD5 Message Digest Algorithm.md",
     "1 - Rough Notes/Rust Data Types.md",
     "1 - Rough Notes/PenTesting Fundamentals.md",
