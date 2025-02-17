@@ -15,8 +15,12 @@ Tags: [[computer basics]] [[hardware]]
 	1. Number of USB ports
 	2. Grade of USB ports
 	3. Number of display ports
-	4. Types of display prot
+	4. Types of display ports
+- 
 
+- CPU is the brain.
+- CPU's speed is measured in GHz and is known as "clock speed"
+- RAM works closely with CPU. It temporarily stores in
 
 
 #### References
