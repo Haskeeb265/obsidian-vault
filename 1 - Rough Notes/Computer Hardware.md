@@ -1,7 +1,7 @@
 
 2025-02-17 05:13
 
-Status: #InProgress 
+Status: #Finished  
 
 Tags: [[computer basics]] [[hardware]] 
 
@@ -28,5 +28,8 @@ Tags: [[computer basics]] [[hardware]]
 - SSD are newer type. They store data on NAN flash memory chips.
 
 - GPU processes large amount of graphical data
+
+- PSU takes electricity from the electric source and distributes it to the motherboard. 
+- More intensive computing = Bigger PSU
 
 #### References
