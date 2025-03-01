@@ -19,7 +19,8 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 - In HTTPS, the browser first downloads the certificate and calculates it's hash value. 
 - The browser then takes the signature on the certificate of the CA (Certified authority) as well as it's public key and runs it through an algorithm. The output should be the same as the hash value of the certificate if it's legit
 
-- SSL Stripping is basically when you're using 
+- SSL Stripping is basically when you're using HTTP. The browser redirects you to a "safe" URL. That URL is generally sent back to you by a Man-in-the-Middle machine and is commonly the adversary's own website.
+- You can use protocols like HSTS (HyperText Strict Transport Security). What it does is that it includes additional instructions to the packet header which 
 
 
 
