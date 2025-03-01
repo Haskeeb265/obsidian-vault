@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Connection Types"
             }
+          },
+          {
+            "id": "c1489842612c08a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0babeec66cea5ab",
+  "active": "c1489842612c08a8",
   "lastOpenFiles": [
-    "Tags/connection.md",
+    "Templates/Main Note.md",
+    "Tags/journal.md",
     "1 - Rough Notes/Connection Types.md",
+    "Tags/connection.md",
     "3 - Main Notes/Variables and Mutability.md",
     "3 - Main Notes/Untitled 1.md",
     "3 - Main Notes/Untitled.md",
@@ -203,8 +216,6 @@
     "3 - Main Notes/Search Skills (TryHackMe).md",
     "3 - Main Notes/Securing Accounts (Introduction To Cybersecurity EDX).md",
     "3 - Main Notes/Securing Data.md",
-    "3 - Main Notes/YOUTUBE SHORTS SIDE-HUSTLE.md",
-    "4 - Journal/25th, Jan, 2025 Saturday.md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled 1.canvas",
