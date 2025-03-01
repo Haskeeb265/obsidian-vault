@@ -10,6 +10,8 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 - If you're only using HTTP, you're vulnerable to Machine-in-the-Middle Attacks
 - The servers can read your actual information in HTTP protocol
 - Packet Sniffing is basically peeking inside the packets that is being sent over the internet. Through packet sniffing the attacker can read your unencrypted data as well as modify your packet as well
+- Cookies are basically used to remember the user who has once logged into a website. So instead of asking the user to login again and again, the server "remembers" the users by their cookies (sessions)
+- 
 
 
 
