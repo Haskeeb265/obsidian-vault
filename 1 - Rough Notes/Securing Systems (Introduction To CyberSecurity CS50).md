@@ -22,7 +22,8 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 - SSL Stripping is basically when you're using HTTP. The browser redirects you to a "safe" URL. That URL is generally sent back to you by a Man-in-the-Middle machine and is commonly the adversary's own website.
 - You can use protocols like HSTS (HyperText Strict Transport Security). What it does is that it includes additional instructions to the packet header which solidifies the security futher. For example it can include in the server to only use HTTPS protocol for sub domains as well. 
 - HSTS can also "preload" your websites into the browser's source code such that if you for example download chrome, it'll be in Chrome's source code to pair your website with HTTPS only.
-- (Continue from VPN 37:56)
+
+- VPNs encrypt ALL your information between you and the VPN server
 
 
 
