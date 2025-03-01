@@ -16,6 +16,10 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 - TLS is a protocol used for HTTPS. It basically gives digital certificates to legitimate sites. It consists of a public key, name of the website, how long it is valid for
 - TLS certificates are basically of type **X.509**
 
+- In HTTPS, the browser first downloads the certificate and calculates it's hash value. 
+- The browser then takes the signature on the certificate of the CA (Certified authority) as well as it's public key and runs it through an algorithm. The output should be the same as the hash value of the certificate if it's legit
+
+- SSL Stripping 
 
 
 
