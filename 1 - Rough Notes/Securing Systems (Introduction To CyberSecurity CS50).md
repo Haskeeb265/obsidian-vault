@@ -29,7 +29,7 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 - Ports tell the computer which packets offer which services. For example a packet destined for port 80 would be following HTTP protocol, a packet for port 443 would be following HTTPS and so on
 - A threat to ports is a **PORT SCANNING** in which all the ports are scanned on a server between 0-65,000 to discover which ports are open to communication
 
-- 
+- Firewalls are used to keep unintended internet traffic at bay. For 
 
 
 
