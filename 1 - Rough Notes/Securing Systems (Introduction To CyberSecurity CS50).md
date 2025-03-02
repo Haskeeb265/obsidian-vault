@@ -30,7 +30,8 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 - A threat to ports is a **PORT SCANNING** in which all the ports are scanned on a server between 0-65,000 to discover which ports are open to communication
 
 - Firewalls are used to keep unintended internet traffic at bay.
-- One of the ways the firewall blocks traffic i
+- One of the ways the firewall blocks traffic is based on IP Addresses.
+- Another way is Deep Packet Inspection
 
 
 
