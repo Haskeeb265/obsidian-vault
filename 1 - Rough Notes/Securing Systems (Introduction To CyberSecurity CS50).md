@@ -31,7 +31,8 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 
 - Firewalls are used to keep unintended internet traffic at bay.
 - One of the ways the firewall blocks traffic is based on IP Addresses.
-- Another way is Deep Packet Inspection. In this the firewall can actually see what's inside your packet. This way it can more effectively block bad traffic to your network or computer
+- Another way is Deep Packet Inspection. In this the firewall can actually see what's inside your packet. This way it can more effectively block bad traffic to your network or computer.
+- Deep Packet Inspection can be implemented using Proxy servers which mimic a man-in-the-middle attack. 
 
 
 
