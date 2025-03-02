@@ -24,7 +24,7 @@ Tags: [[CS50]] [[cybersecurity]] [[academia]]
 - HSTS can also "preload" your websites into the browser's source code such that if you for example download chrome, it'll be in Chrome's source code to pair your website with HTTPS only.
 
 - VPNs encrypt ALL your information between you and the VPN server
-
+- SSH is about connecting to a remote server and executing commands on it. You can connect on another server and type commands on it while the entire interactions stays encrypted
 
 
 
