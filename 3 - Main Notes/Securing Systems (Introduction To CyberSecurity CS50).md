@@ -1,9 +1,9 @@
 
 2025-03-02 03:26
 
-Status: #InProgress 
+Status: #Finished 
  
-Tags: [[CS50]] [[cybersecurity]] [[academia]] 
+Tags: [[CS50]] [[cybersecurity]] 
 
 # Securing Systems (Introduction To CyberSecurity CS50)
 
