@@ -11,7 +11,10 @@ Tags: [[self-improvement]] [[human-behavior]]
 - This invisible weapon guarantees cultural death
 - People are and will lose the ability to think for themselves
 - Our ability to innovate and think complexly is being dulled. This is alarming since the victims of that invisible weapon will take the reigns of the world tomorrow
-
+  
+- We're not hopeless. We have the ability to choose
+- =="The solution lies in our ability to consciously curate the information, influences, and ideas that we allow into our lives  "==
+- 
 
 
 
