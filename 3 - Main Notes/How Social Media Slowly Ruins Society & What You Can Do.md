@@ -1,7 +1,7 @@
 
 2025-04-15 13:08
 
-Status: #InProgress 
+Status: #Finished 
 
 Tags: [[self-improvement]] [[human-behavior]]
 
@@ -17,9 +17,8 @@ Tags: [[self-improvement]] [[human-behavior]]
 - Every single think that your mind interprets is an input. A good input will give a good output. A bad input would return a bad output. Good and bad in this case are subjective
 
 ### Stages:
-1. Identify your main goal. What you want to experience in this limited time that you have left. Once that's done. Think how 
-
-
+1. **Curation**: Identify your main goal. What you want to experience in this limited time that you have left. Once that's done. Think how you can align every single input to that vision
+2. **Ability to be conscious**: If you're not constantly conscious and present in the moment. You cannot actively identify if the inputs align with your vision or not. 
 
 #### References
 [[How Social Media Slowly Ruins Society & What You Can Do (Source)]]
