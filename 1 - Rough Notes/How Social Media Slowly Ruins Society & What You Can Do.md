@@ -14,7 +14,10 @@ Tags: [[self-improvement]] [[human-behavior]]
   
 - We're not hopeless. We have the ability to choose
 - =="The solution lies in our ability to consciously curate the information, influences, and ideas that we allow into our lives  "==
-- 
+- Every single think that your mind interprets is an input. A good input will give a good output. A bad input would return a bad output. Good and bad in this case are subjective
+
+### Stages:
+1. Identify your main goal. What you want to experience in this limited time that you have left. Once that's done. Think how 
 
 
 
