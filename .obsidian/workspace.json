@@ -25,12 +25,14 @@
             "id": "fc7748dbfe6a09d9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "1 - Rough Notes/Securing Software (CS50 CyberSecurity).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Securing Software (CS50 CyberSecurity)"
             }
           }
         ],
