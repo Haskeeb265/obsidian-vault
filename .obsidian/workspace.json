@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Securing Software (CS50 CyberSecurity)"
             }
+          },
+          {
+            "id": "fc7748dbfe6a09d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a2f57f4d96c3a2",
+  "active": "fc7748dbfe6a09d9",
   "lastOpenFiles": [
     "1 - Rough Notes/Securing Software (CS50 CyberSecurity).md",
     "2 - Source Material/Videos/Edx CS50 Securing Software (Introduction to Cybersecurity).md",
