@@ -12,7 +12,7 @@ Tags: [[cybersecurity]] [[CS50]]
 - URL escaping is done by using % (URL encoding)
 -**Code Injection**
 - **Cross-Site Scripting (XSS)**: Writing code in text fields tricking the software into executing code that it's not meant to.
-- **Reflected Attack**:  
+- **Reflected Attack**:  For example you **href'ed** a different URL from the link that a user clicks on and in that different href, there's a javascript code: document.cookie. What will happen is that the cookies of that user will REFLECT back to the URL that the attackers wants to redirect the information to. This can be an attacker hosted web server
 
 
 
