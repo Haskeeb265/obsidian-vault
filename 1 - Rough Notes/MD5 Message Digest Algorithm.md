@@ -24,7 +24,11 @@ However, MD5 has well documented flaws and weaknesses and hence this shouldn't b
 
 ==Here's how MD5 works:==
 1. Let's assume that we have a message of length **n** and that we intend on finding it's digest message.  
- 
+2. Let's assume this is how the words are sequenced:
+   m_0 m_1 ... m_{b-1}
+
+Step #1:
+
 
 
 
