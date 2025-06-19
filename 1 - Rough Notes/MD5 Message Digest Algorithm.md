@@ -15,6 +15,11 @@ However, MD5 has well documented flaws and weaknesses and hence this shouldn't b
 
 - MD5 was quickly recommended to be replaced by cryptographic functions like SHA-1. This was due to it's early "full collision" report
 
+**Full Collision:** Two distinct outputs producing the same hash value.
+**Birthday Attack:** Exploiting the high probability of collisions using the "Birthday Paradox"
+
+- The birthday paradox states that for n-bit hash, it only takes about 2^(n/2) attempts to find some collisions. In case of MD5 which supported 128 bit, This would be 2^64 
+
 
 
 #### References
