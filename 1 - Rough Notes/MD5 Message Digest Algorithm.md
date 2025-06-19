@@ -22,7 +22,7 @@ However, MD5 has well documented flaws and weaknesses and hence this shouldn't b
 
 - The birthday paradox states that for n-bit hash, it only takes about 2^(n/2) attempts to find some collisions. In case of MD5 which supported 128 bit, This would be 2^64
 
-Her'e 
+
  
 
 
