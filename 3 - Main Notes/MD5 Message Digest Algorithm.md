@@ -1,7 +1,7 @@
 
 2025-02-04 01:20
 
-Status: #Started
+Status: #Finished 
 
 Tags: [[cybersecurity]] [[algorithms]] 
 
@@ -40,7 +40,12 @@ Append the message in a form of 64bit **little endian integer**.
 Example:
 - Let's say you have a message = abc. abc translates into 24 bits.
 - 24 + 1 = 25 bits.
-- Add k num
+- (24 + k) = 448 mod 512
+  24 + k = 448
+  k = 424
+- Now we append the message by 64 bit endian integer of the original message
+  24 bits to hexa = 18
+  Endien integer (Bytes) uses LSB: 0x18 0x00 0x00 0x00 0x00 0x00 0x00 0x00 ( = 64 bits)
 
 
 
