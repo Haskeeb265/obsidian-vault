@@ -38,7 +38,10 @@ Append the message in a form of 64bit **little endian integer**.
 
 
 Example:
-Let's say you have a message = 
+- Let's say you have a message = abc. abc translates into 24 bits.
+- 24 + 1 = 25 bits.
+- Add k num
+
 
 
 
