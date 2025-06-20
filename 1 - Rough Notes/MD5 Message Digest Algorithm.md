@@ -38,7 +38,7 @@ Append the message in a form of 64bit **little endian integer**.
 
 
 Example:
-
+Let's say you have a message = 
 
 
 
