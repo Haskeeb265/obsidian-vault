@@ -28,6 +28,18 @@ However, MD5 has well documented flaws and weaknesses and hence this shouldn't b
    m_0 m_1 ... m_{b-1}
 
 Step #1:
+Translate the message into bits
+
+Step #2:
+Add 1 bit into the original message
+
+Step #3:
+Add "k" number of 0s such that the length of the message becomes congruent to 448 mod 512
+
+Step #4:
+Append the message in a form of 64bit little endian integer.
+
+
 
 
 
