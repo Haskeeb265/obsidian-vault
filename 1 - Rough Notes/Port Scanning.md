@@ -22,7 +22,9 @@ Most used and commonly known ports and their purpose:
 
 
 ### Port Scanning Techniques:
-1. Ping Scans: Simplest port scanning technique. Also known as ICMP requests. Several ICMP requests are sent to multiple servers to 
+1. Ping Scans: Simplest port scanning technique. Also known as ICMP requests. Several ICMP requests are sent to multiple servers in hopes of getting a response.
+2. Vanilla Scan: Attempts to connect to all 65,535 ports at the same time. Sends a synchronized SYN flag. It receives an ACK response in back. Easily detectable by firewall
+3. SYN Scan: Also known as "half-open scan". Sends an SYN flag and waits for SYN-ACK response. In case of a response from the port, the scanner does not respond back meaning no TCP connection is establis
 
 
 #### References
