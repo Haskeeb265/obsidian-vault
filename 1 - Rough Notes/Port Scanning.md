@@ -22,9 +22,7 @@ Most used and commonly known ports and their purpose:
 
 
 ### Port Scanning Techniques:
-
-
-
+1. Ping Scans: Simplest port scanning technique. Also known as ICMP requests. Several ICMP requests are sent to multiple servers to 
 
 
 #### References
