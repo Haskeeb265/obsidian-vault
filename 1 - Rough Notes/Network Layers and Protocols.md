@@ -21,7 +21,17 @@ Tags:
 4. Transport
 5. Application
 
-- Data travels from Application to Physical layer.
+- Data travels from Application layer of the sender to the Physical layer of the receiver.
+
+- Focusing more on Network and Transport layer
+
+### MOST PROMINENT PROTOCOLS IN NETWORK AND TRANSPORT LAYER:
+##### Internet Protocol (IP):
+
+- IP delivers packets from host to destination on the basis of IP address in the packet header.
+- It is connectionless
+- 
+
 
 
 
