@@ -30,8 +30,16 @@ Tags:
 
 - IP delivers packets from host to destination on the basis of IP address in the packet header.
 - It is connectionless; errors like data corruption, packet loss or duplication might occur.
-- Packets of connectionless protocols are 
+- Packets of connectionless protocols are also called datagrams. 
+- IP protocol has 2 variants:
+	- IPv4
+	- IPv6
 
+###### IPv4 Header:
+![[Pasted image 20250703054836.png]]
+
+1. VERSION: Indicates protocol being used.
+2. IHL: (IP Header Length). This is length of the header in 32 bit words. Minimum is 5 words. Maximum is 15 words.  
 
 
 
