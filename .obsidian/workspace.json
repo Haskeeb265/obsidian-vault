@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Articles/Untitled.md",
+                "file": "1 - Rough Notes/Network Layers and Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Network Layers and Protocols"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -177,9 +178,9 @@
   },
   "active": "4ccf2d9753fe4ba9",
   "lastOpenFiles": [
-    "1 - Rough Notes/Network Layers and Protocols.md",
-    "2 - Source Material/Articles/Untitled.md",
     "1 - Rough Notes/TCP_IP Ports.md",
+    "2 - Source Material/Articles/Recap on Network Layers and Protocols.md",
+    "1 - Rough Notes/Network Layers and Protocols.md",
     "Pasted image 20250703051914.png",
     "2 - Source Material/Articles/Manually create and send raw TCP_IP packets.md",
     "1 - Rough Notes/Port Scanning.md",
