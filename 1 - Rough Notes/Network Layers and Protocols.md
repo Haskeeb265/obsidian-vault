@@ -41,8 +41,12 @@ Tags:
 1. ==(4-bit) Version:== Indicates protocol being used.
 2. ==(4-bit) IHL:== (IP Header Length). This is length of the header in 32 bit words. Minimum is 5 words. Maximum is 15 words. Therefore maximum header length = 32x15 = 480bit or 60 bytes.
 3. ==(8-bit) Type of Service:== Used to quality of service. Also known as Differentiated Services. 
-	- First 6 bits = Differentiated Service Code Point
+	- First 6 bits = Differentiated Service Code Point (DSCP)
+	- Last 2 bits = Explicit Congestion Notification (ECN); Used to notify the receiver incase of a network congestion.
 
+4. ==(16-bit) Total Length:== Indicates total length of the packet in bytes. Maximum packet length  = 65,535 bytes.
+5. ==(16-bit) Identification:== All fragments of the packet have the same Identification number. This allows the receiver to assemble fragmented packets.
+6. ==(3-bit) Flags:== 
 
 
 
