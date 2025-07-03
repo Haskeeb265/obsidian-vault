@@ -3,7 +3,7 @@
 
 Status: #InProgress 
 
-Tags:
+Tags: [[networks]]
 
 # Network Layers and Protocols
 
@@ -49,7 +49,12 @@ Tags:
 6. ==(3-bit) Flags:== First bit is unused. Other 2 bits are DF (Don't Fragment) and MF (More Fragment) bits. DF indicates to the router to not fragment the packet. MF signals that more fragments are about to come. All fragments have MF except for the last one indicating that it's the last fragment.
 7. ==(13-bit) Fragment Offset:== Indicates where in the packet this fragment belongs to. Together with MF, this helps in assembling of packets.
 8. ==(8-bit) Time to Live:== A counter which limits the life of a packet. Each router decreases this. When it hits 0, the router discards the packets and sends an ICMP error.
-9. ==(8-bit) Protocol:== 
+9. ==(8-bit) Protocol:== Indicates "next level protocol" being used in the data portion of the packet.
+10. ==(16-bit) Header Checksum:== Checksum only on the header only. This is to verify the changing values like Time to Live for example.
+11. ==(32-bit Source Address):== Source IP Address
+12. ==(32-bit Destination Address):== Destination IP Address
+13. ==(variable) Options:== Not used commonly. Only used to flexibly configure your packet. It allows control over how your packet is handled.
+14. ==(variable) Data:== Payload of the packet. Data is not part of the header and hence it's not included in the header checksum.
 
 
 
