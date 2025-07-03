@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/TCP_IP Ports.md",
+                "file": "2 - Source Material/Articles/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP_IP Ports"
+              "title": "Untitled"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Started",
+                "query": "tag:#InProgress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -178,9 +177,11 @@
   },
   "active": "4ccf2d9753fe4ba9",
   "lastOpenFiles": [
+    "1 - Rough Notes/Network Layers and Protocols.md",
+    "2 - Source Material/Articles/Untitled.md",
+    "1 - Rough Notes/TCP_IP Ports.md",
     "Pasted image 20250703051914.png",
     "2 - Source Material/Articles/Manually create and send raw TCP_IP packets.md",
-    "1 - Rough Notes/TCP_IP Ports.md",
     "1 - Rough Notes/Port Scanning.md",
     "3 - Main Notes/2025-06-20.md",
     "1 - Rough Notes/Securing Software (CS50 CyberSecurity).md",
@@ -203,7 +204,6 @@
     "3 - Main Notes/Untitled.md",
     "2 - Source Material/Articles/PenTesting Fundamentals (TryHackMe).md",
     "3 - Main Notes/Computer Hardware.md",
-    "2 - Source Material/Articles/What is Computer Hardware.md",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
     "Untitled.canvas",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
