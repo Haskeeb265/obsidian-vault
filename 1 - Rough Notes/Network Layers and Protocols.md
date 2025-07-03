@@ -46,7 +46,7 @@ Tags:
 
 4. ==(16-bit) Total Length:== Indicates total length of the packet in bytes. Maximum packet length  = 65,535 bytes.
 5. ==(16-bit) Identification:== All fragments of the packet have the same Identification number. This allows the receiver to assemble fragmented packets.
-6. ==(3-bit) Flags:== 
+6. ==(3-bit) Flags:== First bit is unused. Other 2 bits are DF (Don't Fragment) and MF (More Fragment) bits. DF indicate
 
 
 
