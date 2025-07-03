@@ -1,7 +1,7 @@
 
 2025-07-03 05:31
 
-Status: #InProgress 
+Status: #Finished 
 
 Tags: [[networks]]
 
@@ -54,8 +54,9 @@ Tags: [[networks]]
 11. ==(32-bit Source Address):== Source IP Address
 12. ==(32-bit Destination Address):== Destination IP Address
 13. ==(variable) Options:== Not used commonly. Only used to flexibly configure your packet. It allows control over how your packet is handled.
-14. ==(variable) Data:== Payload of the packet. Data is not part of the header and hence it's not included in the header checksum.
+14. ==(variable) Data:== Payload of the packet. Data is not part of the header and hence it's not included in the Header Checksum.
 
+______
 
 
 #### References
