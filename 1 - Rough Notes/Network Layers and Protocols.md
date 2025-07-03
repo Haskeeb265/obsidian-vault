@@ -38,8 +38,10 @@ Tags:
 ###### IPv4 Header:
 ![[Pasted image 20250703054836.png]]
 
-1. VERSION: Indicates protocol being used.
-2. IHL: (IP Header Length). This is length of the header in 32 bit words. Minimum is 5 words. Maximum is 15 words.  
+1. ==(4-bit) Version:== Indicates protocol being used.
+2. ==(4-bit) IHL:== (IP Header Length). This is length of the header in 32 bit words. Minimum is 5 words. Maximum is 15 words. Therefore maximum header length = 32x15 = 480bit or 60 bytes.
+3. ==(8-bit) Type of Service:== Used to quality of service. Also known as Differentiated Services. 
+	- First 6 bits = Differentiated Service Code Point
 
 
 
