@@ -29,9 +29,8 @@ Tags:
 ##### Internet Protocol (IP):
 
 - IP delivers packets from host to destination on the basis of IP address in the packet header.
-- It is connectionless
-- 
-
+- It is connectionless; errors like data corruption, packet loss or duplication might occur.
+- Packets of connectionless protocols are 
 
 
 
