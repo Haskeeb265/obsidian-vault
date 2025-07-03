@@ -47,7 +47,9 @@ Tags:
 4. ==(16-bit) Total Length:== Indicates total length of the packet in bytes. Maximum packet length  = 65,535 bytes.
 5. ==(16-bit) Identification:== All fragments of the packet have the same Identification number. This allows the receiver to assemble fragmented packets.
 6. ==(3-bit) Flags:== First bit is unused. Other 2 bits are DF (Don't Fragment) and MF (More Fragment) bits. DF indicates to the router to not fragment the packet. MF signals that more fragments are about to come. All fragments have MF except for the last one indicating that it's the last fragment.
-7. ==(13-bit) Fragment Offset:== Indicates where in the packet this fragment belongs to. Together with 
+7. ==(13-bit) Fragment Offset:== Indicates where in the packet this fragment belongs to. Together with MF, this helps in assembling of packets.
+8. ==(8-bit) Time to Live:== A counter which limits the life of a packet. Each router decreases this. When it hits 0, the router discards the packets and sends an ICMP error.
+9. ==(8-bit) Protocol:== 
 
 
 
