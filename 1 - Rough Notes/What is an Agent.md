@@ -29,7 +29,10 @@ An agent has 2 main parts:
 Most common type of AI model found in Agents are LLMs. They take input as **text** and returns output as **text**.
 Most LLMs are capable of returning text only. However some LLMs have **tools** implemented in them which allows them to return output in forms **other than text (image for example)**
 
+___
 
+- An Agent can perform ANY task we implement via **tools** to complete **actions**
+- 
 
 
 #### References
