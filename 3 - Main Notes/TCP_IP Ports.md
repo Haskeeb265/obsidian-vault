@@ -1,7 +1,7 @@
 
 2025-07-01 21:17
 
-Status: #InProgress
+Status: #Finished 
 
 Tags: [[networks]] [[cybersecurity]]
 
@@ -15,10 +15,5 @@ Tags: [[networks]] [[cybersecurity]]
 	- Other headers
 
  ![[Pasted image 20250703051914.png]]
-
-- 
-
-
-
 #### References
 [[Manually create and send raw TCP_IP packets]]
