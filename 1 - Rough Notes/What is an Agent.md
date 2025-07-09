@@ -19,8 +19,11 @@ An agent has 2 main parts:
 1. The Brain (AI Model)
 2. The Body (Capabilities and Tools)
 
-**Brain**:
-**Body:**
+**Brain**: This is where the Reasoning and Planning happens. The AI model decides which Actions.
+**Body**: This part represents everything the agent is "equipped" to do. It defines the toolset or the environment given to the agent to execute the Actions. The limits of what Actions an agent can do is defined by it's Body.
+
+### The Spectrum of Agency
+
 
 
 
