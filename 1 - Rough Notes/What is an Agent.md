@@ -1,7 +1,7 @@
 
 2025-07-09 05:48
 
-Status: #Started , #InProgress , #Finished 
+Status: #InProgress
 
 Tags: [[AI]] 
 
@@ -13,7 +13,7 @@ Tags: [[AI]]
 **Formally:**
 	 An agent is a system that leverages AI models to interact with it's environment to achieve user-defined objectives. It combines reasoning, planning, and execution of an action to fulfill tasks
 
-
+An agent has
 
 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Are you a man.md",
+                "file": "1 - Rough Notes/What is an Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Are you a man"
+              "title": "What is an Agent"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -193,7 +194,9 @@
   },
   "active": "d21728122cff7522",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-09 06.04.31.excalidraw.md",
     "1 - Rough Notes/What is an Agent.md",
+    "Excalidraw",
     "3 - Main Notes/Are you a man.md",
     "Tags/AI.md",
     "1 - Rough Notes/Rust Data Types.md",
@@ -220,7 +223,6 @@
     "3 - Main Notes/The Worst can Become The Best.md",
     "3 - Main Notes/Variables and Mutability.md",
     "3 - Main Notes/What is Networking.md",
-    "3 - Main Notes/YOUTUBE SHORTS SIDE-HUSTLE.md",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
     "Untitled.canvas",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
@@ -233,7 +235,6 @@
     "2 - Source Material/Others/Introduction to Information Security University Lecture.pdf",
     "2 - Source Material/Others/PERT Analysis, Three-Point Estimate, WBS, Gantt Chart University Lecture.pdf",
     "2 - Source Material/Others/Project Planning, Critical Path, Schedule Compression Techniques University Lecture.pdf",
-    "Images",
-    "2 - Source Material/Others/Introduction to Software Project Management University Lecture.pdf"
+    "Images"
   ]
 }
