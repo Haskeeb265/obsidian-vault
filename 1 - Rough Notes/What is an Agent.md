@@ -25,6 +25,11 @@ An agent has 2 main parts:
 ### The Spectrum of Agency
 ![[Pasted image 20250709061847.png]]
 
+### Type of AI models We Use for Agents
+Most common type of AI model found in Agents are LLMs. They take input as **text** and returns output as **text**.
+Most LLMs are capable of returning text only. However some LLMs have **tools** implemented in them which allows them to return output in forms **other than text (image for example)**
+
+
 
 
 #### References
