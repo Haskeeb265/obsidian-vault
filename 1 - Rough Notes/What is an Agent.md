@@ -23,6 +23,7 @@ An agent has 2 main parts:
 **Body**: This part represents everything the agent is "equipped" to do. It defines the toolset or the environment given to the agent to execute the Actions. The limits of what Actions an agent can do is defined by it's Body.
 
 ### The Spectrum of Agency
+
 ![[Pasted image 20250709061847.png]]
 
 ### Type of AI models We Use for Agents
@@ -33,7 +34,8 @@ ___
 
 - An Agent can perform ANY task we implement via **tools** to complete **actions**
 	- Let's say your want your Agent to send emails automatically whenever you ask it, for that you'll have to provide the Agent with a function(**tool**) which sends emails.
-	- Design of the **tool** is very imp and greatly effects the quality of the agent. Witho
+	- Design of the **tool** is very imp and greatly effects the quality of the agent. Without a variety of provided tools, an agent cannot cater to your needs.
+	- 
 
 
 #### References
