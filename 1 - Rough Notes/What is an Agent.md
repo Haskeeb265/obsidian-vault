@@ -13,7 +13,14 @@ Tags: [[AI]]
 **Formally:**
 	 An agent is a system that leverages AI models to interact with it's environment to achieve user-defined objectives. It combines reasoning, planning, and execution of an action to fulfill tasks
 
-An agent has
+_______
+
+An agent has 2 main parts:
+1. The Brain (AI Model)
+2. The Body (Capabilities and Tools)
+
+**Brain**:
+**Body:**
 
 
 
