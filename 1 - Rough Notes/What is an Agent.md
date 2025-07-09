@@ -33,7 +33,7 @@ ___
 
 - An Agent can perform ANY task we implement via **tools** to complete **actions**
 	- Let's say your want your Agent to send emails automatically whenever you ask it, for that you'll have to provide the Agent with a function(**tool**) which sends emails.
-	- Design of the
+	- Design of the **tool** is very imp and greatly effects the 
 
 
 #### References
