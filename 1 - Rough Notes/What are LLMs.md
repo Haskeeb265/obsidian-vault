@@ -8,7 +8,8 @@ Tags:[[AI]]
 # What are LLMs
 
 - An LLM excels at understanding and generating human language.
-- LLMs are trained on vast amounts of text data allowing them to learn 
+- LLMs are trained on vast amounts of text data allowing them to learn patterns, structure, and even nuance in language (consists of many millions of parameters)
+- Most LLMs nowadays are build on **transformer** architecture based on the **Attention algorithm**. 
 
 
 
