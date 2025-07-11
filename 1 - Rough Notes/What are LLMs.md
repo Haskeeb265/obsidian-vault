@@ -16,7 +16,9 @@ ___
 ### TYPES OF TRANSFORMERS:
 
 1. **Encoders**: Takes input from the user and outputs a dense representation of that text. Dense representation = a vector which is for internal understanding where each number in the vector holds a meaning.
-2. **Decoders**: Generates a new sequence 
+2. **Decoders**: Generates new tokens to complete a sequence. One token at a time.
+3. **Seq2Seq (Encoder-Decoder)**:
+
 
 
 
