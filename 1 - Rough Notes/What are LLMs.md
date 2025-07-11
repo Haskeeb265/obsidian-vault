@@ -28,6 +28,7 @@ ___
 The underlying principle of LLMs is simple yet highly effective:
 	"**Its objective is to predict the next token, given a sequence of previous tokens**"
 
+- LLMs works on **tokens** a token is the unit of information for an LLM
 
 
 
