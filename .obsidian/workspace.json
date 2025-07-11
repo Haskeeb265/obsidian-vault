@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "349e3d58cf5c6b90",
+            "id": "3c4afd7760da0887",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "349e3d58cf5c6b90",
+  "active": "3c4afd7760da0887",
   "lastOpenFiles": [
-    "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/What are LLMs.md",
+    "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/Rust Data Types.md",
     "3 - Main Notes/What is an Agent.md",
     "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",

@@ -13,7 +13,7 @@ Tags:[[AI]]
 
 ___
 
-### TYPES OF TRANSFORMERS:
+### Types of Transformers
 
 1. **Encoders**: Takes input from the user and outputs a dense representation of that text. Dense representation = a vector which is for internal understanding where each number in the vector holds a meaning.
 2. **Decoders**: Generates new tokens to complete a sequence. One token at a time.
@@ -23,7 +23,7 @@ LLMs are typically decoder based.
 
 ___
 
-### PRINCIPLE OF LLMs
+### Principles of LLMs
 
 The underlying principle of LLMs is simple yet highly effective:
 	"**Its objective is to predict the next token, given a sequence of previous tokens**"
@@ -32,6 +32,11 @@ The underlying principle of LLMs is simple yet highly effective:
 - Just like "words" in a language. LLMs language is **Tokens**.\
 
 - Each LLMs have some **special tokens**.
-- LLMs use special tokens to open and close st
+- LLMs use special tokens to open and close the structured components of its generation. (For example to indicate start and end of a sequence or message)
+- One of the examples of special tokens is **EOS**
+
+___
+
+### Understanding Next Token Prediction
 
 #### References
