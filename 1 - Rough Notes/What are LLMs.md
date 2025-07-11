@@ -33,10 +33,24 @@ The underlying principle of LLMs is simple yet highly effective:
 
 - Each LLMs have some **special tokens**.
 - LLMs use special tokens to open and close the structured components of its generation. (For example to indicate start and end of a sequence or message)
-- One of the examples of special tokens is **EOS**
+- One of the examples of special tokens is End of Sequence(**EOS**)
 
 ___
 
 ### Understanding Next Token Prediction
+
+- LLMs are **autoregressive** = Output of one layer is input for next layer.
+- The autoregressive state continues until the model predicts that the next token is the **EOS**. Once the EOS token is predicted, the model can stop.
+
+#### Single Decoding Loop:
+1. The input text is tokenized
+2. Model computes the representation of the sequence 
+3. The representation sequence captures information about the meaning and the position of each token in the input sequence.
+4. Representation goes into the model which then outputs
+
+
+
+
+
 
 #### References
