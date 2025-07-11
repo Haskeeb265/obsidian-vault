@@ -15,7 +15,7 @@ ___
 
 ### TYPES OF TRANSFORMERS:
 
-1. **Encoders**: Takes input from the user and outputs a dense representation of that text. Dense representation = 
+1. **Encoders**: Takes input from the user and outputs a dense representation of that text. Dense representation = a vector which is for internal understanding where each number in the vector holds a meaning.
 
 
 
