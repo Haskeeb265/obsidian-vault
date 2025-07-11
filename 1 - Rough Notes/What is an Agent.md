@@ -1,7 +1,7 @@
 
 2025-07-09 05:48
 
-Status: #InProgress
+Status: #Finished 
 
 Tags: [[AI]] 
 
@@ -35,7 +35,13 @@ ___
 - An Agent can perform ANY task we implement via **tools** to complete **actions**
 	- Let's say your want your Agent to send emails automatically whenever you ask it, for that you'll have to provide the Agent with a function(**tool**) which sends emails.
 	- Design of the **tool** is very imp and greatly effects the quality of the agent. Without a variety of provided tools, an agent cannot cater to your needs.
-	- 
+	- An agent can take advantage of multiple tools to perform your task
+
+In a Nutshell, an Agent is a system that uses AI model as it's core engine to:
+1. Understand Natural Language
+2. Reason and Plan
+3. Interact with its environment
 
 
 #### References
+[[What is an Agent (Hugging Face Course)]]
