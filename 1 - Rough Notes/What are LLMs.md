@@ -30,7 +30,8 @@ The underlying principle of LLMs is simple yet highly effective:
 
 - LLMs works on **tokens** a token is the unit of information for an LLM
 - Just like "words" in a language. LLMs language is **Tokens**.\
-- Each LLMs have some **special tokens**.  
 
+- Each LLMs have some **special tokens**.
+- LLMs use special tokens to open and close st
 
 #### References
