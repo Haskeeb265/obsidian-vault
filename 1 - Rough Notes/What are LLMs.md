@@ -46,7 +46,7 @@ ___
 1. The input text is tokenized
 2. Model computes the representation of the sequence 
 3. The representation sequence captures information about the meaning and the position of each token in the input sequence.
-4. Representation goes into the model which then outputs
+4. Representation goes into the model which then outputs scores that rank the likelihood of each token in it's vocabulary.
 
 
 
