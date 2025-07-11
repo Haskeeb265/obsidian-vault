@@ -11,10 +11,14 @@
             "id": "349e3d58cf5c6b90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/What are LLMs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "What are LLMs"
             }
           }
         ]
@@ -175,7 +179,10 @@
   },
   "active": "349e3d58cf5c6b90",
   "lastOpenFiles": [
-    "1 - Rough Notes/What is an Agent.md",
+    "1 - Rough Notes/Intrusion Detection System.md",
+    "1 - Rough Notes/What are LLMs.md",
+    "1 - Rough Notes/Rust Data Types.md",
+    "3 - Main Notes/What is an Agent.md",
     "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",
     "Tags/connection.md",
     "2 - Source Material/Others/Pasted image 20250709061847.png",
@@ -183,8 +190,6 @@
     "Excalidraw",
     "3 - Main Notes/Are you a man.md",
     "Tags/AI.md",
-    "1 - Rough Notes/Rust Data Types.md",
-    "1 - Rough Notes/Intrusion Detection System.md",
     "3 - Main Notes/Network Layers and Protocols.md",
     "1 - Rough Notes/Bug Bounty.md",
     "3 - Main Notes/Port Scanning.md",
@@ -204,7 +209,6 @@
     "3 - Main Notes/Search Skills (TryHackMe).md",
     "3 - Main Notes/Securing Accounts (Introduction To Cybersecurity EDX).md",
     "3 - Main Notes/Securing Systems (Introduction To CyberSecurity CS50).md",
-    "3 - Main Notes/The Worst can Become The Best.md",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
     "Untitled.canvas",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
