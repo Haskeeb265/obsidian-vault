@@ -17,7 +17,16 @@ ___
 
 1. **Encoders**: Takes input from the user and outputs a dense representation of that text. Dense representation = a vector which is for internal understanding where each number in the vector holds a meaning.
 2. **Decoders**: Generates new tokens to complete a sequence. One token at a time.
-3. **Seq2Seq (Encoder-Decoder)**:
+3. **Seq2Seq (Encoder-Decoder)**: A pipeline which uses Encoder with Decoder. This is used to transform an input sequence into an output sequence
+
+LLMs are typically decoder based.
+
+___
+
+### PRINCIPLE OF LLMs
+
+The underlying principle of LLMs is simple yet highly effective:
+	"**Its objective is to predict the next token, given a sequence of previous tokens**"
 
 
 
