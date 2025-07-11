@@ -11,6 +11,12 @@ Tags:[[AI]]
 - LLMs are trained on vast amounts of text data allowing them to learn patterns, structure, and even nuance in language (consists of many millions of parameters)
 - Most LLMs nowadays are build on **transformer** architecture based on the **Attention algorithm**. 
 
+___
+
+### TYPES OF TRANSFORMERS:
+
+1. **Encoders**: Takes input from the user and outputs a dense representation of that text. Dense representation = 
+
 
 
 
