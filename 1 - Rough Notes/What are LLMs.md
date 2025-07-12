@@ -55,7 +55,10 @@ ___
 
 ### Attention is All You Need:
 
-- One of the key aspects of Transf
+- One of the key aspects of Transformer architecture is **Attention**.
+- In a user prompt, not every word holds the same importance.
+- In the sentence, **The capital of Pakistan is**, **capital** and **Pakistan** holds the most meaning; Subtly indicating towards the context of the original prompt.
+- The process is identifying the most relevant words to produce the next token.
 
 
 
