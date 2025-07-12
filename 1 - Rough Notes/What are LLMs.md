@@ -43,10 +43,19 @@ ___
 - The autoregressive state continues until the model predicts that the next token is the **EOS**. Once the EOS token is predicted, the model can stop.
 
 #### Single Decoding Loop:
+
 1. The input text is tokenized
 2. Model computes the representation of the sequence 
 3. The representation sequence captures information about the meaning and the position of each token in the input sequence.
 4. Representation goes into the model which then outputs scores that rank the likelihood of each token in it's vocabulary.
+5. Based on the scores, we have multiple strategies to select the tokens to complete the sentence
+	1. The easiest strategy is always picking the token with the highest score
+
+___
+
+### Attention is All You Need:
+
+- One of the key aspects of Transf
 
 
 
