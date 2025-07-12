@@ -65,7 +65,8 @@ ___
 
 ### Prompting the LLM:
 
-- 
+- Basically, LLMs predict the next token by looking at all of the input tokens and deciding which of those tokens are most important, our prompts matter very much
+- For better results give a prompt wh
 
 
 
