@@ -76,7 +76,7 @@ ___
 - From unsupervised learning, the model learns the structure of the language and the underlying patterns which allows the model to generate unseen data.
 - Once a model learns to produce unseen data, they can then be fine tuned into a specific use case like code generation or textual conversation.
 
-
+___
 
 
 
