@@ -74,7 +74,7 @@ ___
 
 - LLMs are trained on large datasets of text. This is where they learn to predict the next words in a sequence through self-supervised or masked language modeling objective.
 - From unsupervised learning, the model learns the structure of the language and the underlying patterns which allows the model to generate unseen data.
-- Once a model learns to produce unseen data, they can then be fine tuned into a specific use case like code generation or textual converstaion.
+- Once a model learns to produce unseen data, they can then be fine tuned into a specific use case like code generation or textual conversation.
 
 
 
