@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88c8e29083bff942",
+        "id": "3ec22b139c8ab18a",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4afd7760da0887",
+            "id": "a65e4ecabc4b17cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/What are LLMs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What are LLMs"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -177,13 +172,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3c4afd7760da0887",
+  "active": "a65e4ecabc4b17cb",
   "lastOpenFiles": [
-    "1 - Rough Notes/What are LLMs.md",
+    "Untitled.canvas",
+    "3 - Main Notes/What are LLMs.md",
     "1 - Rough Notes/Intrusion Detection System.md",
+    "2 - Source Material/Articles/What are LLMs (Hugging Face Course).md",
+    "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",
     "1 - Rough Notes/Rust Data Types.md",
     "3 - Main Notes/What is an Agent.md",
-    "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",
     "Tags/connection.md",
     "2 - Source Material/Others/Pasted image 20250709061847.png",
     "Excalidraw/Drawing 2025-07-09 06.04.31.excalidraw.md",
@@ -207,10 +204,7 @@
     "3 - Main Notes/Defensive Security Intro (TryHackMe).md",
     "3 - Main Notes/Legacy of Ibrahim (AS).md",
     "3 - Main Notes/Search Skills (TryHackMe).md",
-    "3 - Main Notes/Securing Accounts (Introduction To Cybersecurity EDX).md",
-    "3 - Main Notes/Securing Systems (Introduction To CyberSecurity CS50).md",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
-    "Untitled.canvas",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled 1.canvas",
