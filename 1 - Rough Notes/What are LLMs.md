@@ -59,7 +59,13 @@ ___
 - In a user prompt, not every word holds the same importance.
 - In the sentence, **The capital of Pakistan is**, **capital** and **Pakistan** holds the most meaning; Subtly indicating towards the context of the original prompt.
 - The process is identifying the most relevant words to produce the next token.
-- One of the features that LLMs are being pushed towards is higher and higher **context length** which would allow the LLMs to 
+- One of the features that LLMs are being pushed towards is higher and higher **context length** which would allow the LLMs to find **attention words** in longer sequences of tokens/words 
+
+___
+
+### Prompting the LLM:
+
+- 
 
 
 
