@@ -11,12 +11,14 @@
             "id": "a65e4ecabc4b17cb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf"
+                "file": "1 - Rough Notes/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -176,6 +178,8 @@
   },
   "active": "a65e4ecabc4b17cb",
   "lastOpenFiles": [
+    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
+    "1 - Rough Notes/Untitled.md",
     "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/Rust Data Types.md",
     "Untitled.canvas",
@@ -205,9 +209,7 @@
     "3 - Main Notes/Computer Hardware.md",
     "3 - Main Notes/Defensive Security Intro (TryHackMe).md",
     "3 - Main Notes/Legacy of Ibrahim (AS).md",
-    "3 - Main Notes/Search Skills (TryHackMe).md",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
-    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled 1.canvas",
     "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
