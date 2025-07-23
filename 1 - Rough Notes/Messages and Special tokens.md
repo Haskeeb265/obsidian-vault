@@ -15,10 +15,12 @@ Tags:[[AI]]
 
 - Chat templates are used to structure and standardize the conversation between a user and ANY AI model.
 - Chat templates define the context and parameters to ensure a smooth continuity of the chat with the user. (How I coded the prompt in my FYP to ensure focus on medical conditions)
-- 
 
+### Messages
 
-
+1. **System Messages:** Also known as "System prompts", these define how a model should behave. Persistent instructions.
+	In context of Agents, System Messages also define the role and the available tools that an agent can use to perform its respective tasks
+2. **Converstion**: These are the messages/prompts that are exchanged between the user and the AI model
 
 #### References
 [[Messages and Special Tokens (Hugging face Course)]]
