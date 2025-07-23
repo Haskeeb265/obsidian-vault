@@ -11,14 +11,12 @@
             "id": "a65e4ecabc4b17cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Rough Notes/Intrusion Detection System.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Intrusion Detection System"
+              "icon": "lucide-file-text",
+              "title": "NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -179,10 +176,10 @@
   },
   "active": "a65e4ecabc4b17cb",
   "lastOpenFiles": [
+    "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/Rust Data Types.md",
     "Untitled.canvas",
     "3 - Main Notes/What are LLMs.md",
-    "1 - Rough Notes/Intrusion Detection System.md",
     "2 - Source Material/Articles/What are LLMs (Hugging Face Course).md",
     "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",
     "3 - Main Notes/What is an Agent.md",
