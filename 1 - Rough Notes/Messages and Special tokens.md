@@ -7,6 +7,8 @@ Tags:[[AI]]
 
 # Messages and Special tokens
 
+- AI models does not "remember" your messages. It rereads everything everytime.
+- 
 
 
 
