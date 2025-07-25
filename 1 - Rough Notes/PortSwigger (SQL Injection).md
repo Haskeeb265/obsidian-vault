@@ -33,6 +33,11 @@ ___
 	3. UNION attacks
 	4. Blind SQL injections (output is not shown on the application interface)
 
+___
+
+### SQL INJECTION EXAMPLES:
+- **Original Query:** SELECT * FROM users WHERE username = "haseeb" AND password = "123";
+- **Modified Query:** SELECT * FROM users WHERE username = "haseeb" -- (This query would let me login to "haseeb" without having to insert any password)
 
 
 
