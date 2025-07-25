@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -179,14 +178,14 @@
   },
   "active": "0f5800ce55750f28",
   "lastOpenFiles": [
+    "1 - Rough Notes/Messages and Special tokens.md",
+    "1 - Rough Notes/PortSwigger (SQL Injection).md",
     "1 - Rough Notes/Rust Data Types.md",
     "2 - Source Material/Articles/SQL Injection (PortSwigger).md",
-    "1 - Rough Notes/PortSwigger (SQL Injection).md",
     "3 - Main Notes/How Social Media Slowly Ruins Society & What You Can Do.md",
     "3 - Main Notes/Untitled 1.md",
     "3 - Main Notes/Untitled.md",
     "1 - Rough Notes/Study with zhk (1).md",
-    "1 - Rough Notes/Messages and Special tokens.md",
     "1 - Rough Notes/Intrusion Detection System.md",
     "2 - Source Material/Articles/Messages and Special Tokens (Hugging face Course).md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",

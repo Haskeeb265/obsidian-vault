@@ -43,7 +43,8 @@ ___
 
 ### BLIND SQL INJECTION:
 
-- Blind SQL injection doesn't return anything in the application. However it can still be used to get access to unauthorized data like  
+- Blind SQL injection doesn't return anything in the application. However it can still be used to get access to unauthorized data like passwords.
+	- You can trigger out-of-band network interaction using OAST techniques. This is very powerful and works when other techniques fail...(But what is it?)
 
 
 
