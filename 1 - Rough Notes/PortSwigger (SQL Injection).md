@@ -36,8 +36,14 @@ ___
 ___
 
 ### SQL INJECTION EXAMPLES:
+
 - **Original Query:** SELECT * FROM users WHERE username = "haseeb" AND password = "123";
-- **Modified Query:** SELECT * FROM users WHERE username = "haseeb" -- (This query would let me login to "haseeb" without having to insert any password)
+- **Modified Query:** SELECT * FROM users WHERE username = "haseeb" -- ==(This query would let me login to "haseeb" without having to insert any password)==
+
+
+### BLIND SQL INJECTION:
+
+- Blind SQL injection doesn't return anything in the application. However it can still be used to get access to unauthorized data like  
 
 
 
