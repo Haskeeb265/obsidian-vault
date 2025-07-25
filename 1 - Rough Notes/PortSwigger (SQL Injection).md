@@ -27,7 +27,11 @@ ___
 	- **INSERT**
 	- **SELECT with ORDER BY**
 
-- There are different types of SQL injections. Some 
+- There are different types of SQL injections:
+	1. Retrieving hidden data
+	2. Altering application logic
+	3. UNION attacks
+	4. Blind SQL injections (output is not shown on the application interface)
 
 
 
