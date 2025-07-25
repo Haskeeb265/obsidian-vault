@@ -27,6 +27,8 @@ ___
 	- **INSERT**
 	- **SELECT with ORDER BY**
 
+- There are different types of SQL injections. Some 
+
 
 
 
