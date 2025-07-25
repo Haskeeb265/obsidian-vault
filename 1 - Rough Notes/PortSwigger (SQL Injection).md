@@ -9,7 +9,13 @@ Tags: [[cybersecurity]]
 
 ### WHAT IS SQL INJECTION:
 
-- SQL injection is a web security vulnerability which allows an attacker to interfere with the queries that a  
+- SQL injection is a web security vulnerability which allows an attacker to interfere with the queries that an application makes to its database.
+- This can allow the user to make persistent changes to the database.
+- A successful SQL injection can possibly lead to access to unauthorized information such as:
+	- Passwords
+	- Credit card details
+	- Personal user information
+- SQL injection can also allow an attacker to create a backdoor which would then allow them to have a persistent dormant access to the application which can go unnoticed and may takes eve YEARS to capture and deal with.
 
 
 
