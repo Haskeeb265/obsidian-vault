@@ -17,6 +17,12 @@ Tags: [[cybersecurity]]
 	- Personal user information
 - SQL injection can also allow an attacker to create a backdoor which would then allow them to have a persistent dormant access to the application which can go unnoticed and may takes eve YEARS to capture and deal with.
 
+___
+
+### DETECTION OF SQL INJECTIONS:
+
+- 
+
 
 
 
