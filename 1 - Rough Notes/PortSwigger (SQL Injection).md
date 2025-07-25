@@ -19,9 +19,13 @@ Tags: [[cybersecurity]]
 
 ___
 
-### DETECTION OF SQL INJECTIONS:
+### WHERE SQL INJECTION IN A QUERY HAPPENS?
 
-- 
+- Most commonly, SQL injection happens in **SELECT** and **WHERE**
+- However, it can also happen in the following:
+	- **UPDATE**
+	- **INSERT**
+	- **SELECT with ORDER BY**
 
 
 
