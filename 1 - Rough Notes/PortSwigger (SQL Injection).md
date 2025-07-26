@@ -46,14 +46,20 @@ ___
 - Blind SQL injection doesn't return anything in the application. However it can still be used to get access to unauthorized data like passwords.
 	- You can trigger out-of-band network interaction using OAST techniques. This is very powerful and works when other techniques fail...(But what is it?)
 
-### SECOND ORDER SQL INJECTIONS:
+### SECOND ORDER SQL INJECTIONS:r
 
 - SQL injections which are not executed immediately and stored in the database,
 - A reaction from an authorized person later triggers these queries/payload.
 
 ___
 
-- It is important to examine the d
+- It is important to examine the database that you're attacking. SQL is implemented similarly throughout multiple databases however there are a few domains where SQL is changed. For example:
+	- String concatenation
+	- Comments
+	- Error messages
+
+- An SQL injection vulnerability is often usefu
+
 
 #### References
 [[SQL Injection (PortSwigger)]]
