@@ -48,7 +48,8 @@ ___
 
 ### SECOND ORDER SQL INJECTIONS:
 
-- 
+- SQL injections which are not executed immediately and stored in the database,
+- A reaction later triggers these queries
 
 #### References
 [[SQL Injection (PortSwigger)]]
