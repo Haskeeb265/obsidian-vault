@@ -58,7 +58,8 @@ ___
 	- Comments
 	- Error messages
 
-- An SQL injection vulnerability is often usefu
+- An SQL injection vulnerability is often useful to find information about the database. The info of database can help you better exploit that vulnerability.
+- It is not always necessary that you will be able to find or exploit straightforward SQL vulnerabilities. In most cases nowadays inputs are stored in the form of XML or JSON. However you can still exploit this by encoding your queries in special characters within those XML/JSON responses.
 
 
 #### References
