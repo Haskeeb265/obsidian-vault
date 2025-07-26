@@ -50,7 +50,10 @@ ___
 
 - SQL injections which are not executed immediately and stored in the database,
 - A reaction from an authorized person later triggers these queries/payload.
-- 
+
+___
+
+- It is important to examine the d
 
 #### References
 [[SQL Injection (PortSwigger)]]
