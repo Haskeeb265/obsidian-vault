@@ -49,7 +49,8 @@ ___
 ### SECOND ORDER SQL INJECTIONS:
 
 - SQL injections which are not executed immediately and stored in the database,
-- A reaction later triggers these queries
+- A reaction from an authorized person later triggers these queries/payload.
+- 
 
 #### References
 [[SQL Injection (PortSwigger)]]
