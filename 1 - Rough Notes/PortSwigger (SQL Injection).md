@@ -15,7 +15,14 @@ Tags: [[cybersecurity]]
 - We can detect SQL injection vulnerabilities by following a set of tests against every entry point into the application.
 - To get started with this we would typically start by submitting:
 	- **'**: If the input is not properly validated, submitting a single **'** would give us an SQL error telling us that we can injection queries
-	- **OR 1=1** or **OR 1=2**: Submitting this would interfere with the logica
+	- **OR 1=1** or **OR 1=2**: Submitting this would interfere with the logic of the SQL. Through these phrases you can tell the database to validate something as "True" which isn't necessarily true.
+	- **Time based Payloads:** We can submit time delay/based SQL queries which basically tells the application to give response in X amount of seconds or minutes. If the response is given in that time then that means that your query was interpreted as an SQL query. If not then there's no vulnerability.
+	- **OAST Payloads:** Special payloads submitted that causes the database to make network requests like DNS or HTTP. If the network request is hit then that means that a vulnerability exists in the application
+
+
+# GLOSSARY:
+1. **OAST:** Out-of-Band Application Security Testing
+
 
 
 #### References
