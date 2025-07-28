@@ -14,7 +14,8 @@ Tags: [[cybersecurity]]
 
 - We can detect SQL injection vulnerabilities by following a set of tests against every entry point into the application.
 - To get started with this we would typically start by submitting:
-	- **'**: 
+	- **'**: If the input is not properly validated, submitting a single **'** would give us an SQL error telling us that we can injection queries
+	- **OR 1=1** or **OR 1=2**: Submitting this would interfere with the logica
 
 
 #### References
