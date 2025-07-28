@@ -1,0 +1,1 @@
+https://portswigger.net/web-security/sql-injection#what-is-sql-injection-sqli

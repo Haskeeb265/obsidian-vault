@@ -43,14 +43,43 @@ ___
 - The autoregressive state continues until the model predicts that the next token is the **EOS**. Once the EOS token is predicted, the model can stop.
 
 #### Single Decoding Loop:
+
 1. The input text is tokenized
 2. Model computes the representation of the sequence 
 3. The representation sequence captures information about the meaning and the position of each token in the input sequence.
 4. Representation goes into the model which then outputs scores that rank the likelihood of each token in it's vocabulary.
+5. Based on the scores, we have multiple strategies to select the tokens to complete the sentence
+	1. The easiest strategy is always picking the token with the highest score
 
+___
 
+### Attention is All You Need:
+
+- One of the key aspects of Transformer architecture is **Attention**.
+- In a user prompt, not every word holds the same importance.
+- In the sentence, **The capital of Pakistan is**, **capital** and **Pakistan** holds the most meaning; Subtly indicating towards the context of the original prompt.
+- The process is identifying the most relevant words to produce the next token.
+- One of the features that LLMs are being pushed towards is higher and higher **context length** which would allow the LLMs to find **attention words** in longer sequences of tokens/words 
+
+___
+
+### Prompting the LLM:
+
+- Basically, LLMs predict the next token by looking at all of the input tokens and deciding which of those tokens are most important, our prompts matter very much
+- For better results give a prompt which guides the LLM towards the desired next token
+
+___
+
+### How LLMs Are Trained:
+
+- LLMs are trained on large datasets of text. This is where they learn to predict the next words in a sequence through self-supervised or masked language modeling objective.
+- From unsupervised learning, the model learns the structure of the language and the underlying patterns which allows the model to generate unseen data.
+- Once a model learns to produce unseen data, they can then be fine tuned into a specific use case like code generation or textual conversation.
+
+___
 
 
 
 
 #### References
+[[What are LLMs (Hugging Face Course)]]

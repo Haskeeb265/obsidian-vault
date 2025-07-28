@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88c8e29083bff942",
+        "id": "e91386f25fce049b",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4afd7760da0887",
+            "id": "0f5800ce55750f28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/What are LLMs.md",
+                "file": "1 - Rough Notes/PortSwigger (SQL Injection).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What are LLMs"
+              "title": "PortSwigger (SQL Injection)"
             }
           }
         ]
@@ -176,13 +176,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3c4afd7760da0887",
+  "active": "0f5800ce55750f28",
   "lastOpenFiles": [
-    "1 - Rough Notes/What are LLMs.md",
-    "1 - Rough Notes/Intrusion Detection System.md",
+    "1 - Rough Notes/Messages and Special tokens.md",
+    "1 - Rough Notes/PortSwigger (SQL Injection).md",
     "1 - Rough Notes/Rust Data Types.md",
-    "3 - Main Notes/What is an Agent.md",
+    "2 - Source Material/Articles/SQL Injection (PortSwigger).md",
+    "3 - Main Notes/How Social Media Slowly Ruins Society & What You Can Do.md",
+    "3 - Main Notes/Untitled 1.md",
+    "3 - Main Notes/Untitled.md",
+    "1 - Rough Notes/Study with zhk (1).md",
+    "1 - Rough Notes/Intrusion Detection System.md",
+    "2 - Source Material/Articles/Messages and Special Tokens (Hugging face Course).md",
+    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
+    "Untitled.canvas",
+    "3 - Main Notes/What are LLMs.md",
+    "2 - Source Material/Articles/What are LLMs (Hugging Face Course).md",
     "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",
+    "3 - Main Notes/What is an Agent.md",
     "Tags/connection.md",
     "2 - Source Material/Others/Pasted image 20250709061847.png",
     "Excalidraw/Drawing 2025-07-09 06.04.31.excalidraw.md",
@@ -197,20 +208,9 @@
     "4 - Journal/Monday, 20th Jan, 2025.md",
     "4 - Journal/Friday, 27th Dec, 2024.md",
     "4 - Journal/Friday, 17th Jan, 2025.md",
-    "4 - Journal/Wednesday, 13th Nov, 2024.md",
     "2 - Source Material/Others/Pasted image 20250703054836.png",
     "2 - Source Material/Others/Pasted image 20250703051914.png",
-    "3 - Main Notes/Coding a Guessing Game Using Rust.md",
-    "3 - Main Notes/Careers in Cybersecurity.md",
-    "3 - Main Notes/Computer Hardware.md",
-    "3 - Main Notes/Defensive Security Intro (TryHackMe).md",
-    "3 - Main Notes/Legacy of Ibrahim (AS).md",
-    "3 - Main Notes/Search Skills (TryHackMe).md",
-    "3 - Main Notes/Securing Accounts (Introduction To Cybersecurity EDX).md",
-    "3 - Main Notes/Securing Systems (Introduction To CyberSecurity CS50).md",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
-    "Untitled.canvas",
-    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled 1.canvas",
     "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
