@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e91386f25fce049b",
+        "id": "88c8e29083bff942",
         "type": "tabs",
         "children": [
           {
-            "id": "0f5800ce55750f28",
+            "id": "3c4afd7760da0887",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -176,24 +177,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f5800ce55750f28",
+  "active": "3c4afd7760da0887",
   "lastOpenFiles": [
-    "1 - Rough Notes/Messages and Special tokens.md",
-    "1 - Rough Notes/PortSwigger (SQL Injection).md",
-    "1 - Rough Notes/Rust Data Types.md",
-    "2 - Source Material/Articles/SQL Injection (PortSwigger).md",
-    "3 - Main Notes/How Social Media Slowly Ruins Society & What You Can Do.md",
-    "3 - Main Notes/Untitled 1.md",
-    "3 - Main Notes/Untitled.md",
-    "1 - Rough Notes/Study with zhk (1).md",
-    "1 - Rough Notes/Intrusion Detection System.md",
-    "2 - Source Material/Articles/Messages and Special Tokens (Hugging face Course).md",
-    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
+    "1 - Rough Notes/What are LLMs.md",
     "Untitled.canvas",
     "3 - Main Notes/What are LLMs.md",
+    "3 - Main Notes/Untitled.md",
+    "3 - Main Notes/Untitled 1.md",
     "2 - Source Material/Articles/What are LLMs (Hugging Face Course).md",
-    "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",
+    "2 - Source Material/Articles/SQL Injection (PortSwigger).md",
+    "2 - Source Material/Articles/Messages and Special Tokens (Hugging face Course).md",
+    "1 - Rough Notes/PortSwigger (SQL Injection).md",
+    "1 - Rough Notes/Messages and Special tokens.md",
+    "1 - Rough Notes/Intrusion Detection System.md",
+    "1 - Rough Notes/Rust Data Types.md",
     "3 - Main Notes/What is an Agent.md",
+    "2 - Source Material/Articles/What is an Agent (Hugging Face Course).md",
     "Tags/connection.md",
     "2 - Source Material/Others/Pasted image 20250709061847.png",
     "Excalidraw/Drawing 2025-07-09 06.04.31.excalidraw.md",
@@ -211,6 +210,7 @@
     "2 - Source Material/Others/Pasted image 20250703054836.png",
     "2 - Source Material/Others/Pasted image 20250703051914.png",
     "2 - Source Material/Others/Pasted image 20250206050135.png",
+    "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Books and PDFs/CyBOK_v1.1.0.pdf",
     "Untitled 1.canvas",
     "2 - Source Material/Others/Big Data Extraction University Lecture.pdf",
