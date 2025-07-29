@@ -26,6 +26,10 @@ Tags: [[cybersecurity]]
 	- In **INSERT** statements
 
 ### COMMON SQL INJECTION EXAMPLES:
+#### Retrieving Hidden Data:
+- In this SQL injection we modify the SQL query to return additional results. This is often done by the **' --** or the **OR 1=1**. We should be careful when using OR 1=1 because sometimes it can be used by the application in different contexts like **UPDATE** or **DELETE** causing accidental data loss.
+#### Subverting Application Logic:
+- 
 
 # GLOSSARY:
 1. **OAST:** Out-of-Band Application Security Testing
