@@ -19,8 +19,13 @@ Tags: [[cybersecurity]]
 	- **Time based Payloads:** We can submit time delay/based SQL queries which basically tells the application to give response in X amount of seconds or minutes. If the response is given in that time then that means that your query was interpreted as an SQL query. If not then there's no vulnerability.
 	- **OAST Payloads:** Special payloads submitted that causes the database to make network requests like DNS or HTTP. If the network request is hit then that means that a vulnerability exists in the application
 
+### WHERE SQL INJECTIONS HAPPEN (IN QUERIES):
+- Most commonly SQL injection happens in the **WHERE** clause of a **SELECT** query.
+- However, it also happens in the following:
+	- In the **UPDATE** statements or the **WHERE** clause of the UPDATE.
+	- In **INSERT** statements
 
-
+### COMMON SQL INJECTION EXAMPLES:
 
 # GLOSSARY:
 1. **OAST:** Out-of-Band Application Security Testing
