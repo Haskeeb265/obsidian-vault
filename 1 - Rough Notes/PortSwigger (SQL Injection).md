@@ -20,6 +20,8 @@ Tags: [[cybersecurity]]
 	- **OAST Payloads:** Special payloads submitted that causes the database to make network requests like DNS or HTTP. If the network request is hit then that means that a vulnerability exists in the application
 
 
+
+
 # GLOSSARY:
 1. **OAST:** Out-of-Band Application Security Testing
 
