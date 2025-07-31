@@ -31,7 +31,15 @@ Tags: [[cybersecurity]]
 #### Subverting Application Logic:
 - Subverting application logic is basically manipulating the query in such a way that it asks for something eg: ==username and password== but you only give it a ==username== by completely bypassing the password field making you login as any user.
 #### Retrieving Data from Other Database Tables:
-- If SQL injection is possible, an attacker can use that to get data from other tables of the database as well
+- If SQL injection is possible, an attacker can use that to get data from other tables of the database as well.
+- This is done by using a **UNION** with your original query and appending another **SELECT** statement to that query.
+- **Original Query:** `SELECT name, description FROM products WHERE category = 'Gifts'
+- ==Modified Query:== `SELECT name, description FROM products WHERE category = 'Gifts'' UNION SELECT username, password FROM users--` (This query would return all of the username and passwords from the user table as well)
+
+___
+
+### SQL INJECTION UNION ATTACKS:
+- You can use **UNION** when the application is vulnerable to SQL injection + it returns the results directly into the application
 
 # GLOSSARY:
 1. **OAST:** Out-of-Band Application Security Testing
