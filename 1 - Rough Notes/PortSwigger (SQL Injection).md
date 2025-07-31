@@ -29,7 +29,9 @@ Tags: [[cybersecurity]]
 #### Retrieving Hidden Data:
 - In this SQL injection we modify the SQL query to return additional results. This is often done by the **' --** or the **OR 1=1**. We should be careful when using OR 1=1 because sometimes it can be used by the application in different contexts like **UPDATE** or **DELETE** causing accidental data loss.
 #### Subverting Application Logic:
-- 
+- Subverting application logic is basically manipulating the query in such a way that it asks for something eg: ==username and password== but you only give it a ==username== by completely bypassing the password field making you login as any user.
+#### Retrieving Data from Other Database Tables:
+- If SQL injection is possible, an attacker can use that to get data from other tables of the database as well
 
 # GLOSSARY:
 1. **OAST:** Out-of-Band Application Security Testing
