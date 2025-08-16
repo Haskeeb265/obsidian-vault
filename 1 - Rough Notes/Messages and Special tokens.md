@@ -20,7 +20,7 @@ Tags:[[AI]]
 
 1. **System Messages:** Also known as "System prompts", these define how a model should behave. Persistent instructions.
 	In context of Agents, System Messages also define the role and the available tools that an agent can use to perform its respective tasks
-2. **Converstion**: These are the messages/prompts that are exchanged between the user and the AI model
+2. **Conversation**: These are the messages/prompts that are exchanged between the user and the AI model
 
 #### References
 [[Messages and Special Tokens (Hugging face Course)]]
