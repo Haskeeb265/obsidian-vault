@@ -25,6 +25,8 @@ LM => Performs an Action
 ReAct enables the model to perform all of the above tasks at the same time
 
 
+- Where reasoning is of primary importance, ReAct allows the model to perform as many corrections as possible and vice versa if action is of more importance.
+- 
 
 
 #### References
