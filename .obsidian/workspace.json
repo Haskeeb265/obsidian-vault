@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b687ba792ba3797",
+        "id": "16a88c4e5a7995a9",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b72d4847d1a764",
+            "id": "db9e93864a2bef5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,11 +176,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27a2f57f4d96c3a2",
+  "active": "db9e93864a2bef5c",
   "lastOpenFiles": [
+    "1 - Rough Notes/ReAct.md",
     "1 - Rough Notes/Language Models Perform Reasoning via Chain of Thought.md",
     "1 - Rough Notes/PortSwigger (SQL Injection).md",
-    "1 - Rough Notes/ReAct.md",
     "2 - Source Material/Articles/Language Models Perform Reasoning via Chain of Thought.md",
     "3 - Main Notes/Untitled 1.base",
     "2 - Source Material/Articles/ReAct Synergizing Reasoning and Acting in Language Models.md",

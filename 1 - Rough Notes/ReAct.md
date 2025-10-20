@@ -16,6 +16,13 @@ Tags: [[AI]]
 - Actions lead to observation feedback
 - Previous models could either do reasoning OR act. ReAct enables models to do both at the same time
 
+#### Flow of ReAct
+LM => Reasons + Corrects reasoning by itself
+LM => Performs an Action 
+								=> Action is given a feedback by an external observation 
+									=> LM improves the the Action in the next runs
+
+ReAct enables the model to perform all of the above tasks at the same time
 
 
 
