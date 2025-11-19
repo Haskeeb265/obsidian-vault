@@ -7,7 +7,11 @@ Tags: [[programming]]
 
 # Async Programming
 
-- Coroutine 
+- **Event Loop**:
+Runs and schedules coroutines.
+Switch tasks and hit await
+Handle callbacks and timeouts and I/O events
+Resume tasks when awaited operation finishes
 
 
 
