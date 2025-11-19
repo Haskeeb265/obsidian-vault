@@ -15,6 +15,8 @@ Resume tasks when awaited operation finishes
 
 Asyncio helps us achieve concurrency. Not parallelism
 
+- **Coroutine**:
+An async function is called a coroutine
 
 
 
