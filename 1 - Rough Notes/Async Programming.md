@@ -20,7 +20,9 @@ Manages all the coroutines
 	- When the await is finished, mark the task as ready again
 	- Repeat
 
-
+Here's how event loop works:
+1. A future is created
+2. The selector tells the event loop to lookout for the future (giving it an FD)
 
 Asyncio helps us achieve concurrency. Not parallelism
 
