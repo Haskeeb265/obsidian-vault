@@ -14,6 +14,14 @@ Handle callbacks and timeouts and I/O events
 Resume tasks when awaited operation finishes
 Manages all the coroutines
 
+	- Event loop first picks a task to run.
+	- The task runs until the event loop encounters the "await" keyword
+	- The event loop pauses the task and registers "what" the task is waiting for
+	- When the await is finished, mark the task as ready again
+	- Repeat
+
+
+
 Asyncio helps us achieve concurrency. Not parallelism
 
 - **Coroutine**:
