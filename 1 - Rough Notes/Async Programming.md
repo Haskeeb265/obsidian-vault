@@ -13,6 +13,10 @@ Switch tasks and hit await
 Handle callbacks and timeouts and I/O events
 Resume tasks when awaited operation finishes
 
+Asyncio helps us achieve concurrency. Not parallelism
+
+
+
 
 
 #### References
