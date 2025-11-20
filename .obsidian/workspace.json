@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Async Programming"
             }
-          },
-          {
-            "id": "f8694986b32516b3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +177,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8694986b32516b3",
+  "active": "db9e93864a2bef5c",
   "lastOpenFiles": [
     "Tags/programming.md",
     "1 - Rough Notes/Async Programming.md",
