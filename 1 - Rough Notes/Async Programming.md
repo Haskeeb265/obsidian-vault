@@ -34,5 +34,6 @@ An async function is called a coroutine
 - Without this, the whole program would crash even if a single coroutine fails
 
 
+- Python is not a multithreaded language
 
 #### References
