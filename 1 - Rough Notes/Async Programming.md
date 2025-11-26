@@ -30,7 +30,8 @@ Asyncio helps us achieve concurrency. Not parallelism
 An async function is called a coroutine
 
 
-- 
+- await asyncio.gather( tasks, return _exceptions_=True) allows the program to continue and not crash even if one of the many coroutines fails.
+- Without this, the whole program would crash even if a single coroutine fails
 
 
 
