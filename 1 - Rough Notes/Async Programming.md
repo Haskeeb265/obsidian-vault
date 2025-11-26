@@ -34,6 +34,6 @@ An async function is called a coroutine
 - Without this, the whole program would crash even if a single coroutine fails
 
 
-- Python is not a multithreaded language
+- Python is not a multithreaded language. You can create multiple threads but ==GIL== only allows 1 thread to execute python bytecode at a time. 
 
 #### References
