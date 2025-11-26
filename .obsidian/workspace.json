@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -177,7 +176,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db9e93864a2bef5c",
+  "active": "a0ab26e9e2ef39eb",
   "lastOpenFiles": [
     "Tags/programming.md",
     "1 - Rough Notes/Async Programming.md",
