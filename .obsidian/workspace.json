@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "16a88c4e5a7995a9",
+        "id": "e070b179936b4e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "db9e93864a2bef5c",
+            "id": "3da7937d78a84c2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Async Programming.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Async Programming"
-            }
-          },
-          {
-            "id": "b6a79aecdd948b3b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +172,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6a79aecdd948b3b",
+  "active": "3da7937d78a84c2b",
   "lastOpenFiles": [
     "1 - Rough Notes/Async Programming.md",
     "Tags/programming.md",
