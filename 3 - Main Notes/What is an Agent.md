@@ -3,7 +3,7 @@
 
 Status: #Finished 
 
-Tags: [[AI]] 
+Tags: [[AI]] [[agents]]
 
 # What is an Agent
 
