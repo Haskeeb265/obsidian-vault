@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c122c07e8d4a8561",
@@ -178,10 +179,10 @@
   },
   "active": "3da7937d78a84c2b",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/Edx CS50 Securing Systems (Introduction To Cybersecurity).md",
-    "2 - Source Material/Videos/Transformers, the tech behind LLMs Deep Learning Chapter 5.md",
     "1 - Rough Notes/Transformers.md",
     "1 - Rough Notes/Langchain.md",
+    "2 - Source Material/Videos/Edx CS50 Securing Systems (Introduction To Cybersecurity).md",
+    "2 - Source Material/Videos/Transformers, the tech behind LLMs Deep Learning Chapter 5.md",
     "3 - Main Notes/What are LLMs.md",
     "3 - Main Notes/What is an Agent.md",
     "3 - Main Notes/Variables and Mutability.md",
