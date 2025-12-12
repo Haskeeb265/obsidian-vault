@@ -46,8 +46,16 @@ Tags: [[AI]] [[agents]]
 	3. Tools
 	4. Tool results
 
-==INPUT PROCESSING = Converts text to structured documents==
-==INPUT PROCESSING = Converts text to structured documents==
+==1. INPUT PROCESSING = Converts text to structured documents==
+
+==2. EMBEDDING AND STORAGE = Convert text into searchable vector representations==
+
+==3. RETRIEVAL = Find relevant information based on user query==
+
+==4. GENERATION = Uses AI models to create responses. Optionally with tools==
+
+==5. ORCHESTRATION = Coordinate everything through agents and memory==
+
 
 
 #### References
