@@ -24,7 +24,19 @@ Tags: [[AI]] [[agents]]
 	- Memory = You can retain entire conversations as well as retain summary of the entire conversation
 	- Agents = Uses the given model to reason as to "which actions to take"
 
-
+### Components of Langchain:
+1. Input processing
+	1. Document loader
+	2. Text splitter
+	3. Documents
+2. Embedding and Storage:
+	1. Vectors
+	2. Vector storage
+3. Retrieval
+	1. User Query
+	2. Embedding models
+	3. Query vector
+	4. Retrivals
 
 
 #### References
