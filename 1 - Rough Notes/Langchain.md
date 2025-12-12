@@ -11,7 +11,11 @@ Tags: [[AI]] [[agents]]
 - Use Langchain when you want to quickly create agents or autonomous apps
 - Use LangGraph if you want a more advanced and deterministic and agentic workflow
 - LangGraph is low-level. Langchain is high-level.
-- 
+- Langchain is open-source orchestration framework for app development consisting of AI
+
+- Langchain consists of:
+	- LLM = any model
+	- Prompts = Prompt template class
 
 
 
