@@ -36,7 +36,18 @@ Tags: [[AI]] [[agents]]
 	1. User Query
 	2. Embedding models
 	3. Query vector
-	4. Retrivals
+	4. Retrievals (from vector storage which gets us relevant context)
+4. Orchestration
+	1. Agents
+	2. Memory
+5. Generation
+	1. LLM
+	2. AI response
+	3. Tools
+	4. Tool results
+
+==INPUT PROCESSING = Converts text to structured documents==
+==INPUT PROCESSING = Converts text to structured documents==
 
 
 #### References
