@@ -15,7 +15,13 @@ Tags: [[AI]] [[agents]]
 
 - Langchain consists of:
 	- LLM = any model
-	- Prompts = Prompt template class
+	- Prompts = Prompt template class for the model
+	- Chains = Core workflow. Combines model with other components
+	- Indexes
+		- Doc Loader = 3rd party services to load/get data like google drive or drop box for example
+		- VectorDB = Vector embeddings
+		- Text Splitters = Split text into small semnticaly meaningful chunks
+	- Memory = You can retain entire conversations as well as retain summary of the entire conversation
 
 
 
