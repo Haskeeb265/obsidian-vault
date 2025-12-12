@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Langchain.md",
+                "file": "1 - Rough Notes/Langchain and LangGraph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Langchain"
+              "title": "Langchain and LangGraph"
             }
           }
         ]
@@ -180,7 +180,7 @@
   "active": "3da7937d78a84c2b",
   "lastOpenFiles": [
     "1 - Rough Notes/Transformers.md",
-    "1 - Rough Notes/Langchain.md",
+    "1 - Rough Notes/Langchain and LangGraph.md",
     "2 - Source Material/Videos/Edx CS50 Securing Systems (Introduction To Cybersecurity).md",
     "2 - Source Material/Videos/Transformers, the tech behind LLMs Deep Learning Chapter 5.md",
     "3 - Main Notes/What are LLMs.md",

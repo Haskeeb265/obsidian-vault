@@ -22,6 +22,7 @@ Tags: [[AI]] [[agents]]
 		- VectorDB = Vector embeddings
 		- Text Splitters = Split text into small semnticaly meaningful chunks
 	- Memory = You can retain entire conversations as well as retain summary of the entire conversation
+	- Agents = Uses the given model to reason as to "which actions to take"
 
 
 
