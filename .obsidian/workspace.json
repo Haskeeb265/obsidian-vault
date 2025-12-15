@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/PortSwigger (SQL Injection).md",
+                "file": "1 - Rough Notes/LangGraph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PortSwigger (SQL Injection)"
+              "title": "LangGraph"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "3da7937d78a84c2b",
   "lastOpenFiles": [
-    "1 - Rough Notes/Intrusion Detection System.md",
     "1 - Rough Notes/PortSwigger (SQL Injection).md",
+    "1 - Rough Notes/LangGraph.md",
+    "1 - Rough Notes/Intrusion Detection System.md",
     "2 - Source Material/Articles/MD5.md",
-    "1 - Rough Notes/Untitled.md",
     "3 - Main Notes/Langchain and LangGraph.md",
     "1 - Rough Notes/Transformers.md",
     "2 - Source Material/Videos/Edx CS50 Securing Systems (Introduction To Cybersecurity).md",
