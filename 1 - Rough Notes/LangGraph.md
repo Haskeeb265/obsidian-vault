@@ -9,6 +9,10 @@ Tags: [[AI]] [[agents]]
 
 - Main focus of langGraph is agent orchestration
 
+- Nodes = Steps
+- Edges = Rules for what happens next
+- State = Memory shared across steps
+
 
 
 
