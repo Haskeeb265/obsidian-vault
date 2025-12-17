@@ -9,7 +9,9 @@ Tags: [[AI]] [[agents]]
 - A design pattern which allows agents/models to improve themselves without the need for fine tuning.
 
 - Consists of 3 LLM based components:
-	1. 
+	1. Actor = Generates an action
+	2. Evaluator = Scores trajectories (thinking, reasoning, actions, final outcome) using Binary Feedback (Yes or no), Scalar feedback (you get a score), heuristic feedback,  
+	3. Self-Reflection Model
 
 
 
