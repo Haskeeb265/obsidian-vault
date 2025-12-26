@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e070b179936b4e3c",
+        "id": "5e55afaab9f2ad7d",
         "type": "tabs",
         "children": [
           {
-            "id": "3da7937d78a84c2b",
+            "id": "2d451cf7bb2d3071",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "4 - Journal/25th, Jan, 2025 Saturday.md",
+                "bFile": "4 - Journal/25th, Jan, 2025 Saturday.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 25th, Jan, 2025 Saturday"
             }
           }
         ]
@@ -172,11 +176,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3da7937d78a84c2b",
+  "active": "2d451cf7bb2d3071",
   "lastOpenFiles": [
+    "1 - Rough Notes/PortSwigger (SQL Injection).md",
+    "4 - Journal/25th, Jan, 2025 Saturday.md",
+    "4 - Journal/Friday, 17th Jan, 2025.md",
+    "4 - Journal/Friday, 27th Dec, 2024.md",
+    "4 - Journal/Monday, 20th Jan, 2025.md",
+    "4 - Journal/Wednesday, 13th Nov, 2024.md",
+    "Tags/connection.md",
+    "Templates/Main Note.md",
     "3 - Main Notes/Reflexion.md",
     "1 - Rough Notes/LangGraph.md",
-    "1 - Rough Notes/PortSwigger (SQL Injection).md",
     "1 - Rough Notes/Intrusion Detection System.md",
     "2 - Source Material/Articles/MD5.md",
     "3 - Main Notes/Langchain and LangGraph.md",
@@ -195,14 +206,7 @@
     "Tags/programming.md",
     "3 - Main Notes/ReAct.md",
     "3 - Main Notes/Language Models Perform Reasoning via Chain of Thought.md",
-    "2 - Source Material/Articles/Recap on Network Layers and Protocols.md",
-    "2 - Source Material/Articles/Language Models Perform Reasoning via Chain of Thought.md",
-    "2 - Source Material/Articles/ReAct Synergizing Reasoning and Acting in Language Models.md",
     "Untitled.canvas",
-    "1 - Rough Notes/Rust Data Types.md",
-    "3 - Main Notes/Messages and Special tokens.md",
-    "2 - Source Material/Articles/SQL Injection (PortSwigger).md",
-    "3 - Main Notes/How Social Media Slowly Ruins Society & What You Can Do.md",
     "2 - Source Material/Books and PDFs/NIST SP 800-031 Intrusion Detection Systems (IDS), 2001-11.pdf",
     "2 - Source Material/Others/Pasted image 20250709061847.png",
     "Excalidraw",
