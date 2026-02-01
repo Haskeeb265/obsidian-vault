@@ -7,7 +7,7 @@ Tags: [[AI]] [[agents]]
 
 # LangGraph
 
-- Main focus of langGraph is agent orchestration
+- Main focus of LangGraph is agent orchestration
 
 - Nodes = Steps
 - Edges = Rules for what happens next
