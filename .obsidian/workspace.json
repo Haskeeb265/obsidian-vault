@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e55afaab9f2ad7d",
+        "id": "c4fbbc55948e9226",
         "type": "tabs",
         "children": [
           {
-            "id": "2d451cf7bb2d3071",
+            "id": "ab85791d764a338d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "4 - Journal/25th, Jan, 2025 Saturday.md",
-                "bFile": "4 - Journal/25th, Jan, 2025 Saturday.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 25th, Jan, 2025 Saturday"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +172,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2d451cf7bb2d3071",
+  "active": "a0ab26e9e2ef39eb",
   "lastOpenFiles": [
     "1 - Rough Notes/PortSwigger (SQL Injection).md",
     "4 - Journal/25th, Jan, 2025 Saturday.md",
