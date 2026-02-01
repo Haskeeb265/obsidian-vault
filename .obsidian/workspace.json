@@ -11,10 +11,14 @@
             "id": "ab85791d764a338d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/LangGraph.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LangGraph"
             }
           }
         ]
@@ -172,7 +176,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a0ab26e9e2ef39eb",
+  "active": "ab85791d764a338d",
   "lastOpenFiles": [
     "1 - Rough Notes/PortSwigger (SQL Injection).md",
     "4 - Journal/25th, Jan, 2025 Saturday.md",
